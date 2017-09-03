@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jekyll Themes</title>
+    <description>A collection of free jekyll themes and templates readily available to download.</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 03 Sep 2017 21:58:03 +0530</pubDate>
+    <lastBuildDate>Sun, 03 Sep 2017 21:58:03 +0530</lastBuildDate>
+    <generator>Jekyll v3.5.1</generator>
+    
+      <item>
+        <title>White Paper</title>
+        <description>
+</description>
+        <pubDate>Sat, 02 Sep 2017 00:00:00 +0530</pubDate>
+        <link>http://localhost:4000/white-paper/</link>
+        <guid isPermaLink="true">http://localhost:4000/white-paper/</guid>
+        
+        
+        <category>minimal</category>
+        
+        <category>typography</category>
+        
+      </item>
+    
+      <item>
+        <title>Starving Artist</title>
+        <description>
+</description>
+        <pubDate>Sat, 02 Sep 2017 00:00:00 +0530</pubDate>
+        <link>http://localhost:4000/starving-artist/</link>
+        <guid isPermaLink="true">http://localhost:4000/starving-artist/</guid>
+        
+        
+        <category>sidebar</category>
+        
+        <category>minimal</category>
+        
+      </item>
+    
+      <item>
+        <title>Identity</title>
+        <description>
+</description>
+        <pubDate>Sat, 02 Sep 2017 00:00:00 +0530</pubDate>
+        <link>http://localhost:4000/identity/</link>
+        <guid isPermaLink="true">http://localhost:4000/identity/</guid>
+        
+        
+        <category>minimal</category>
+        
+        <category>onepage</category>
+        
+        <category>resume</category>
+        
+        <category>portfolio</category>
+        
+      </item>
+    
+      <item>
+        <title>Devjournal</title>
+        <description>
+</description>
+        <pubDate>Sat, 02 Sep 2017 00:00:00 +0530</pubDate>
+        <link>http://localhost:4000/devjournal/</link>
+        <guid isPermaLink="true">http://localhost:4000/devjournal/</guid>
+        
+        
+        <category>dark</category>
+        
+        <category>minimal</category>
+        
+      </item>
+    
+      <item>
+        <title>Book</title>
+        <description>
+</description>
+        <pubDate>Sat, 02 Sep 2017 00:00:00 +0530</pubDate>
+        <link>http://localhost:4000/book/</link>
+        <guid isPermaLink="true">http://localhost:4000/book/</guid>
+        
+        
+        <category>minimal</category>
+        
+        <category>sidebar</category>
+        
+      </item>
+    
+      <item>
+        <title>Timeline</title>
+        <description>
+</description>
+        <pubDate>Fri, 01 Sep 2017 00:00:00 +0530</pubDate>
+        <link>http://localhost:4000/timeline/</link>
+        <guid isPermaLink="true">http://localhost:4000/timeline/</guid>
+        
+        
+        <category>minimal</category>
+        
+        <category>portfolio</category>
+        
+        <category>resume</category>
+        
+      </item>
+    
+      <item>
+        <title>Phantom</title>
+        <description>
+</description>
+        <pubDate>Fri, 01 Sep 2017 00:00:00 +0530</pubDate>
+        <link>http://localhost:4000/phantom/</link>
+        <guid isPermaLink="true">http://localhost:4000/phantom/</guid>
+        
+        
+        <category>minimal</category>
+        
+        <category>sidebar</category>
+        
+      </item>
+    
+      <item>
+        <title>Lens</title>
+        <description>
+</description>
+        <pubDate>Fri, 01 Sep 2017 00:00:00 +0530</pubDate>
+        <link>http://localhost:4000/lens/</link>
+        <guid isPermaLink="true">http://localhost:4000/lens/</guid>
+        
+        
+        <category>minimal</category>
+        
+        <category>sidebar</category>
+        
+        <category>photography</category>
+        
+      </item>
+    
+      <item>
+        <title>Eventually</title>
+        <description>
+</description>
+        <pubDate>Fri, 01 Sep 2017 00:00:00 +0530</pubDate>
+        <link>http://localhost:4000/eventually/</link>
+        <guid isPermaLink="true">http://localhost:4000/eventually/</guid>
+        
+        
+        <category>onepage</category>
+        
+        <category>landing</category>
+        
+        <category>dark</category>
+        
+      </item>
+    
+      <item>
+        <title>Uswds</title>
+        <description>
+</description>
+        <pubDate>Thu, 31 Aug 2017 00:00:00 +0530</pubDate>
+        <link>http://localhost:4000/uswds/</link>
+        <guid isPermaLink="true">http://localhost:4000/uswds/</guid>
+        
+        
+        <category>onepage</category>
+        
+        <category>govenment</category>
+        
+      </item>
+    
+  </channel>
+</rss>
