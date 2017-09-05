@@ -3,10 +3,10 @@
   <channel>
     <title>Jekyll Themes</title>
     <description>A collection of free jekyll themes and templates readily available to download.</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 05 Sep 2017 22:55:23 +0530</pubDate>
-    <lastBuildDate>Tue, 05 Sep 2017 22:55:23 +0530</lastBuildDate>
+    <link>https://jekyll-themes.com/</link>
+    <atom:link href="https://jekyll-themes.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 05 Sep 2017 23:07:15 +0530</pubDate>
+    <lastBuildDate>Tue, 05 Sep 2017 23:07:15 +0530</lastBuildDate>
     <generator>Jekyll v3.5.2</generator>
     
       <item>
@@ -14,8 +14,8 @@
         <description>
 </description>
         <pubDate>Sun, 03 Sep 2017 00:00:00 +0530</pubDate>
-        <link>http://localhost:4000/schrift/</link>
-        <guid isPermaLink="true">http://localhost:4000/schrift/</guid>
+        <link>https://jekyll-themes.com/schrift/</link>
+        <guid isPermaLink="true">https://jekyll-themes.com/schrift/</guid>
         
         
         <category>minimal</category>
@@ -29,8 +29,8 @@
         <description>
 </description>
         <pubDate>Sat, 02 Sep 2017 00:00:00 +0530</pubDate>
-        <link>http://localhost:4000/vue-jekyll/</link>
-        <guid isPermaLink="true">http://localhost:4000/vue-jekyll/</guid>
+        <link>https://jekyll-themes.com/vue-jekyll/</link>
+        <guid isPermaLink="true">https://jekyll-themes.com/vue-jekyll/</guid>
         
         
         <category>minimal</category>
@@ -46,8 +46,8 @@
         <description>
 </description>
         <pubDate>Fri, 01 Sep 2017 00:00:00 +0530</pubDate>
-        <link>http://localhost:4000/wing/</link>
-        <guid isPermaLink="true">http://localhost:4000/wing/</guid>
+        <link>https://jekyll-themes.com/wing/</link>
+        <guid isPermaLink="true">https://jekyll-themes.com/wing/</guid>
         
         
         <category>minimal</category>
@@ -61,8 +61,8 @@
         <description>
 </description>
         <pubDate>Thu, 31 Aug 2017 00:00:00 +0530</pubDate>
-        <link>http://localhost:4000/awesome-app/</link>
-        <guid isPermaLink="true">http://localhost:4000/awesome-app/</guid>
+        <link>https://jekyll-themes.com/awesome-app/</link>
+        <guid isPermaLink="true">https://jekyll-themes.com/awesome-app/</guid>
         
         
         <category>minimal</category>
@@ -78,8 +78,8 @@
         <description>
 </description>
         <pubDate>Wed, 30 Aug 2017 00:00:00 +0530</pubDate>
-        <link>http://localhost:4000/overkyll/</link>
-        <guid isPermaLink="true">http://localhost:4000/overkyll/</guid>
+        <link>https://jekyll-themes.com/overkyll/</link>
+        <guid isPermaLink="true">https://jekyll-themes.com/overkyll/</guid>
         
         
         <category>minimal</category>
@@ -93,8 +93,8 @@
         <description>
 </description>
         <pubDate>Tue, 29 Aug 2017 00:00:00 +0530</pubDate>
-        <link>http://localhost:4000/white-paper/</link>
-        <guid isPermaLink="true">http://localhost:4000/white-paper/</guid>
+        <link>https://jekyll-themes.com/white-paper/</link>
+        <guid isPermaLink="true">https://jekyll-themes.com/white-paper/</guid>
         
         
         <category>minimal</category>
@@ -108,8 +108,8 @@
         <description>
 </description>
         <pubDate>Mon, 28 Aug 2017 00:00:00 +0530</pubDate>
-        <link>http://localhost:4000/starving-artist/</link>
-        <guid isPermaLink="true">http://localhost:4000/starving-artist/</guid>
+        <link>https://jekyll-themes.com/starving-artist/</link>
+        <guid isPermaLink="true">https://jekyll-themes.com/starving-artist/</guid>
         
         
         <category>sidebar</category>
@@ -123,8 +123,8 @@
         <description>
 </description>
         <pubDate>Sun, 27 Aug 2017 00:00:00 +0530</pubDate>
-        <link>http://localhost:4000/identity/</link>
-        <guid isPermaLink="true">http://localhost:4000/identity/</guid>
+        <link>https://jekyll-themes.com/identity/</link>
+        <guid isPermaLink="true">https://jekyll-themes.com/identity/</guid>
         
         
         <category>minimal</category>
@@ -142,8 +142,8 @@
         <description>
 </description>
         <pubDate>Sat, 26 Aug 2017 00:00:00 +0530</pubDate>
-        <link>http://localhost:4000/devjournal/</link>
-        <guid isPermaLink="true">http://localhost:4000/devjournal/</guid>
+        <link>https://jekyll-themes.com/devjournal/</link>
+        <guid isPermaLink="true">https://jekyll-themes.com/devjournal/</guid>
         
         
         <category>dark</category>
@@ -157,8 +157,8 @@
         <description>
 </description>
         <pubDate>Fri, 25 Aug 2017 00:00:00 +0530</pubDate>
-        <link>http://localhost:4000/book/</link>
-        <guid isPermaLink="true">http://localhost:4000/book/</guid>
+        <link>https://jekyll-themes.com/book/</link>
+        <guid isPermaLink="true">https://jekyll-themes.com/book/</guid>
         
         
         <category>minimal</category>
