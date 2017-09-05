@@ -2,6 +2,15 @@
   
     {
       "category" : "minimal, typography",
+      "title"    : "Overkyll",
+      "url"      : "/overkyll/",
+      "image"    : "overkyll.png",
+      "dev"      : "bertrandkeller"
+    } 
+    ,
+  
+    {
+      "category" : "minimal, typography",
       "title"    : "White Paper",
       "url"      : "/white-paper/",
       "image"    : "white-paper.png",
