@@ -5,15 +5,62 @@
     <description>A collection of free jekyll themes and templates readily available to download.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 05 Sep 2017 22:29:44 +0530</pubDate>
-    <lastBuildDate>Tue, 05 Sep 2017 22:29:44 +0530</lastBuildDate>
+    <pubDate>Tue, 05 Sep 2017 22:55:23 +0530</pubDate>
+    <lastBuildDate>Tue, 05 Sep 2017 22:55:23 +0530</lastBuildDate>
     <generator>Jekyll v3.5.2</generator>
+    
+      <item>
+        <title>Schrift</title>
+        <description>
+</description>
+        <pubDate>Sun, 03 Sep 2017 00:00:00 +0530</pubDate>
+        <link>http://localhost:4000/schrift/</link>
+        <guid isPermaLink="true">http://localhost:4000/schrift/</guid>
+        
+        
+        <category>minimal</category>
+        
+        <category>typography</category>
+        
+      </item>
+    
+      <item>
+        <title>Vue Jekyll</title>
+        <description>
+</description>
+        <pubDate>Sat, 02 Sep 2017 00:00:00 +0530</pubDate>
+        <link>http://localhost:4000/vue-jekyll/</link>
+        <guid isPermaLink="true">http://localhost:4000/vue-jekyll/</guid>
+        
+        
+        <category>minimal</category>
+        
+        <category>typography</category>
+        
+        <category>onepage</category>
+        
+      </item>
+    
+      <item>
+        <title>Wing</title>
+        <description>
+</description>
+        <pubDate>Fri, 01 Sep 2017 00:00:00 +0530</pubDate>
+        <link>http://localhost:4000/wing/</link>
+        <guid isPermaLink="true">http://localhost:4000/wing/</guid>
+        
+        
+        <category>minimal</category>
+        
+        <category>cards</category>
+        
+      </item>
     
       <item>
         <title>Awesome App</title>
         <description>
 </description>
-        <pubDate>Fri, 01 Sep 2017 00:00:00 +0530</pubDate>
+        <pubDate>Thu, 31 Aug 2017 00:00:00 +0530</pubDate>
         <link>http://localhost:4000/awesome-app/</link>
         <guid isPermaLink="true">http://localhost:4000/awesome-app/</guid>
         
@@ -117,55 +164,6 @@
         <category>minimal</category>
         
         <category>sidebar</category>
-        
-      </item>
-    
-      <item>
-        <title>Timeline</title>
-        <description>
-</description>
-        <pubDate>Thu, 24 Aug 2017 00:00:00 +0530</pubDate>
-        <link>http://localhost:4000/timeline/</link>
-        <guid isPermaLink="true">http://localhost:4000/timeline/</guid>
-        
-        
-        <category>minimal</category>
-        
-        <category>portfolio</category>
-        
-        <category>resume</category>
-        
-      </item>
-    
-      <item>
-        <title>Phantom</title>
-        <description>
-</description>
-        <pubDate>Wed, 23 Aug 2017 00:00:00 +0530</pubDate>
-        <link>http://localhost:4000/phantom/</link>
-        <guid isPermaLink="true">http://localhost:4000/phantom/</guid>
-        
-        
-        <category>minimal</category>
-        
-        <category>sidebar</category>
-        
-      </item>
-    
-      <item>
-        <title>Lens</title>
-        <description>
-</description>
-        <pubDate>Tue, 22 Aug 2017 00:00:00 +0530</pubDate>
-        <link>http://localhost:4000/lens/</link>
-        <guid isPermaLink="true">http://localhost:4000/lens/</guid>
-        
-        
-        <category>minimal</category>
-        
-        <category>sidebar</category>
-        
-        <category>photography</category>
         
       </item>
     

@@ -2,6 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     
     <url>
+        <loc>http://localhost:4000/schrift/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/vue-jekyll/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/wing/</loc>
+    </url>
+    
+    <url>
         <loc>http://localhost:4000/awesome-app/</loc>
     </url>
     
@@ -886,6 +898,9 @@
     <url>
         <loc>http://localhost:4000/submit/</loc>
     </url>
+    
+    
+    
     
     
     

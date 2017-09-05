@@ -1,6 +1,33 @@
 [
   
     {
+      "category" : "minimal, typography",
+      "title"    : "Schrift",
+      "url"      : "/schrift/",
+      "image"    : "schrift.png",
+      "dev"      : "Nildeala"
+    } 
+    ,
+  
+    {
+      "category" : "minimal, typography, onepage",
+      "title"    : "Vue Jekyll",
+      "url"      : "/vue-jekyll/",
+      "image"    : "vue-jekyll.png",
+      "dev"      : "BryanSchuetz"
+    } 
+    ,
+  
+    {
+      "category" : "minimal, cards",
+      "title"    : "Wing",
+      "url"      : "/wing/",
+      "image"    : "jekyll-wing-template.jpg",
+      "dev"      : "nikrich"
+    } 
+    ,
+  
+    {
       "category" : "minimal, landing, onepage",
       "title"    : "Awesome App",
       "url"      : "/awesome-app/",
