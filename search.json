@@ -181,6 +181,15 @@
     ,
   
     {
+      "category" : "",
+      "title"    : "Ad",
+      "url"      : "/AD/",
+      "image"    : "",
+      "dev"      : "sharu725"
+    } 
+    ,
+  
+    {
       "category" : "sidebar",
       "title"    : "Simple Texture",
       "url"      : "/simple-texture/",
@@ -271,6 +280,15 @@
     ,
   
     {
+      "category" : "",
+      "title"    : "Ad",
+      "url"      : "/AD/",
+      "image"    : "",
+      "dev"      : "sharu725"
+    } 
+    ,
+  
+    {
       "category" : "minimal, dark",
       "title"    : "Dark Side",
       "url"      : "/dark-side/",
@@ -334,123 +352,6 @@
     ,
   
     {
-      "category" : "minimal",
-      "title"    : "Cayman Blog",
-      "url"      : "/cayman-blog/",
-      "image"    : "cayman-blog.png",
-      "dev"      : "lorepirri"
-    } 
-    ,
-  
-    {
-      "category" : "minimal",
-      "title"    : "Soot Spirits",
-      "url"      : "/soot-spirits/",
-      "image"    : "soot-spirits.png",
-      "dev"      : "abhn"
-    } 
-    ,
-  
-    {
-      "category" : "cards",
-      "title"    : "Mekyll",
-      "url"      : "/mekyll/",
-      "image"    : "mekyll.png",
-      "dev"      : "ifedyukin"
-    } 
-    ,
-  
-    {
-      "category" : "minimal, documentaion",
-      "title"    : "Git Wiki",
-      "url"      : "/git-wiki/",
-      "image"    : "git-wiki.png",
-      "dev"      : "drassil"
-    } 
-    ,
-  
-    {
-      "category" : "cards, material",
-      "title"    : "Fresh",
-      "url"      : "/fresh/",
-      "image"    : "fresh.png",
-      "dev"      : "artemsheludko"
-    } 
-    ,
-  
-    {
-      "category" : "dark, onepage",
-      "title"    : "Fullit",
-      "url"      : "/fullit/",
-      "image"    : "fullit.jpg",
-      "dev"      : "antoniotrento"
-    } 
-    ,
-  
-    {
-      "category" : "minimal",
-      "title"    : "Future Imperfect",
-      "url"      : "/blog/",
-      "image"    : "blog.png",
-      "dev"      : "vikapitoshka"
-    } 
-    ,
-  
-    {
-      "category" : "typography, minimal",
-      "title"    : "Ashwath",
-      "url"      : "/ashwath/",
-      "image"    : "ashwath.jpg",
-      "dev"      : "sharu725"
-    } 
-    ,
-  
-    {
-      "category" : "resume, dark",
-      "title"    : "Monday",
-      "url"      : "/monday/",
-      "image"    : "monday.png",
-      "dev"      : "artemsheludko"
-    } 
-    ,
-  
-    {
-      "category" : "minimal, slideshow",
-      "title"    : "Slides",
-      "url"      : "/slides/",
-      "image"    : "slides.png",
-      "dev"      : "sharu725"
-    } 
-    ,
-  
-    {
-      "category" : "minimal, cards",
-      "title"    : "Physalis",
-      "url"      : "/physalis/",
-      "image"    : "physalis.png",
-      "dev"      : "madebyconnor"
-    } 
-    ,
-  
-    {
-      "category" : "minimal, typography",
-      "title"    : "Change",
-      "url"      : "/change/",
-      "image"    : "change.png",
-      "dev"      : "madebyconnor"
-    } 
-    ,
-  
-    {
-      "category" : "material, cards",
-      "title"    : "Awesome Sites",
-      "url"      : "/awesome-sites/",
-      "image"    : "awesomesites.png",
-      "dev"      : "MonkeyAndres"
-    } 
-    ,
-  
-    {
       "category" : "",
       "title"    : "Ad",
       "url"      : "/AD/",
@@ -460,56 +361,11 @@
     ,
   
     {
-      "category" : "onepage",
-      "title"    : "Spring",
-      "url"      : "/spring/",
-      "image"    : "spring.png",
-      "dev"      : "madebyconnor"
-    } 
-    ,
-  
-    {
-      "category" : "minimal, onepage, government",
-      "title"    : "Stately",
-      "url"      : "/stately/",
-      "image"    : "stately.png",
-      "dev"      : "pmarsceill"
-    } 
-    ,
-  
-    {
-      "category" : "minimal, photography",
-      "title"    : "N",
-      "url"      : "/n/",
-      "image"    : "n.jpg",
-      "dev"      : "nobe4"
-    } 
-    ,
-  
-    {
-      "category" : "",
-      "title"    : "Limpid",
-      "url"      : "/limpid/",
-      "image"    : "limpid.png",
-      "dev"      : "pranavrajs"
-    } 
-    ,
-  
-    {
-      "category" : "resume, typography",
-      "title"    : "Academic",
-      "url"      : "/academic/",
-      "image"    : "academic.png",
-      "dev"      : "gaalcaras"
-    } 
-    ,
-  
-    {
       "category" : "minimal",
-      "title"    : "Material",
-      "url"      : "/material/",
-      "image"    : "material.png",
-      "dev"      : "lukas-h"
+      "title"    : "Cayman Blog",
+      "url"      : "/cayman-blog/",
+      "image"    : "cayman-blog.png",
+      "dev"      : "lorepirri"
     } 
     ,
   
@@ -523,11 +379,11 @@
     ,
   
     {
-      "category" : "cards",
-      "title"    : "Materialized",
-      "url"      : "/materialized/",
-      "image"    : "materialized.png",
-      "dev"      : "lpsandaruwan"
+      "category" : "resume, cv",
+      "title"    : "Online Cv",
+      "url"      : "/online-cv/",
+      "image"    : "online-cv.png",
+      "dev"      : "sharu725"
     } 
     ,
   
@@ -550,6 +406,51 @@
     ,
   
     {
+      "category" : "minimal",
+      "title"    : "Soot Spirits",
+      "url"      : "/soot-spirits/",
+      "image"    : "soot-spirits.png",
+      "dev"      : "abhn"
+    } 
+    ,
+  
+    {
+      "category" : "",
+      "title"    : "Mono",
+      "url"      : "/mono/",
+      "image"    : "mono.png",
+      "dev"      : "AkshayAgarwal007"
+    } 
+    ,
+  
+    {
+      "category" : "cards",
+      "title"    : "Mekyll",
+      "url"      : "/mekyll/",
+      "image"    : "mekyll.png",
+      "dev"      : "ifedyukin"
+    } 
+    ,
+  
+    {
+      "category" : "minimal, documentaion",
+      "title"    : "Git Wiki",
+      "url"      : "/git-wiki/",
+      "image"    : "git-wiki.png",
+      "dev"      : "drassil"
+    } 
+    ,
+  
+    {
+      "category" : "",
+      "title"    : "Ad",
+      "url"      : "/AD/",
+      "image"    : "",
+      "dev"      : "sharu725"
+    } 
+    ,
+  
+    {
       "category" : "resume, cv",
       "title"    : "Levytsroman",
       "url"      : "/levytsroman/",
@@ -568,20 +469,20 @@
     ,
   
     {
+      "category" : "onepage, corporate",
+      "title"    : "Dentistsmile",
+      "url"      : "/dentistsmile/",
+      "image"    : "dentistsmile.png",
+      "dev"      : "obaez"
+    } 
+    ,
+  
+    {
       "category" : "",
       "title"    : "Base",
       "url"      : "/base/",
       "image"    : "base.png",
       "dev"      : "CloudCannon"
-    } 
-    ,
-  
-    {
-      "category" : "minimal",
-      "title"    : "Bare Minimum",
-      "url"      : "/bare-minimum/",
-      "image"    : "bare-minimum.png",
-      "dev"      : "sharu725"
     } 
     ,
   
@@ -614,6 +515,15 @@
   
     {
       "category" : "",
+      "title"    : "Ad",
+      "url"      : "/AD/",
+      "image"    : "",
+      "dev"      : "sharu725"
+    } 
+    ,
+  
+    {
+      "category" : "",
       "title"    : "Particle",
       "url"      : "/particle/",
       "image"    : "particle.png",
@@ -627,6 +537,15 @@
       "url"      : "/merlot/",
       "image"    : "merlot.png",
       "dev"      : "pages-themes"
+    } 
+    ,
+  
+    {
+      "category" : "minimal",
+      "title"    : "Long Haul",
+      "url"      : "/long-haul/",
+      "image"    : "long-haul.png",
+      "dev"      : "brianmaierjr"
     } 
     ,
   
@@ -649,6 +568,24 @@
     ,
   
     {
+      "category" : "",
+      "title"    : "Ad",
+      "url"      : "/AD/",
+      "image"    : "",
+      "dev"      : "sharu725"
+    } 
+    ,
+  
+    {
+      "category" : "cards, material",
+      "title"    : "Fresh",
+      "url"      : "/fresh/",
+      "image"    : "fresh.png",
+      "dev"      : "artemsheludko"
+    } 
+    ,
+  
+    {
       "category" : "minimal",
       "title"    : "Hilmi",
       "url"      : "/hilmi/",
@@ -658,20 +595,11 @@
     ,
   
     {
-      "category" : "minimal, dark",
-      "title"    : "Hagura",
-      "url"      : "/hagura/",
-      "image"    : "hagura.png",
-      "dev"      : "sharu725"
-    } 
-    ,
-  
-    {
-      "category" : "onepage",
-      "title"    : "Urban",
-      "url"      : "/urban/",
-      "image"    : "urban.png",
-      "dev"      : "CloudCannon"
+      "category" : "minimal",
+      "title"    : "Daktilo",
+      "url"      : "/daktilo/",
+      "image"    : "daktilo.png",
+      "dev"      : "kronik3r"
     } 
     ,
   
@@ -703,6 +631,15 @@
     ,
   
     {
+      "category" : "onepage",
+      "title"    : "Urban",
+      "url"      : "/urban/",
+      "image"    : "urban.png",
+      "dev"      : "CloudCannon"
+    } 
+    ,
+  
+    {
       "category" : "minimal",
       "title"    : "Slim",
       "url"      : "/slim/",
@@ -730,6 +667,42 @@
     ,
   
     {
+      "category" : "dark, onepage",
+      "title"    : "Fullit",
+      "url"      : "/fullit/",
+      "image"    : "fullit.jpg",
+      "dev"      : "antoniotrento"
+    } 
+    ,
+  
+    {
+      "category" : "minimal",
+      "title"    : "Future Imperfect",
+      "url"      : "/blog/",
+      "image"    : "blog.png",
+      "dev"      : "vikapitoshka"
+    } 
+    ,
+  
+    {
+      "category" : "typography, minimal",
+      "title"    : "Ashwath",
+      "url"      : "/ashwath/",
+      "image"    : "ashwath.jpg",
+      "dev"      : "sharu725"
+    } 
+    ,
+  
+    {
+      "category" : "",
+      "title"    : "Ad",
+      "url"      : "/AD/",
+      "image"    : "",
+      "dev"      : "sharu725"
+    } 
+    ,
+  
+    {
       "category" : "onepage",
       "title"    : "Minimal Mistakes",
       "url"      : "/minimal-mistakes/",
@@ -739,11 +712,29 @@
     ,
   
     {
+      "category" : "typography",
+      "title"    : "Micronaut",
+      "url"      : "/micronaut/",
+      "image"    : "micronaut.png",
+      "dev"      : "TheMicronaut"
+    } 
+    ,
+  
+    {
       "category" : "",
       "title"    : "Mickey",
       "url"      : "/mickey/",
       "image"    : "mickey.png",
       "dev"      : "vincentchan"
+    } 
+    ,
+  
+    {
+      "category" : "resume, dark",
+      "title"    : "Monday",
+      "url"      : "/monday/",
+      "image"    : "monday.png",
+      "dev"      : "artemsheludko"
     } 
     ,
   
@@ -793,11 +784,29 @@
     ,
   
     {
+      "category" : "minimal, slideshow",
+      "title"    : "Slides",
+      "url"      : "/slides/",
+      "image"    : "slides.png",
+      "dev"      : "sharu725"
+    } 
+    ,
+  
+    {
       "category" : "onepage",
       "title"    : "Freelancer",
       "url"      : "/freelancer/",
       "image"    : "freelancer.png",
       "dev"      : "jeromelachaud"
+    } 
+    ,
+  
+    {
+      "category" : "",
+      "title"    : "Lad",
+      "url"      : "/LAD/",
+      "image"    : "",
+      "dev"      : "sharu725"
     } 
     ,
   
@@ -820,11 +829,29 @@
     ,
   
     {
-      "category" : "onepage",
-      "title"    : "Comical",
-      "url"      : "/comical/",
-      "image"    : "comical.png",
-      "dev"      : "chrisanthropic"
+      "category" : "minimal",
+      "title"    : "Crossing",
+      "url"      : "/crossing/",
+      "image"    : "crossing.png",
+      "dev"      : "barepants"
+    } 
+    ,
+  
+    {
+      "category" : "minimal, cards",
+      "title"    : "Physalis",
+      "url"      : "/physalis/",
+      "image"    : "physalis.png",
+      "dev"      : "madebyconnor"
+    } 
+    ,
+  
+    {
+      "category" : "minimal, typography",
+      "title"    : "Change",
+      "url"      : "/change/",
+      "image"    : "change.png",
+      "dev"      : "madebyconnor"
     } 
     ,
   
@@ -838,10 +865,46 @@
     ,
   
     {
+      "category" : "material, cards",
+      "title"    : "Awesome Sites",
+      "url"      : "/awesome-sites/",
+      "image"    : "awesomesites.png",
+      "dev"      : "MonkeyAndres"
+    } 
+    ,
+  
+    {
+      "category" : "",
+      "title"    : "Mad",
+      "url"      : "/MAD/",
+      "image"    : "",
+      "dev"      : "sharu725"
+    } 
+    ,
+  
+    {
       "category" : "minimal",
       "title"    : "Yudish",
       "url"      : "/yudish/",
       "image"    : "yudish.png",
+      "dev"      : "sharu725"
+    } 
+    ,
+  
+    {
+      "category" : "onepage",
+      "title"    : "Spring",
+      "url"      : "/spring/",
+      "image"    : "spring.png",
+      "dev"      : "madebyconnor"
+    } 
+    ,
+  
+    {
+      "category" : "minimal, typography",
+      "title"    : "Vyaasa",
+      "url"      : "/vyaasa/",
+      "image"    : "vyaasa.png",
       "dev"      : "sharu725"
     } 
     ,
@@ -865,6 +928,15 @@
     ,
   
     {
+      "category" : "",
+      "title"    : "Ad",
+      "url"      : "/AD/",
+      "image"    : "",
+      "dev"      : "sharu725"
+    } 
+    ,
+  
+    {
       "category" : "minimal, cooking, food",
       "title"    : "Treat",
       "url"      : "/treat/",
@@ -874,11 +946,65 @@
     ,
   
     {
+      "category" : "minimal, onepage, government",
+      "title"    : "Stately",
+      "url"      : "/stately/",
+      "image"    : "stately.png",
+      "dev"      : "pmarsceill"
+    } 
+    ,
+  
+    {
+      "category" : "minimal, photography",
+      "title"    : "N",
+      "url"      : "/n/",
+      "image"    : "n.jpg",
+      "dev"      : "nobe4"
+    } 
+    ,
+  
+    {
+      "category" : "",
+      "title"    : "Limpid",
+      "url"      : "/limpid/",
+      "image"    : "limpid.png",
+      "dev"      : "pranavrajs"
+    } 
+    ,
+  
+    {
+      "category" : "resume, typography",
+      "title"    : "Academic",
+      "url"      : "/academic/",
+      "image"    : "academic.png",
+      "dev"      : "gaalcaras"
+    } 
+    ,
+  
+    {
+      "category" : "",
+      "title"    : "Tad",
+      "url"      : "/TAD/",
+      "image"    : "",
+      "dev"      : "sharu725"
+    } 
+    ,
+  
+    {
       "category" : "resume, cv, minimal",
       "title"    : "Sustain",
       "url"      : "/sustain/",
       "image"    : "sustain.png",
       "dev"      : "biomadeira"
+    } 
+    ,
+  
+    {
+      "category" : "minimal",
+      "title"    : "Material",
+      "url"      : "/material/",
+      "image"    : "material.png",
+      "dev"      : "lukas-h"
     } 
     ,
   
@@ -928,29 +1054,20 @@
     ,
   
     {
-      "category" : "photography",
-      "title"    : "Photorama",
-      "url"      : "/photorama/",
-      "image"    : "photorama.png",
-      "dev"      : "sunbliss"
+      "category" : "cards",
+      "title"    : "Materialized",
+      "url"      : "/materialized/",
+      "image"    : "materialized.png",
+      "dev"      : "lpsandaruwan"
     } 
     ,
   
     {
-      "category" : "resume, cv",
-      "title"    : "Online Cv",
-      "url"      : "/online-cv/",
-      "image"    : "online-cv.png",
+      "category" : "minimal",
+      "title"    : "Bare Minimum",
+      "url"      : "/bare-minimum/",
+      "image"    : "bare-minimum.png",
       "dev"      : "sharu725"
-    } 
-    ,
-  
-    {
-      "category" : "",
-      "title"    : "Mono",
-      "url"      : "/mono/",
-      "image"    : "mono.png",
-      "dev"      : "AkshayAgarwal007"
     } 
     ,
   
@@ -964,20 +1081,38 @@
     ,
   
     {
-      "category" : "typography",
-      "title"    : "Micronaut",
-      "url"      : "/micronaut/",
-      "image"    : "micronaut.png",
-      "dev"      : "TheMicronaut"
+      "category" : "minimal, dark",
+      "title"    : "Hagura",
+      "url"      : "/hagura/",
+      "image"    : "hagura.png",
+      "dev"      : "sharu725"
     } 
     ,
   
     {
-      "category" : "minimal",
-      "title"    : "Long Haul",
-      "url"      : "/long-haul/",
-      "image"    : "long-haul.png",
-      "dev"      : "brianmaierjr"
+      "category" : "onepage",
+      "title"    : "Comical",
+      "url"      : "/comical/",
+      "image"    : "comical.png",
+      "dev"      : "chrisanthropic"
+    } 
+    ,
+  
+    {
+      "category" : "",
+      "title"    : "Ad",
+      "url"      : "/AD/",
+      "image"    : "",
+      "dev"      : "sharu725"
+    } 
+    ,
+  
+    {
+      "category" : "photography",
+      "title"    : "Photorama",
+      "url"      : "/photorama/",
+      "image"    : "photorama.png",
+      "dev"      : "sunbliss"
     } 
     ,
   
@@ -1045,6 +1180,15 @@
     ,
   
     {
+      "category" : "",
+      "title"    : "Ad",
+      "url"      : "/AD/",
+      "image"    : "",
+      "dev"      : "sharu725"
+    } 
+    ,
+  
+    {
       "category" : "minimal, dark",
       "title"    : "Hacker",
       "url"      : "/hacker/",
@@ -1059,15 +1203,6 @@
       "url"      : "/gravity/",
       "image"    : "gravity.png",
       "dev"      : "hemangsk"
-    } 
-    ,
-  
-    {
-      "category" : "onepage, minimal",
-      "title"    : "Good Clean Read",
-      "url"      : "/good-clean-read/",
-      "image"    : "good-clean-read.png",
-      "dev"      : "adueck"
     } 
     ,
   
@@ -1113,6 +1248,15 @@
       "url"      : "/cayman/",
       "image"    : "cayman.png",
       "dev"      : "pietromenna"
+    } 
+    ,
+  
+    {
+      "category" : "",
+      "title"    : "Ad",
+      "url"      : "/AD/",
+      "image"    : "",
+      "dev"      : "sharu725"
     } 
     ,
   
@@ -1189,6 +1333,15 @@
     ,
   
     {
+      "category" : "",
+      "title"    : "Ad",
+      "url"      : "/AD/",
+      "image"    : "",
+      "dev"      : "sharu725"
+    } 
+    ,
+  
+    {
       "category" : "minimal, sidebar, documentation",
       "title"    : "Minimal",
       "url"      : "/minimal/",
@@ -1207,47 +1360,11 @@
     ,
   
     {
-      "category" : "onepage, corporate",
-      "title"    : "Dentistsmile",
-      "url"      : "/dentistsmile/",
-      "image"    : "dentistsmile.png",
-      "dev"      : "obaez"
-    } 
-    ,
-  
-    {
-      "category" : "minimal",
-      "title"    : "Daktilo",
-      "url"      : "/daktilo/",
-      "image"    : "daktilo.png",
-      "dev"      : "kronik3r"
-    } 
-    ,
-  
-    {
-      "category" : "minimal",
-      "title"    : "Crossing",
-      "url"      : "/crossing/",
-      "image"    : "crossing.png",
-      "dev"      : "barepants"
-    } 
-    ,
-  
-    {
       "category" : "minimal",
       "title"    : "Beautiful Jekyll",
       "url"      : "/beautiful-jekyll/",
       "image"    : "beautiful-jekyll.png",
       "dev"      : "daattali"
-    } 
-    ,
-  
-    {
-      "category" : "minimal, typography",
-      "title"    : "Vyaasa",
-      "url"      : "/vyaasa/",
-      "image"    : "vyaasa.png",
-      "dev"      : "sharu725"
     } 
     ,
   
@@ -1302,6 +1419,15 @@
       "url"      : "/architect/",
       "image"    : "architect.png",
       "dev"      : "pietromenna"
+    } 
+    ,
+  
+    {
+      "category" : "",
+      "title"    : "Ad",
+      "url"      : "/AD/",
+      "image"    : "",
+      "dev"      : "sharu725"
     } 
     ,
   
@@ -1383,6 +1509,15 @@
       "url"      : "/kiko/",
       "image"    : "kiko.png",
       "dev"      : "gfjaru"
+    } 
+    ,
+  
+    {
+      "category" : "",
+      "title"    : "Ad",
+      "url"      : "/AD/",
+      "image"    : "",
+      "dev"      : "sharu725"
     } 
     ,
   

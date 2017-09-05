@@ -5,15 +5,15 @@
     <description>A collection of free jekyll themes and templates readily available to download.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 05 Sep 2017 11:01:35 +0530</pubDate>
-    <lastBuildDate>Tue, 05 Sep 2017 11:01:35 +0530</lastBuildDate>
+    <pubDate>Tue, 05 Sep 2017 12:08:43 +0530</pubDate>
+    <lastBuildDate>Tue, 05 Sep 2017 12:08:43 +0530</lastBuildDate>
     <generator>Jekyll v3.5.2</generator>
     
       <item>
         <title>White Paper</title>
         <description>
 </description>
-        <pubDate>Sat, 02 Sep 2017 00:00:00 +0530</pubDate>
+        <pubDate>Tue, 29 Aug 2017 00:00:00 +0530</pubDate>
         <link>http://localhost:4000/white-paper/</link>
         <guid isPermaLink="true">http://localhost:4000/white-paper/</guid>
         
@@ -28,7 +28,7 @@
         <title>Starving Artist</title>
         <description>
 </description>
-        <pubDate>Sat, 02 Sep 2017 00:00:00 +0530</pubDate>
+        <pubDate>Mon, 28 Aug 2017 00:00:00 +0530</pubDate>
         <link>http://localhost:4000/starving-artist/</link>
         <guid isPermaLink="true">http://localhost:4000/starving-artist/</guid>
         
@@ -43,7 +43,7 @@
         <title>Identity</title>
         <description>
 </description>
-        <pubDate>Sat, 02 Sep 2017 00:00:00 +0530</pubDate>
+        <pubDate>Sun, 27 Aug 2017 00:00:00 +0530</pubDate>
         <link>http://localhost:4000/identity/</link>
         <guid isPermaLink="true">http://localhost:4000/identity/</guid>
         
@@ -62,7 +62,7 @@
         <title>Devjournal</title>
         <description>
 </description>
-        <pubDate>Sat, 02 Sep 2017 00:00:00 +0530</pubDate>
+        <pubDate>Sat, 26 Aug 2017 00:00:00 +0530</pubDate>
         <link>http://localhost:4000/devjournal/</link>
         <guid isPermaLink="true">http://localhost:4000/devjournal/</guid>
         
@@ -77,7 +77,7 @@
         <title>Book</title>
         <description>
 </description>
-        <pubDate>Sat, 02 Sep 2017 00:00:00 +0530</pubDate>
+        <pubDate>Fri, 25 Aug 2017 00:00:00 +0530</pubDate>
         <link>http://localhost:4000/book/</link>
         <guid isPermaLink="true">http://localhost:4000/book/</guid>
         
@@ -92,7 +92,7 @@
         <title>Timeline</title>
         <description>
 </description>
-        <pubDate>Fri, 01 Sep 2017 00:00:00 +0530</pubDate>
+        <pubDate>Thu, 24 Aug 2017 00:00:00 +0530</pubDate>
         <link>http://localhost:4000/timeline/</link>
         <guid isPermaLink="true">http://localhost:4000/timeline/</guid>
         
@@ -109,7 +109,7 @@
         <title>Phantom</title>
         <description>
 </description>
-        <pubDate>Fri, 01 Sep 2017 00:00:00 +0530</pubDate>
+        <pubDate>Wed, 23 Aug 2017 00:00:00 +0530</pubDate>
         <link>http://localhost:4000/phantom/</link>
         <guid isPermaLink="true">http://localhost:4000/phantom/</guid>
         
@@ -124,7 +124,7 @@
         <title>Lens</title>
         <description>
 </description>
-        <pubDate>Fri, 01 Sep 2017 00:00:00 +0530</pubDate>
+        <pubDate>Tue, 22 Aug 2017 00:00:00 +0530</pubDate>
         <link>http://localhost:4000/lens/</link>
         <guid isPermaLink="true">http://localhost:4000/lens/</guid>
         
@@ -141,7 +141,7 @@
         <title>Eventually</title>
         <description>
 </description>
-        <pubDate>Fri, 01 Sep 2017 00:00:00 +0530</pubDate>
+        <pubDate>Mon, 21 Aug 2017 00:00:00 +0530</pubDate>
         <link>http://localhost:4000/eventually/</link>
         <guid isPermaLink="true">http://localhost:4000/eventually/</guid>
         
@@ -158,7 +158,7 @@
         <title>Uswds</title>
         <description>
 </description>
-        <pubDate>Thu, 31 Aug 2017 00:00:00 +0530</pubDate>
+        <pubDate>Sat, 19 Aug 2017 00:00:00 +0530</pubDate>
         <link>http://localhost:4000/uswds/</link>
         <guid isPermaLink="true">http://localhost:4000/uswds/</guid>
         

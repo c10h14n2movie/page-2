@@ -82,6 +82,10 @@
     </url>
     
     <url>
+        <loc>http://localhost:4000/AD/</loc>
+    </url>
+    
+    <url>
         <loc>http://localhost:4000/simple-texture/</loc>
     </url>
     
@@ -122,6 +126,10 @@
     </url>
     
     <url>
+        <loc>http://localhost:4000/AD/</loc>
+    </url>
+    
+    <url>
         <loc>http://localhost:4000/dark-side/</loc>
     </url>
     
@@ -150,83 +158,11 @@
     </url>
     
     <url>
-        <loc>http://localhost:4000/cayman-blog/</loc>
-    </url>
-    
-    <url>
-        <loc>http://localhost:4000/soot-spirits/</loc>
-    </url>
-    
-    <url>
-        <loc>http://localhost:4000/mekyll/</loc>
-    </url>
-    
-    <url>
-        <loc>http://localhost:4000/git-wiki/</loc>
-    </url>
-    
-    <url>
-        <loc>http://localhost:4000/fresh/</loc>
-    </url>
-    
-    <url>
-        <loc>http://localhost:4000/fullit/</loc>
-    </url>
-    
-    <url>
-        <loc>http://localhost:4000/blog/</loc>
-    </url>
-    
-    <url>
-        <loc>http://localhost:4000/ashwath/</loc>
-    </url>
-    
-    <url>
-        <loc>http://localhost:4000/monday/</loc>
-    </url>
-    
-    <url>
-        <loc>http://localhost:4000/slides/</loc>
-    </url>
-    
-    <url>
-        <loc>http://localhost:4000/physalis/</loc>
-    </url>
-    
-    <url>
-        <loc>http://localhost:4000/change/</loc>
-    </url>
-    
-    <url>
-        <loc>http://localhost:4000/awesome-sites/</loc>
-    </url>
-    
-    <url>
         <loc>http://localhost:4000/AD/</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/spring/</loc>
-    </url>
-    
-    <url>
-        <loc>http://localhost:4000/stately/</loc>
-    </url>
-    
-    <url>
-        <loc>http://localhost:4000/n/</loc>
-    </url>
-    
-    <url>
-        <loc>http://localhost:4000/limpid/</loc>
-    </url>
-    
-    <url>
-        <loc>http://localhost:4000/academic/</loc>
-    </url>
-    
-    <url>
-        <loc>http://localhost:4000/material/</loc>
+        <loc>http://localhost:4000/cayman-blog/</loc>
     </url>
     
     <url>
@@ -234,7 +170,7 @@
     </url>
     
     <url>
-        <loc>http://localhost:4000/materialized/</loc>
+        <loc>http://localhost:4000/online-cv/</loc>
     </url>
     
     <url>
@@ -246,6 +182,26 @@
     </url>
     
     <url>
+        <loc>http://localhost:4000/soot-spirits/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/mono/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/mekyll/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/git-wiki/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/AD/</loc>
+    </url>
+    
+    <url>
         <loc>http://localhost:4000/levytsroman/</loc>
     </url>
     
@@ -254,11 +210,11 @@
     </url>
     
     <url>
-        <loc>http://localhost:4000/base/</loc>
+        <loc>http://localhost:4000/dentistsmile/</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/bare-minimum/</loc>
+        <loc>http://localhost:4000/base/</loc>
     </url>
     
     <url>
@@ -274,11 +230,19 @@
     </url>
     
     <url>
+        <loc>http://localhost:4000/AD/</loc>
+    </url>
+    
+    <url>
         <loc>http://localhost:4000/particle/</loc>
     </url>
     
     <url>
         <loc>http://localhost:4000/merlot/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/long-haul/</loc>
     </url>
     
     <url>
@@ -290,15 +254,19 @@
     </url>
     
     <url>
+        <loc>http://localhost:4000/AD/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/fresh/</loc>
+    </url>
+    
+    <url>
         <loc>http://localhost:4000/hilmi/</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/hagura/</loc>
-    </url>
-    
-    <url>
-        <loc>http://localhost:4000/urban/</loc>
+        <loc>http://localhost:4000/daktilo/</loc>
     </url>
     
     <url>
@@ -314,6 +282,10 @@
     </url>
     
     <url>
+        <loc>http://localhost:4000/urban/</loc>
+    </url>
+    
+    <url>
         <loc>http://localhost:4000/slim/</loc>
     </url>
     
@@ -326,11 +298,35 @@
     </url>
     
     <url>
+        <loc>http://localhost:4000/fullit/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/blog/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/ashwath/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/AD/</loc>
+    </url>
+    
+    <url>
         <loc>http://localhost:4000/minimal-mistakes/</loc>
     </url>
     
     <url>
+        <loc>http://localhost:4000/micronaut/</loc>
+    </url>
+    
+    <url>
         <loc>http://localhost:4000/mickey/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/monday/</loc>
     </url>
     
     <url>
@@ -354,7 +350,15 @@
     </url>
     
     <url>
+        <loc>http://localhost:4000/slides/</loc>
+    </url>
+    
+    <url>
         <loc>http://localhost:4000/freelancer/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/LAD/</loc>
     </url>
     
     <url>
@@ -366,7 +370,15 @@
     </url>
     
     <url>
-        <loc>http://localhost:4000/comical/</loc>
+        <loc>http://localhost:4000/crossing/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/physalis/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/change/</loc>
     </url>
     
     <url>
@@ -374,7 +386,23 @@
     </url>
     
     <url>
+        <loc>http://localhost:4000/awesome-sites/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/MAD/</loc>
+    </url>
+    
+    <url>
         <loc>http://localhost:4000/yudish/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/spring/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/vyaasa/</loc>
     </url>
     
     <url>
@@ -386,11 +414,39 @@
     </url>
     
     <url>
+        <loc>http://localhost:4000/AD/</loc>
+    </url>
+    
+    <url>
         <loc>http://localhost:4000/treat/</loc>
     </url>
     
     <url>
+        <loc>http://localhost:4000/stately/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/n/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/limpid/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/academic/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/TAD/</loc>
+    </url>
+    
+    <url>
         <loc>http://localhost:4000/sustain/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/material/</loc>
     </url>
     
     <url>
@@ -414,15 +470,11 @@
     </url>
     
     <url>
-        <loc>http://localhost:4000/photorama/</loc>
+        <loc>http://localhost:4000/materialized/</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/online-cv/</loc>
-    </url>
-    
-    <url>
-        <loc>http://localhost:4000/mono/</loc>
+        <loc>http://localhost:4000/bare-minimum/</loc>
     </url>
     
     <url>
@@ -430,11 +482,19 @@
     </url>
     
     <url>
-        <loc>http://localhost:4000/micronaut/</loc>
+        <loc>http://localhost:4000/hagura/</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/long-haul/</loc>
+        <loc>http://localhost:4000/comical/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/AD/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/photorama/</loc>
     </url>
     
     <url>
@@ -466,15 +526,15 @@
     </url>
     
     <url>
+        <loc>http://localhost:4000/AD/</loc>
+    </url>
+    
+    <url>
         <loc>http://localhost:4000/hacker/</loc>
     </url>
     
     <url>
         <loc>http://localhost:4000/gravity/</loc>
-    </url>
-    
-    <url>
-        <loc>http://localhost:4000/good-clean-read/</loc>
     </url>
     
     <url>
@@ -495,6 +555,10 @@
     
     <url>
         <loc>http://localhost:4000/cayman/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/AD/</loc>
     </url>
     
     <url>
@@ -530,6 +594,10 @@
     </url>
     
     <url>
+        <loc>http://localhost:4000/AD/</loc>
+    </url>
+    
+    <url>
         <loc>http://localhost:4000/minimal/</loc>
     </url>
     
@@ -538,23 +606,7 @@
     </url>
     
     <url>
-        <loc>http://localhost:4000/dentistsmile/</loc>
-    </url>
-    
-    <url>
-        <loc>http://localhost:4000/daktilo/</loc>
-    </url>
-    
-    <url>
-        <loc>http://localhost:4000/crossing/</loc>
-    </url>
-    
-    <url>
         <loc>http://localhost:4000/beautiful-jekyll/</loc>
-    </url>
-    
-    <url>
-        <loc>http://localhost:4000/vyaasa/</loc>
     </url>
     
     <url>
@@ -579,6 +631,10 @@
     
     <url>
         <loc>http://localhost:4000/architect/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/AD/</loc>
     </url>
     
     <url>
@@ -615,6 +671,10 @@
     
     <url>
         <loc>http://localhost:4000/kiko/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/AD/</loc>
     </url>
     
     <url>
@@ -818,6 +878,12 @@
     <url>
         <loc>http://localhost:4000/submit/</loc>
     </url>
+    
+    
+    
+    
+    
+    
     
     
     
