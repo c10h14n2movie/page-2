@@ -1,6 +1,15 @@
 [
   
     {
+      "category" : "minimal, landing, onepage",
+      "title"    : "Awesome App",
+      "url"      : "/awesome-app/",
+      "image"    : "awesome-app-landing-page.jpg",
+      "dev"      : "joshbuchea"
+    } 
+    ,
+  
+    {
       "category" : "minimal, typography",
       "title"    : "Overkyll",
       "url"      : "/overkyll/",
