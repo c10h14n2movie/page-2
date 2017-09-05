@@ -354,15 +354,15 @@
     </url>
     
     <url>
+        <loc>http://localhost:4000/LAD/</loc>
+    </url>
+    
+    <url>
         <loc>http://localhost:4000/slides/</loc>
     </url>
     
     <url>
         <loc>http://localhost:4000/freelancer/</loc>
-    </url>
-    
-    <url>
-        <loc>http://localhost:4000/LAD/</loc>
     </url>
     
     <url>

@@ -793,6 +793,15 @@
     ,
   
     {
+      "category" : "",
+      "title"    : "Lad",
+      "url"      : "/LAD/",
+      "image"    : "",
+      "dev"      : "sharu725"
+    } 
+    ,
+  
+    {
       "category" : "minimal, slideshow",
       "title"    : "Slides",
       "url"      : "/slides/",
@@ -807,15 +816,6 @@
       "url"      : "/freelancer/",
       "image"    : "freelancer.png",
       "dev"      : "jeromelachaud"
-    } 
-    ,
-  
-    {
-      "category" : "",
-      "title"    : "Lad",
-      "url"      : "/LAD/",
-      "image"    : "",
-      "dev"      : "sharu725"
     } 
     ,
   
