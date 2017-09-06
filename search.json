@@ -658,11 +658,11 @@
     ,
   
     {
-      "category" : "onepage",
-      "title"    : "Stellar En",
-      "url"      : "/stellar-en/",
-      "image"    : "stellar-en.png",
-      "dev"      : "auv-iitk"
+      "category" : "onepage, minimal",
+      "title"    : "Alembic",
+      "url"      : "/alembic/",
+      "image"    : "alembic.jpg",
+      "dev"      : "daviddarnes"
     } 
     ,
   
