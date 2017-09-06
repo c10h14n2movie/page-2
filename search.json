@@ -316,20 +316,20 @@
     ,
   
     {
-      "category" : "minimal, typography",
-      "title"    : "Marat",
-      "url"      : "/marat/",
-      "image"    : "marat.png",
-      "dev"      : "JohnCoene"
-    } 
-    ,
-  
-    {
       "category" : "",
       "title"    : "Ad",
       "url"      : "/AD/",
       "image"    : "",
       "dev"      : "sharu725"
+    } 
+    ,
+  
+    {
+      "category" : "minimal, typography",
+      "title"    : "Marat",
+      "url"      : "/marat/",
+      "image"    : "marat.png",
+      "dev"      : "JohnCoene"
     } 
     ,
   
@@ -388,20 +388,20 @@
     ,
   
     {
-      "category" : "minimal",
-      "title"    : "Clean Jekyll",
-      "url"      : "/clean-jekyll/",
-      "image"    : "clean-jekyll-theme.png",
-      "dev"      : "siddhantgoel"
-    } 
-    ,
-  
-    {
       "category" : "",
       "title"    : "Ad",
       "url"      : "/AD/",
       "image"    : "",
       "dev"      : "sharu725"
+    } 
+    ,
+  
+    {
+      "category" : "minimal",
+      "title"    : "Clean Jekyll",
+      "url"      : "/clean-jekyll/",
+      "image"    : "clean-jekyll-theme.png",
+      "dev"      : "siddhantgoel"
     } 
     ,
   
@@ -451,6 +451,15 @@
     ,
   
     {
+      "category" : "",
+      "title"    : "Ad",
+      "url"      : "/AD/",
+      "image"    : "",
+      "dev"      : "sharu725"
+    } 
+    ,
+  
+    {
       "category" : "minimal",
       "title"    : "Soot Spirits",
       "url"      : "/soot-spirits/",
@@ -483,15 +492,6 @@
       "url"      : "/git-wiki/",
       "image"    : "git-wiki.png",
       "dev"      : "drassil"
-    } 
-    ,
-  
-    {
-      "category" : "",
-      "title"    : "Ad",
-      "url"      : "/AD/",
-      "image"    : "",
-      "dev"      : "sharu725"
     } 
     ,
   
@@ -681,6 +681,15 @@
       "url"      : "/urban/",
       "image"    : "urban.png",
       "dev"      : "CloudCannon"
+    } 
+    ,
+  
+    {
+      "category" : "",
+      "title"    : "Ad",
+      "url"      : "/AD/",
+      "image"    : "",
+      "dev"      : "sharu725"
     } 
     ,
   
@@ -1027,15 +1036,6 @@
     ,
   
     {
-      "category" : "",
-      "title"    : "Tad",
-      "url"      : "/TAD/",
-      "image"    : "",
-      "dev"      : "sharu725"
-    } 
-    ,
-  
-    {
       "category" : "resume, cv, minimal",
       "title"    : "Sustain",
       "url"      : "/sustain/",
@@ -1077,6 +1077,15 @@
       "url"      : "/skinny-bones/",
       "image"    : "skinny-bones.png",
       "dev"      : "mmistakes"
+    } 
+    ,
+  
+    {
+      "category" : "",
+      "title"    : "Ad",
+      "url"      : "/AD/",
+      "image"    : "",
+      "dev"      : "sharu725"
     } 
     ,
   
