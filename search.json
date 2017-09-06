@@ -1,6 +1,15 @@
 [
   
     {
+      "category" : "minimal, sidebar",
+      "title"    : "Uno",
+      "url"      : "/uno/",
+      "image"    : "jekyll-uno.jpg",
+      "dev"      : "joshgerdes"
+    } 
+    ,
+  
+    {
       "category" : "minimal, typography",
       "title"    : "Schrift",
       "url"      : "/schrift/",

@@ -5,9 +5,24 @@
     <description>A collection of free jekyll themes and templates readily available to download.</description>
     <link>https://jekyll-themes.com/</link>
     <atom:link href="https://jekyll-themes.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 06 Sep 2017 16:03:37 +0530</pubDate>
-    <lastBuildDate>Wed, 06 Sep 2017 16:03:37 +0530</lastBuildDate>
+    <pubDate>Wed, 06 Sep 2017 16:18:01 +0530</pubDate>
+    <lastBuildDate>Wed, 06 Sep 2017 16:18:01 +0530</lastBuildDate>
     <generator>Jekyll v3.5.2</generator>
+    
+      <item>
+        <title>Uno</title>
+        <description>
+</description>
+        <pubDate>Mon, 04 Sep 2017 00:00:00 +0530</pubDate>
+        <link>https://jekyll-themes.com/uno/</link>
+        <guid isPermaLink="true">https://jekyll-themes.com/uno/</guid>
+        
+        
+        <category>minimal</category>
+        
+        <category>sidebar</category>
+        
+      </item>
     
       <item>
         <title>Schrift</title>
@@ -149,21 +164,6 @@
         <category>dark</category>
         
         <category>minimal</category>
-        
-      </item>
-    
-      <item>
-        <title>Book</title>
-        <description>
-</description>
-        <pubDate>Fri, 25 Aug 2017 00:00:00 +0530</pubDate>
-        <link>https://jekyll-themes.com/book/</link>
-        <guid isPermaLink="true">https://jekyll-themes.com/book/</guid>
-        
-        
-        <category>minimal</category>
-        
-        <category>sidebar</category>
         
       </item>
     
