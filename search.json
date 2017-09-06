@@ -1,6 +1,15 @@
 [
   
     {
+      "category" : "minimal, portfolio",
+      "title"    : "Portfolio",
+      "url"      : "/portfolio/",
+      "image"    : "portfolio-jekyll-theme.jpg",
+      "dev"      : "LeNPaul"
+    } 
+    ,
+  
+    {
       "category" : "minimal, sidebar",
       "title"    : "Uno",
       "url"      : "/uno/",

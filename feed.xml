@@ -5,9 +5,24 @@
     <description>A collection of free jekyll themes and templates readily available to download.</description>
     <link>https://jekyll-themes.com/</link>
     <atom:link href="https://jekyll-themes.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 06 Sep 2017 16:49:39 +0530</pubDate>
-    <lastBuildDate>Wed, 06 Sep 2017 16:49:39 +0530</lastBuildDate>
+    <pubDate>Wed, 06 Sep 2017 19:37:39 +0530</pubDate>
+    <lastBuildDate>Wed, 06 Sep 2017 19:37:39 +0530</lastBuildDate>
     <generator>Jekyll v3.5.2</generator>
+    
+      <item>
+        <title>Portfolio</title>
+        <description>
+</description>
+        <pubDate>Tue, 05 Sep 2017 00:00:00 +0530</pubDate>
+        <link>https://jekyll-themes.com/portfolio/</link>
+        <guid isPermaLink="true">https://jekyll-themes.com/portfolio/</guid>
+        
+        
+        <category>minimal</category>
+        
+        <category>portfolio</category>
+        
+      </item>
     
       <item>
         <title>Uno</title>
@@ -149,21 +164,6 @@
         <category>resume</category>
         
         <category>portfolio</category>
-        
-      </item>
-    
-      <item>
-        <title>Devjournal</title>
-        <description>
-</description>
-        <pubDate>Sat, 26 Aug 2017 00:00:00 +0530</pubDate>
-        <link>https://jekyll-themes.com/devjournal/</link>
-        <guid isPermaLink="true">https://jekyll-themes.com/devjournal/</guid>
-        
-        
-        <category>dark</category>
-        
-        <category>minimal</category>
         
       </item>
     
