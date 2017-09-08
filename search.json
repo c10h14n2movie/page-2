@@ -478,15 +478,6 @@
     ,
   
     {
-      "category" : "",
-      "title"    : "Ad",
-      "url"      : "/AD/",
-      "image"    : "",
-      "dev"      : "sharu725"
-    } 
-    ,
-  
-    {
       "category" : "minimal",
       "title"    : "Soot Spirits",
       "url"      : "/soot-spirits/",
@@ -528,6 +519,15 @@
       "url"      : "/levytsroman/",
       "image"    : "levytsroman.png",
       "dev"      : "LevytsRoman"
+    } 
+    ,
+  
+    {
+      "category" : "",
+      "title"    : "Ad",
+      "url"      : "/AD/",
+      "image"    : "",
+      "dev"      : "sharu725"
     } 
     ,
   
