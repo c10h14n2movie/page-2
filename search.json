@@ -109,7 +109,16 @@
     ,
   
     {
-      "category" : "minimal, portfolio, resume",
+      "category" : "minimal, portfolio",
+      "title"    : "Adam Blog",
+      "url"      : "/adam-blog/",
+      "image"    : "adam-blog.jpg",
+      "dev"      : "artemsheludko"
+    } 
+    ,
+  
+    {
+      "category" : "minimal, portfolio, resume, cards",
       "title"    : "Timeline",
       "url"      : "/timeline/",
       "image"    : "jekyll-timeline.png",
