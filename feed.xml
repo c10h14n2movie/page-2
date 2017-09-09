@@ -5,9 +5,24 @@
     <description>A collection of free jekyll themes and templates readily available to download.</description>
     <link>https://jekyll-themes.com/</link>
     <atom:link href="https://jekyll-themes.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 08 Sep 2017 13:12:06 +0530</pubDate>
-    <lastBuildDate>Fri, 08 Sep 2017 13:12:06 +0530</lastBuildDate>
+    <pubDate>Sat, 09 Sep 2017 21:01:48 +0530</pubDate>
+    <lastBuildDate>Sat, 09 Sep 2017 21:01:48 +0530</lastBuildDate>
     <generator>Jekyll v3.5.2</generator>
+    
+      <item>
+        <title>Fur</title>
+        <description>
+</description>
+        <pubDate>Wed, 06 Sep 2017 00:00:00 +0530</pubDate>
+        <link>https://jekyll-themes.com/fur/</link>
+        <guid isPermaLink="true">https://jekyll-themes.com/fur/</guid>
+        
+        
+        <category>minimal</category>
+        
+        <category>ecommerce</category>
+        
+      </item>
     
       <item>
         <title>Portfolio</title>
@@ -145,25 +160,6 @@
         <category>sidebar</category>
         
         <category>minimal</category>
-        
-      </item>
-    
-      <item>
-        <title>Identity</title>
-        <description>
-</description>
-        <pubDate>Sun, 27 Aug 2017 00:00:00 +0530</pubDate>
-        <link>https://jekyll-themes.com/identity/</link>
-        <guid isPermaLink="true">https://jekyll-themes.com/identity/</guid>
-        
-        
-        <category>minimal</category>
-        
-        <category>onepage</category>
-        
-        <category>resume</category>
-        
-        <category>portfolio</category>
         
       </item>
     

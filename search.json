@@ -1,6 +1,15 @@
 [
   
     {
+      "category" : "minimal, ecommerce",
+      "title"    : "Fur",
+      "url"      : "/fur/",
+      "image"    : "fur-jekyll-template.png",
+      "dev"      : "CloudCannon"
+    } 
+    ,
+  
+    {
       "category" : "minimal, portfolio",
       "title"    : "Portfolio",
       "url"      : "/portfolio/",
