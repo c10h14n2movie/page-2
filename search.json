@@ -91,6 +91,15 @@
     ,
   
     {
+      "category" : "",
+      "title"    : "Ad",
+      "url"      : "/AD/",
+      "image"    : "",
+      "dev"      : "sharu725"
+    } 
+    ,
+  
+    {
       "category" : "minimal, landing, onepage",
       "title"    : "Awesome App",
       "url"      : "/awesome-app/",
@@ -181,6 +190,15 @@
     ,
   
     {
+      "category" : "",
+      "title"    : "Ad",
+      "url"      : "/AD/",
+      "image"    : "",
+      "dev"      : "sharu725"
+    } 
+    ,
+  
+    {
       "category" : "minimal, sidebar, photography",
       "title"    : "Lens",
       "url"      : "/lens/",
@@ -253,6 +271,15 @@
     ,
   
     {
+      "category" : "",
+      "title"    : "Ad",
+      "url"      : "/AD/",
+      "image"    : "",
+      "dev"      : "sharu725"
+    } 
+    ,
+  
+    {
       "category" : "material, cards, sidebar",
       "title"    : "Matjek",
       "url"      : "/matjek/",
@@ -298,15 +325,6 @@
     ,
   
     {
-      "category" : "",
-      "title"    : "Ad",
-      "url"      : "/AD/",
-      "image"    : "",
-      "dev"      : "sharu725"
-    } 
-    ,
-  
-    {
       "category" : "sidebar",
       "title"    : "Simple Texture",
       "url"      : "/simple-texture/",
@@ -339,6 +357,15 @@
       "url"      : "/editorial/",
       "image"    : "editorial-jekyll-theme.png",
       "dev"      : "andrewbanchich"
+    } 
+    ,
+  
+    {
+      "category" : "",
+      "title"    : "Ad",
+      "url"      : "/AD/",
+      "image"    : "",
+      "dev"      : "sharu725"
     } 
     ,
   
@@ -388,15 +415,6 @@
     ,
   
     {
-      "category" : "",
-      "title"    : "Ad",
-      "url"      : "/AD/",
-      "image"    : "",
-      "dev"      : "sharu725"
-    } 
-    ,
-  
-    {
       "category" : "minimal, typography",
       "title"    : "Marat",
       "url"      : "/marat/",
@@ -410,6 +428,15 @@
       "title"    : "Dark Side",
       "url"      : "/dark-side/",
       "image"    : "dark-side.png",
+      "dev"      : "sharu725"
+    } 
+    ,
+  
+    {
+      "category" : "",
+      "title"    : "Ad",
+      "url"      : "/AD/",
+      "image"    : "",
       "dev"      : "sharu725"
     } 
     ,
@@ -460,15 +487,6 @@
     ,
   
     {
-      "category" : "",
-      "title"    : "Ad",
-      "url"      : "/AD/",
-      "image"    : "",
-      "dev"      : "sharu725"
-    } 
-    ,
-  
-    {
       "category" : "minimal",
       "title"    : "Clean Jekyll",
       "url"      : "/clean-jekyll/",
@@ -500,6 +518,15 @@
       "title"    : "Online Cv",
       "url"      : "/online-cv/",
       "image"    : "online-cv.png",
+      "dev"      : "sharu725"
+    } 
+    ,
+  
+    {
+      "category" : "",
+      "title"    : "Ad",
+      "url"      : "/AD/",
+      "image"    : "",
       "dev"      : "sharu725"
     } 
     ,
@@ -568,15 +595,6 @@
     ,
   
     {
-      "category" : "",
-      "title"    : "Ad",
-      "url"      : "/AD/",
-      "image"    : "",
-      "dev"      : "sharu725"
-    } 
-    ,
-  
-    {
       "category" : "resume, cv, minimal",
       "title"    : "Jmcglone",
       "url"      : "/jmcglone/",
@@ -604,6 +622,15 @@
     ,
   
     {
+      "category" : "",
+      "title"    : "Ad",
+      "url"      : "/AD/",
+      "image"    : "",
+      "dev"      : "sharu725"
+    } 
+    ,
+  
+    {
       "category" : "onepage",
       "title"    : "New Age",
       "url"      : "/new-age/",
@@ -627,15 +654,6 @@
       "url"      : "/surgeon-tux/",
       "image"    : "surgeon-tux.png",
       "dev"      : "lpsandaruwan"
-    } 
-    ,
-  
-    {
-      "category" : "",
-      "title"    : "Ad",
-      "url"      : "/AD/",
-      "image"    : "",
-      "dev"      : "sharu725"
     } 
     ,
   
