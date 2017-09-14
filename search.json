@@ -1,6 +1,42 @@
 [
   
     {
+      "category" : "minimal, cards, material",
+      "title"    : "Blaues",
+      "url"      : "/blaues/",
+      "image"    : "blaues-jekyll-theme.png",
+      "dev"      : "outsidev"
+    } 
+    ,
+  
+    {
+      "category" : "minimal, cards",
+      "title"    : "Eston",
+      "url"      : "/eston/",
+      "image"    : "jekyll-theme-eston.jpg",
+      "dev"      : "cute-angelia"
+    } 
+    ,
+  
+    {
+      "category" : "minimal, cards",
+      "title"    : "Handsomely",
+      "url"      : "/handsomely/",
+      "image"    : "handsomely.png",
+      "dev"      : "deeneshchowdhary"
+    } 
+    ,
+  
+    {
+      "category" : "minimal, carousel, slider",
+      "title"    : "Tranquil Theme",
+      "url"      : "/tranquil-theme/",
+      "image"    : "tranquil-theme.jpg",
+      "dev"      : "swang2015"
+    } 
+    ,
+  
+    {
       "category" : "minimal, ecommerce",
       "title"    : "Fur",
       "url"      : "/fur/",

@@ -2,6 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     
     <url>
+        <loc>https://jekyll-themes.com/blaues/</loc>
+    </url>
+    
+    <url>
+        <loc>https://jekyll-themes.com/eston/</loc>
+    </url>
+    
+    <url>
+        <loc>https://jekyll-themes.com/handsomely/</loc>
+    </url>
+    
+    <url>
+        <loc>https://jekyll-themes.com/tranquil-theme/</loc>
+    </url>
+    
+    <url>
         <loc>https://jekyll-themes.com/fur/</loc>
     </url>
     
@@ -918,6 +934,9 @@
     <url>
         <loc>https://jekyll-themes.com/submit/</loc>
     </url>
+    
+    
+    
     
     
     

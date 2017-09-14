@@ -5,9 +5,73 @@
     <description>A collection of free jekyll themes and templates readily available to download.</description>
     <link>https://jekyll-themes.com/</link>
     <atom:link href="https://jekyll-themes.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 13 Sep 2017 20:39:10 +0530</pubDate>
-    <lastBuildDate>Wed, 13 Sep 2017 20:39:10 +0530</lastBuildDate>
+    <pubDate>Thu, 14 Sep 2017 10:32:39 +0530</pubDate>
+    <lastBuildDate>Thu, 14 Sep 2017 10:32:39 +0530</lastBuildDate>
     <generator>Jekyll v3.5.2</generator>
+    
+      <item>
+        <title>Blaues</title>
+        <description>
+</description>
+        <pubDate>Sun, 10 Sep 2017 00:00:00 +0530</pubDate>
+        <link>https://jekyll-themes.com/blaues/</link>
+        <guid isPermaLink="true">https://jekyll-themes.com/blaues/</guid>
+        
+        
+        <category>minimal</category>
+        
+        <category>cards</category>
+        
+        <category>material</category>
+        
+      </item>
+    
+      <item>
+        <title>Eston</title>
+        <description>
+</description>
+        <pubDate>Sat, 09 Sep 2017 00:00:00 +0530</pubDate>
+        <link>https://jekyll-themes.com/eston/</link>
+        <guid isPermaLink="true">https://jekyll-themes.com/eston/</guid>
+        
+        
+        <category>minimal</category>
+        
+        <category>cards</category>
+        
+      </item>
+    
+      <item>
+        <title>Handsomely</title>
+        <description>
+</description>
+        <pubDate>Fri, 08 Sep 2017 00:00:00 +0530</pubDate>
+        <link>https://jekyll-themes.com/handsomely/</link>
+        <guid isPermaLink="true">https://jekyll-themes.com/handsomely/</guid>
+        
+        
+        <category>minimal</category>
+        
+        <category>cards</category>
+        
+      </item>
+    
+      <item>
+        <title>Tranquil Theme</title>
+        <description>
+</description>
+        <pubDate>Thu, 07 Sep 2017 00:00:00 +0530</pubDate>
+        <link>https://jekyll-themes.com/tranquil-theme/</link>
+        <guid isPermaLink="true">https://jekyll-themes.com/tranquil-theme/</guid>
+        
+        
+        <category>minimal</category>
+        
+        <category>carousel</category>
+        
+        <category>slider</category>
+        
+      </item>
     
       <item>
         <title>Fur</title>
@@ -98,68 +162,6 @@
         <category>minimal</category>
         
         <category>cards</category>
-        
-      </item>
-    
-      <item>
-        <title>Awesome App</title>
-        <description>
-</description>
-        <pubDate>Thu, 31 Aug 2017 00:00:00 +0530</pubDate>
-        <link>https://jekyll-themes.com/awesome-app/</link>
-        <guid isPermaLink="true">https://jekyll-themes.com/awesome-app/</guid>
-        
-        
-        <category>minimal</category>
-        
-        <category>landing</category>
-        
-        <category>onepage</category>
-        
-      </item>
-    
-      <item>
-        <title>Overkyll</title>
-        <description>
-</description>
-        <pubDate>Wed, 30 Aug 2017 00:00:00 +0530</pubDate>
-        <link>https://jekyll-themes.com/overkyll/</link>
-        <guid isPermaLink="true">https://jekyll-themes.com/overkyll/</guid>
-        
-        
-        <category>minimal</category>
-        
-        <category>typography</category>
-        
-      </item>
-    
-      <item>
-        <title>White Paper</title>
-        <description>
-</description>
-        <pubDate>Tue, 29 Aug 2017 00:00:00 +0530</pubDate>
-        <link>https://jekyll-themes.com/white-paper/</link>
-        <guid isPermaLink="true">https://jekyll-themes.com/white-paper/</guid>
-        
-        
-        <category>minimal</category>
-        
-        <category>typography</category>
-        
-      </item>
-    
-      <item>
-        <title>Starving Artist</title>
-        <description>
-</description>
-        <pubDate>Mon, 28 Aug 2017 00:00:00 +0530</pubDate>
-        <link>https://jekyll-themes.com/starving-artist/</link>
-        <guid isPermaLink="true">https://jekyll-themes.com/starving-artist/</guid>
-        
-        
-        <category>sidebar</category>
-        
-        <category>minimal</category>
         
       </item>
     
