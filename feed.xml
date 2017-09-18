@@ -5,9 +5,22 @@
     <description>A collection of free jekyll themes and templates readily available to download.</description>
     <link>https://jekyll-themes.com/</link>
     <atom:link href="https://jekyll-themes.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 18 Sep 2017 22:19:18 +0530</pubDate>
-    <lastBuildDate>Mon, 18 Sep 2017 22:19:18 +0530</lastBuildDate>
+    <pubDate>Mon, 18 Sep 2017 22:28:35 +0530</pubDate>
+    <lastBuildDate>Mon, 18 Sep 2017 22:28:35 +0530</lastBuildDate>
     <generator>Jekyll v3.5.2</generator>
+    
+      <item>
+        <title>Minimaless</title>
+        <description>
+</description>
+        <pubDate>Tue, 12 Sep 2017 00:00:00 +0530</pubDate>
+        <link>https://jekyll-themes.com/minimaless/</link>
+        <guid isPermaLink="true">https://jekyll-themes.com/minimaless/</guid>
+        
+        
+        <category>minimal</category>
+        
+      </item>
     
       <item>
         <title>Documentation Next</title>
@@ -147,23 +160,6 @@
         <category>minimal</category>
         
         <category>typography</category>
-        
-      </item>
-    
-      <item>
-        <title>Vue Jekyll</title>
-        <description>
-</description>
-        <pubDate>Sat, 02 Sep 2017 00:00:00 +0530</pubDate>
-        <link>https://jekyll-themes.com/vue-jekyll/</link>
-        <guid isPermaLink="true">https://jekyll-themes.com/vue-jekyll/</guid>
-        
-        
-        <category>minimal</category>
-        
-        <category>typography</category>
-        
-        <category>onepage</category>
         
       </item>
     

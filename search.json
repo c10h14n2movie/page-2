@@ -1,6 +1,15 @@
 [
   
     {
+      "category" : "minimal",
+      "title"    : "Minimaless",
+      "url"      : "/minimaless/",
+      "image"    : "minimaless.png",
+      "dev"      : "brettinternet"
+    } 
+    ,
+  
+    {
       "category" : "minimal, doumentation, sidebar",
       "title"    : "Documentation Next",
       "url"      : "/documentation-next/",
