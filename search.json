@@ -1,6 +1,15 @@
 [
   
     {
+      "category" : "minimal, doumentation, sidebar",
+      "title"    : "Documentation Next",
+      "url"      : "/documentation-next/",
+      "image"    : "documentation-theme-jekyll-next-version.png",
+      "dev"      : "tomjoht"
+    } 
+    ,
+  
+    {
       "category" : "minimal, cards, material",
       "title"    : "Blaues",
       "url"      : "/blaues/",

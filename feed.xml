@@ -5,9 +5,26 @@
     <description>A collection of free jekyll themes and templates readily available to download.</description>
     <link>https://jekyll-themes.com/</link>
     <atom:link href="https://jekyll-themes.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 15 Sep 2017 14:15:40 +0530</pubDate>
-    <lastBuildDate>Fri, 15 Sep 2017 14:15:40 +0530</lastBuildDate>
+    <pubDate>Mon, 18 Sep 2017 22:19:18 +0530</pubDate>
+    <lastBuildDate>Mon, 18 Sep 2017 22:19:18 +0530</lastBuildDate>
     <generator>Jekyll v3.5.2</generator>
+    
+      <item>
+        <title>Documentation Next</title>
+        <description>
+</description>
+        <pubDate>Mon, 11 Sep 2017 00:00:00 +0530</pubDate>
+        <link>https://jekyll-themes.com/documentation-next/</link>
+        <guid isPermaLink="true">https://jekyll-themes.com/documentation-next/</guid>
+        
+        
+        <category>minimal</category>
+        
+        <category>doumentation</category>
+        
+        <category>sidebar</category>
+        
+      </item>
     
       <item>
         <title>Blaues</title>
@@ -147,21 +164,6 @@
         <category>typography</category>
         
         <category>onepage</category>
-        
-      </item>
-    
-      <item>
-        <title>Wing</title>
-        <description>
-</description>
-        <pubDate>Fri, 01 Sep 2017 00:00:00 +0530</pubDate>
-        <link>https://jekyll-themes.com/wing/</link>
-        <guid isPermaLink="true">https://jekyll-themes.com/wing/</guid>
-        
-        
-        <category>minimal</category>
-        
-        <category>cards</category>
         
       </item>
     
