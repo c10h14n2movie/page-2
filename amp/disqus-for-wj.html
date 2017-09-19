@@ -32,8 +32,8 @@ function receiveMessage(event)
         var realUrl = pageUrl.replace('/amp', '');
     var disqus_config = function () {
 
-        this.page.url = realUrl; // Replace PAGE_URL with your page's canonical URL variable
-        this.page.identifier =  realUrl.replace('https://blog.webjeda.com', ''); // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+        this.page.url = realUrl;  // Replace PAGE_URL with your page's canonical URL variable
+        this.page.identifier = realUrl; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
     };
     (function() {  // DON'T EDIT BELOW THIS LINE
         var d = document, s = d.createElement('script');
