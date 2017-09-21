@@ -1,6 +1,42 @@
 [
   
     {
+      "category" : "minimal, dark",
+      "title"    : "Solar",
+      "url"      : "/solar/",
+      "image"    : "solar-theme-jekyll.png",
+      "dev"      : "mattvh"
+    } 
+    ,
+  
+    {
+      "category" : "minimal, slider",
+      "title"    : "Millidocs",
+      "url"      : "/millidocs/",
+      "image"    : "millidocs.png",
+      "dev"      : "alexander-heimbuch"
+    } 
+    ,
+  
+    {
+      "category" : "minimal, slider",
+      "title"    : "Business Casual",
+      "url"      : "/business-casual/",
+      "image"    : "jekyllthemeofbusinesscasual.jpg",
+      "dev"      : "yourfreebies"
+    } 
+    ,
+  
+    {
+      "category" : "minimal, cards, sidebar",
+      "title"    : "Flexible Jekyll",
+      "url"      : "/flexible-jekyll/",
+      "image"    : "flexible-jekyll.jpg",
+      "dev"      : "artemsheludko"
+    } 
+    ,
+  
+    {
       "category" : "minimal",
       "title"    : "Minimaless",
       "url"      : "/minimaless/",

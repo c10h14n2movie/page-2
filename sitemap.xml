@@ -2,6 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     
     <url>
+        <loc>https://jekyll-themes.com/solar/</loc>
+    </url>
+    
+    <url>
+        <loc>https://jekyll-themes.com/millidocs/</loc>
+    </url>
+    
+    <url>
+        <loc>https://jekyll-themes.com/business-casual/</loc>
+    </url>
+    
+    <url>
+        <loc>https://jekyll-themes.com/flexible-jekyll/</loc>
+    </url>
+    
+    <url>
         <loc>https://jekyll-themes.com/minimaless/</loc>
     </url>
     
@@ -1200,6 +1216,9 @@
     <url>
         <loc>https://jekyll-themes.com/online</loc>
     </url>
+    
+    
+    
     
     
     

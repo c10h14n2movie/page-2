@@ -5,9 +5,71 @@
     <description>A collection of free jekyll themes and templates readily available to download.</description>
     <link>https://jekyll-themes.com/</link>
     <atom:link href="https://jekyll-themes.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 21 Sep 2017 14:35:56 +0530</pubDate>
-    <lastBuildDate>Thu, 21 Sep 2017 14:35:56 +0530</lastBuildDate>
+    <pubDate>Thu, 21 Sep 2017 17:39:35 +0530</pubDate>
+    <lastBuildDate>Thu, 21 Sep 2017 17:39:35 +0530</lastBuildDate>
     <generator>Jekyll v3.5.2</generator>
+    
+      <item>
+        <title>Solar</title>
+        <description>
+</description>
+        <pubDate>Sat, 16 Sep 2017 00:00:00 +0530</pubDate>
+        <link>https://jekyll-themes.com/solar/</link>
+        <guid isPermaLink="true">https://jekyll-themes.com/solar/</guid>
+        
+        
+        <category>minimal</category>
+        
+        <category>dark</category>
+        
+      </item>
+    
+      <item>
+        <title>Millidocs</title>
+        <description>
+</description>
+        <pubDate>Fri, 15 Sep 2017 00:00:00 +0530</pubDate>
+        <link>https://jekyll-themes.com/millidocs/</link>
+        <guid isPermaLink="true">https://jekyll-themes.com/millidocs/</guid>
+        
+        
+        <category>minimal</category>
+        
+        <category>slider</category>
+        
+      </item>
+    
+      <item>
+        <title>Business Casual</title>
+        <description>
+</description>
+        <pubDate>Thu, 14 Sep 2017 00:00:00 +0530</pubDate>
+        <link>https://jekyll-themes.com/business-casual/</link>
+        <guid isPermaLink="true">https://jekyll-themes.com/business-casual/</guid>
+        
+        
+        <category>minimal</category>
+        
+        <category>slider</category>
+        
+      </item>
+    
+      <item>
+        <title>Flexible Jekyll</title>
+        <description>
+</description>
+        <pubDate>Wed, 13 Sep 2017 00:00:00 +0530</pubDate>
+        <link>https://jekyll-themes.com/flexible-jekyll/</link>
+        <guid isPermaLink="true">https://jekyll-themes.com/flexible-jekyll/</guid>
+        
+        
+        <category>minimal</category>
+        
+        <category>cards</category>
+        
+        <category>sidebar</category>
+        
+      </item>
     
       <item>
         <title>Minimaless</title>
@@ -100,66 +162,6 @@
         <category>carousel</category>
         
         <category>slider</category>
-        
-      </item>
-    
-      <item>
-        <title>Fur</title>
-        <description>
-</description>
-        <pubDate>Wed, 06 Sep 2017 00:00:00 +0530</pubDate>
-        <link>https://jekyll-themes.com/fur/</link>
-        <guid isPermaLink="true">https://jekyll-themes.com/fur/</guid>
-        
-        
-        <category>minimal</category>
-        
-        <category>ecommerce</category>
-        
-      </item>
-    
-      <item>
-        <title>Portfolio</title>
-        <description>
-</description>
-        <pubDate>Tue, 05 Sep 2017 00:00:00 +0530</pubDate>
-        <link>https://jekyll-themes.com/portfolio/</link>
-        <guid isPermaLink="true">https://jekyll-themes.com/portfolio/</guid>
-        
-        
-        <category>minimal</category>
-        
-        <category>portfolio</category>
-        
-      </item>
-    
-      <item>
-        <title>Uno</title>
-        <description>
-</description>
-        <pubDate>Mon, 04 Sep 2017 00:00:00 +0530</pubDate>
-        <link>https://jekyll-themes.com/uno/</link>
-        <guid isPermaLink="true">https://jekyll-themes.com/uno/</guid>
-        
-        
-        <category>minimal</category>
-        
-        <category>sidebar</category>
-        
-      </item>
-    
-      <item>
-        <title>Schrift</title>
-        <description>
-</description>
-        <pubDate>Sun, 03 Sep 2017 00:00:00 +0530</pubDate>
-        <link>https://jekyll-themes.com/schrift/</link>
-        <guid isPermaLink="true">https://jekyll-themes.com/schrift/</guid>
-        
-        
-        <category>minimal</category>
-        
-        <category>typography</category>
         
       </item>
     
