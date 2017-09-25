@@ -1468,15 +1468,6 @@
     ,
   
     {
-      "category" : "minimal, documentation, light",
-      "title"    : "Basic",
-      "url"      : "/basic/",
-      "image"    : "basic.png",
-      "dev"      : "getmicah"
-    } 
-    ,
-  
-    {
       "category" : "minimal, typography",
       "title"    : "Accent",
       "url"      : "/accent/",
