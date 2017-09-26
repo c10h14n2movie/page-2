@@ -1629,8 +1629,8 @@
     
     {
       "category" : "documentation",
-      "title"    : "Jekyll Doc",
-      "url"      : "/jekyll-doc/",
+      "title"    : "Jekyll Documentation",
+      "url"      : "/jekyll-documentation/",
       "image"    : "documentation-theme-jekyll.png",
       "dev"      : "tomjohnson1492"
     } 
