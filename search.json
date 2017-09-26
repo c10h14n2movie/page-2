@@ -1,5 +1,6 @@
 [
   
+    
     {
       "category" : "minimal, dark",
       "title"    : "Solar",
@@ -7,8 +8,11 @@
       "image"    : "solar-theme-jekyll.png",
       "dev"      : "mattvh"
     } 
+
     ,
+    
   
+    
     {
       "category" : "minimal, slider",
       "title"    : "Millidocs",
@@ -16,8 +20,11 @@
       "image"    : "millidocs.png",
       "dev"      : "alexander-heimbuch"
     } 
+
     ,
+    
   
+    
     {
       "category" : "minimal, slider",
       "title"    : "Business Casual",
@@ -25,8 +32,11 @@
       "image"    : "jekyllthemeofbusinesscasual.jpg",
       "dev"      : "yourfreebies"
     } 
+
     ,
+    
   
+    
     {
       "category" : "minimal, cards, sidebar",
       "title"    : "Flexible Jekyll",
@@ -34,8 +44,11 @@
       "image"    : "flexible-jekyll.jpg",
       "dev"      : "artemsheludko"
     } 
+
     ,
+    
   
+    
     {
       "category" : "minimal",
       "title"    : "Minimaless",
@@ -43,8 +56,11 @@
       "image"    : "minimaless.png",
       "dev"      : "brettinternet"
     } 
+
     ,
+    
   
+    
     {
       "category" : "minimal, doumentation, sidebar",
       "title"    : "Documentation Next",
@@ -52,8 +68,11 @@
       "image"    : "documentation-theme-jekyll-next-version.png",
       "dev"      : "tomjoht"
     } 
+
     ,
+    
   
+    
     {
       "category" : "minimal, cards, material",
       "title"    : "Blaues",
@@ -61,8 +80,11 @@
       "image"    : "blaues-jekyll-theme.png",
       "dev"      : "outsidev"
     } 
+
     ,
+    
   
+    
     {
       "category" : "minimal, cards",
       "title"    : "Eston",
@@ -70,8 +92,11 @@
       "image"    : "jekyll-theme-eston.jpg",
       "dev"      : "cute-angelia"
     } 
+
     ,
+    
   
+    
     {
       "category" : "minimal, cards",
       "title"    : "Handsomely",
@@ -79,8 +104,11 @@
       "image"    : "handsomely.png",
       "dev"      : "deeneshchowdhary"
     } 
+
     ,
+    
   
+    
     {
       "category" : "minimal, carousel, slider",
       "title"    : "Tranquil Theme",
@@ -88,8 +116,11 @@
       "image"    : "tranquil-theme.jpg",
       "dev"      : "swang2015"
     } 
+
     ,
+    
   
+    
     {
       "category" : "minimal, ecommerce",
       "title"    : "Fur",
@@ -97,8 +128,11 @@
       "image"    : "fur-jekyll-template.png",
       "dev"      : "CloudCannon"
     } 
+
     ,
+    
   
+    
     {
       "category" : "minimal, portfolio",
       "title"    : "Portfolio",
@@ -106,8 +140,11 @@
       "image"    : "portfolio-jekyll-theme.jpg",
       "dev"      : "LeNPaul"
     } 
+
     ,
+    
   
+    
     {
       "category" : "minimal, sidebar",
       "title"    : "Uno",
@@ -115,8 +152,11 @@
       "image"    : "jekyll-uno.jpg",
       "dev"      : "joshgerdes"
     } 
+
     ,
+    
   
+    
     {
       "category" : "minimal, typography",
       "title"    : "Schrift",
@@ -124,8 +164,11 @@
       "image"    : "schrift.png",
       "dev"      : "Nildeala"
     } 
+
     ,
+    
   
+    
     {
       "category" : "minimal, typography, onepage",
       "title"    : "Vue Jekyll",
@@ -133,8 +176,11 @@
       "image"    : "vue-jekyll.png",
       "dev"      : "BryanSchuetz"
     } 
+
     ,
+    
   
+    
     {
       "category" : "minimal, cards",
       "title"    : "Wing",
@@ -142,17 +188,13 @@
       "image"    : "jekyll-wing-template.jpg",
       "dev"      : "nikrich"
     } 
+
     ,
+    
   
-    {
-      "category" : "",
-      "title"    : "Ad",
-      "url"      : "/AD/",
-      "image"    : "",
-      "dev"      : "sharu725"
-    } 
-    ,
+    
   
+    
     {
       "category" : "minimal, landing, onepage",
       "title"    : "Awesome App",
@@ -160,8 +202,11 @@
       "image"    : "awesome-app-landing-page.jpg",
       "dev"      : "joshbuchea"
     } 
+
     ,
+    
   
+    
     {
       "category" : "minimal, typography",
       "title"    : "Overkyll",
@@ -169,8 +214,11 @@
       "image"    : "overkyll.png",
       "dev"      : "bertrandkeller"
     } 
+
     ,
+    
   
+    
     {
       "category" : "minimal, typography",
       "title"    : "White Paper",
@@ -178,8 +226,11 @@
       "image"    : "white-paper.png",
       "dev"      : "vinitkumar"
     } 
+
     ,
+    
   
+    
     {
       "category" : "sidebar, minimal",
       "title"    : "Starving Artist",
@@ -187,8 +238,11 @@
       "image"    : "starving-artist.png",
       "dev"      : "chrisanthropic"
     } 
+
     ,
+    
   
+    
     {
       "category" : "minimal, onepage, resume, portfolio",
       "title"    : "Identity",
@@ -196,8 +250,11 @@
       "image"    : "identity.jpg",
       "dev"      : "andrewbanchich"
     } 
+
     ,
+    
   
+    
     {
       "category" : "dark, minimal",
       "title"    : "Devjournal",
@@ -205,8 +262,11 @@
       "image"    : "dev-journal.png",
       "dev"      : "hemangsk"
     } 
+
     ,
+    
   
+    
     {
       "category" : "minimal, sidebar",
       "title"    : "Book",
@@ -214,8 +274,11 @@
       "image"    : "book.png",
       "dev"      : "kkninjae"
     } 
+
     ,
+    
   
+    
     {
       "category" : "minimal, portfolio",
       "title"    : "Adam Blog",
@@ -223,8 +286,11 @@
       "image"    : "adam-blog.jpg",
       "dev"      : "artemsheludko"
     } 
+
     ,
+    
   
+    
     {
       "category" : "minimal, portfolio, resume, cards",
       "title"    : "Timeline",
@@ -232,8 +298,11 @@
       "image"    : "jekyll-timeline.png",
       "dev"      : "lukas-h"
     } 
+
     ,
+    
   
+    
     {
       "category" : "minimal, sidebar",
       "title"    : "Phantom",
@@ -241,17 +310,13 @@
       "image"    : "phantom-jekyll-theme.png",
       "dev"      : "andrewbanchich"
     } 
+
     ,
+    
   
-    {
-      "category" : "",
-      "title"    : "Ad",
-      "url"      : "/AD/",
-      "image"    : "",
-      "dev"      : "sharu725"
-    } 
-    ,
+    
   
+    
     {
       "category" : "minimal, sidebar, photography",
       "title"    : "Lens",
@@ -259,8 +324,11 @@
       "image"    : "lens-jekyll-theme.jpg",
       "dev"      : "andrewbanchich"
     } 
+
     ,
+    
   
+    
     {
       "category" : "onepage, landing, dark",
       "title"    : "Eventually",
@@ -268,8 +336,11 @@
       "image"    : "eventually-jekyll-theme.png",
       "dev"      : "andrewbanchich"
     } 
+
     ,
+    
   
+    
     {
       "category" : "onepage, govenment",
       "title"    : "Uswds",
@@ -277,8 +348,11 @@
       "image"    : "uswds.jpg",
       "dev"      : "mclarty"
     } 
+
     ,
+    
   
+    
     {
       "category" : "resume, bootstrap, onepage",
       "title"    : "Panel Cv",
@@ -286,8 +360,11 @@
       "image"    : "PanelCV.jpg",
       "dev"      : "jekyller"
     } 
+
     ,
+    
   
+    
     {
       "category" : "dark, minimal",
       "title"    : "Dactl",
@@ -295,8 +372,11 @@
       "image"    : "dactl.png",
       "dev"      : "melangue"
     } 
+
     ,
+    
   
+    
     {
       "category" : "dark, minimal",
       "title"    : "Basically Basic",
@@ -304,8 +384,11 @@
       "image"    : "jekyll-theme-basically-basic.jpg",
       "dev"      : "mmistakes"
     } 
+
     ,
+    
   
+    
     {
       "category" : "onepage, resume",
       "title"    : "Highlights",
@@ -313,8 +396,11 @@
       "image"    : "highlights-jekyll-theme.jpg",
       "dev"      : "andrewbanchich"
     } 
+
     ,
+    
   
+    
     {
       "category" : "onepage, resume",
       "title"    : "Forty",
@@ -322,17 +408,13 @@
       "image"    : "forty-jekyll-theme.jpg",
       "dev"      : "andrewbanchich"
     } 
+
     ,
+    
   
-    {
-      "category" : "",
-      "title"    : "Ad",
-      "url"      : "/AD/",
-      "image"    : "",
-      "dev"      : "sharu725"
-    } 
-    ,
+    
   
+    
     {
       "category" : "material, cards, sidebar",
       "title"    : "Matjek",
@@ -340,8 +422,11 @@
       "image"    : "matjek.png",
       "dev"      : "ShawnTeoh"
     } 
+
     ,
+    
   
+    
     {
       "category" : "minimal, portfolio",
       "title"    : "Louie",
@@ -349,8 +434,11 @@
       "image"    : "louie.png",
       "dev"      : "lllychen"
     } 
+
     ,
+    
   
+    
     {
       "category" : "typography, minimal",
       "title"    : "Tale",
@@ -358,8 +446,11 @@
       "image"    : "tale.png",
       "dev"      : "chesterhow"
     } 
+
     ,
+    
   
+    
     {
       "category" : "typography, sidebar, minimal",
       "title"    : "Typing",
@@ -367,8 +458,11 @@
       "image"    : "typing-jekyll-template.png",
       "dev"      : "williamcanin"
     } 
+
     ,
+    
   
+    
     {
       "category" : "bootstrap",
       "title"    : "Joutou",
@@ -376,8 +470,11 @@
       "image"    : "joytou.png",
       "dev"      : "joytou"
     } 
+
     ,
+    
   
+    
     {
       "category" : "sidebar",
       "title"    : "Simple Texture",
@@ -385,8 +482,11 @@
       "image"    : "jekyll-theme-simple-texture.png",
       "dev"      : "yizeng"
     } 
+
     ,
+    
   
+    
     {
       "category" : "material, resume",
       "title"    : "Jblog",
@@ -394,8 +494,11 @@
       "image"    : "JBlog.png",
       "dev"      : "alperenbozkurt"
     } 
+
     ,
+    
   
+    
     {
       "category" : "minimal, sidebar",
       "title"    : "Future Imperfect",
@@ -403,8 +506,11 @@
       "image"    : "future-imperfect-jekyll-theme.png",
       "dev"      : "andrewbanchich"
     } 
+
     ,
+    
   
+    
     {
       "category" : "typography, minimal, sidebar",
       "title"    : "Editorial",
@@ -412,17 +518,13 @@
       "image"    : "editorial-jekyll-theme.png",
       "dev"      : "andrewbanchich"
     } 
+
     ,
+    
   
-    {
-      "category" : "",
-      "title"    : "Ad",
-      "url"      : "/AD/",
-      "image"    : "",
-      "dev"      : "sharu725"
-    } 
-    ,
+    
   
+    
     {
       "category" : "dark",
       "title"    : "Bef",
@@ -430,8 +532,11 @@
       "image"    : "bef.jpg",
       "dev"      : "artemsheludko"
     } 
+
     ,
+    
   
+    
     {
       "category" : "material, sidebar",
       "title"    : "Materialize Starter",
@@ -439,8 +544,11 @@
       "image"    : "jekyll-materialize-starter-template.png",
       "dev"      : "macrod68"
     } 
+
     ,
+    
   
+    
     {
       "category" : "bootstrap, onepage",
       "title"    : "Event",
@@ -448,8 +556,11 @@
       "image"    : "event-jekyll-theme.jpg",
       "dev"      : "melvinchng"
     } 
+
     ,
+    
   
+    
     {
       "category" : "sidebar, minimal",
       "title"    : "Next",
@@ -457,8 +568,11 @@
       "image"    : "next.png",
       "dev"      : "Simpleyyt"
     } 
+
     ,
+    
   
+    
     {
       "category" : "sidebar, typography",
       "title"    : "Hydejack",
@@ -466,8 +580,11 @@
       "image"    : "hydejack.jpg",
       "dev"      : "qwtel"
     } 
+
     ,
+    
   
+    
     {
       "category" : "minimal, typography",
       "title"    : "Marat",
@@ -475,8 +592,11 @@
       "image"    : "marat.png",
       "dev"      : "JohnCoene"
     } 
+
     ,
+    
   
+    
     {
       "category" : "minimal, dark",
       "title"    : "Dark Side",
@@ -484,17 +604,13 @@
       "image"    : "dark-side.png",
       "dev"      : "sharu725"
     } 
+
     ,
+    
   
-    {
-      "category" : "",
-      "title"    : "Ad",
-      "url"      : "/AD/",
-      "image"    : "",
-      "dev"      : "sharu725"
-    } 
-    ,
+    
   
+    
     {
       "category" : "minimal, bootstrap",
       "title"    : "Bootstrap",
@@ -502,8 +618,11 @@
       "image"    : "bootstrap.png",
       "dev"      : "matrixfox"
     } 
+
     ,
+    
   
+    
     {
       "category" : "minimal",
       "title"    : "Sparrow",
@@ -511,8 +630,11 @@
       "image"    : "sparrow.png",
       "dev"      : "lingxz"
     } 
+
     ,
+    
   
+    
     {
       "category" : "minimal",
       "title"    : "Millenial",
@@ -520,8 +642,11 @@
       "image"    : "Millennial.jpg",
       "dev"      : "LeNPaul"
     } 
+
     ,
+    
   
+    
     {
       "category" : "documents",
       "title"    : "Jekyll Doc",
@@ -529,8 +654,11 @@
       "image"    : "jekyll-doc-theme.png",
       "dev"      : "aksakalli"
     } 
+
     ,
+    
   
+    
     {
       "category" : "minimal, cards",
       "title"    : "H20",
@@ -538,8 +666,11 @@
       "image"    : "jekyll-theme-H2O.png",
       "dev"      : "kaeyleo"
     } 
+
     ,
+    
   
+    
     {
       "category" : "minimal",
       "title"    : "Clean Jekyll",
@@ -547,8 +678,11 @@
       "image"    : "clean-jekyll-theme.png",
       "dev"      : "siddhantgoel"
     } 
+
     ,
+    
   
+    
     {
       "category" : "minimal",
       "title"    : "Cayman Blog",
@@ -556,8 +690,11 @@
       "image"    : "cayman-blog.png",
       "dev"      : "lorepirri"
     } 
+
     ,
+    
   
+    
     {
       "category" : "",
       "title"    : "Bheema",
@@ -565,8 +702,11 @@
       "image"    : "bheema.png",
       "dev"      : "sharu725"
     } 
+
     ,
+    
   
+    
     {
       "category" : "resume, cv",
       "title"    : "Online Cv",
@@ -574,17 +714,13 @@
       "image"    : "online-cv.png",
       "dev"      : "sharu725"
     } 
+
     ,
+    
   
-    {
-      "category" : "",
-      "title"    : "Ad",
-      "url"      : "/AD/",
-      "image"    : "",
-      "dev"      : "sharu725"
-    } 
-    ,
+    
   
+    
     {
       "category" : "",
       "title"    : "Time Machine",
@@ -592,8 +728,11 @@
       "image"    : "time-machine.png",
       "dev"      : "pages-themes"
     } 
+
     ,
+    
   
+    
     {
       "category" : "photography",
       "title"    : "Photography",
@@ -601,8 +740,11 @@
       "image"    : "photography.png",
       "dev"      : "ramswaroop"
     } 
+
     ,
+    
   
+    
     {
       "category" : "minimal",
       "title"    : "Soot Spirits",
@@ -610,8 +752,11 @@
       "image"    : "soot-spirits.png",
       "dev"      : "abhn"
     } 
+
     ,
+    
   
+    
     {
       "category" : "",
       "title"    : "Mono",
@@ -619,8 +764,11 @@
       "image"    : "mono.png",
       "dev"      : "AkshayAgarwal007"
     } 
+
     ,
+    
   
+    
     {
       "category" : "cards",
       "title"    : "Mekyll",
@@ -628,8 +776,11 @@
       "image"    : "mekyll.png",
       "dev"      : "ifedyukin"
     } 
+
     ,
+    
   
+    
     {
       "category" : "minimal, documentaion",
       "title"    : "Git Wiki",
@@ -637,8 +788,11 @@
       "image"    : "git-wiki.png",
       "dev"      : "drassil"
     } 
+
     ,
+    
   
+    
     {
       "category" : "resume, cv",
       "title"    : "Levytsroman",
@@ -646,8 +800,11 @@
       "image"    : "levytsroman.png",
       "dev"      : "LevytsRoman"
     } 
+
     ,
+    
   
+    
     {
       "category" : "resume, cv, minimal",
       "title"    : "Jmcglone",
@@ -655,8 +812,11 @@
       "image"    : "jmcglone.png",
       "dev"      : "jmcglone"
     } 
+
     ,
+    
   
+    
     {
       "category" : "onepage, corporate",
       "title"    : "Dentistsmile",
@@ -664,8 +824,11 @@
       "image"    : "dentistsmile.png",
       "dev"      : "obaez"
     } 
+
     ,
+    
   
+    
     {
       "category" : "",
       "title"    : "Base",
@@ -673,17 +836,13 @@
       "image"    : "base.png",
       "dev"      : "CloudCannon"
     } 
+
     ,
+    
   
-    {
-      "category" : "",
-      "title"    : "Ad",
-      "url"      : "/AD/",
-      "image"    : "",
-      "dev"      : "sharu725"
-    } 
-    ,
+    
   
+    
     {
       "category" : "onepage",
       "title"    : "New Age",
@@ -691,8 +850,11 @@
       "image"    : "new-age.png",
       "dev"      : "jekynewage"
     } 
+
     ,
+    
   
+    
     {
       "category" : "minimal",
       "title"    : "Wead",
@@ -700,8 +862,11 @@
       "image"    : "wead.png",
       "dev"      : "kevyder"
     } 
+
     ,
+    
   
+    
     {
       "category" : "",
       "title"    : "Surgeon Tux",
@@ -709,8 +874,11 @@
       "image"    : "surgeon-tux.png",
       "dev"      : "lpsandaruwan"
     } 
+
     ,
+    
   
+    
     {
       "category" : "",
       "title"    : "Particle",
@@ -718,8 +886,11 @@
       "image"    : "particle.png",
       "dev"      : "nrandecker"
     } 
+
     ,
+    
   
+    
     {
       "category" : "minimal",
       "title"    : "Merlot",
@@ -727,8 +898,11 @@
       "image"    : "merlot.png",
       "dev"      : "pages-themes"
     } 
+
     ,
+    
   
+    
     {
       "category" : "minimal",
       "title"    : "Long Haul",
@@ -736,8 +910,11 @@
       "image"    : "long-haul.png",
       "dev"      : "brianmaierjr"
     } 
+
     ,
+    
   
+    
     {
       "category" : "",
       "title"    : "Leopard",
@@ -745,8 +922,11 @@
       "image"    : "leopard.png",
       "dev"      : "leopardpan"
     } 
+
     ,
+    
   
+    
     {
       "category" : "minimal",
       "title"    : "Lagrange",
@@ -754,17 +934,13 @@
       "image"    : "lagrange.png",
       "dev"      : "LeNPaul"
     } 
+
     ,
+    
   
-    {
-      "category" : "",
-      "title"    : "Ad",
-      "url"      : "/AD/",
-      "image"    : "",
-      "dev"      : "sharu725"
-    } 
-    ,
+    
   
+    
     {
       "category" : "cards, material",
       "title"    : "Fresh",
@@ -772,8 +948,11 @@
       "image"    : "fresh.png",
       "dev"      : "artemsheludko"
     } 
+
     ,
+    
   
+    
     {
       "category" : "minimal",
       "title"    : "Hilmi",
@@ -781,8 +960,11 @@
       "image"    : "hilmi.png",
       "dev"      : "nix1947"
     } 
+
     ,
+    
   
+    
     {
       "category" : "minimal",
       "title"    : "Daktilo",
@@ -790,8 +972,11 @@
       "image"    : "daktilo.png",
       "dev"      : "kronik3r"
     } 
+
     ,
+    
   
+    
     {
       "category" : "onepage, minimal",
       "title"    : "Tactile",
@@ -799,8 +984,11 @@
       "image"    : "tactile.png",
       "dev"      : "pages-themes"
     } 
+
     ,
+    
   
+    
     {
       "category" : "onepage, minimal",
       "title"    : "Alembic",
@@ -808,8 +996,11 @@
       "image"    : "alembic.jpg",
       "dev"      : "daviddarnes"
     } 
+
     ,
+    
   
+    
     {
       "category" : "onepage",
       "title"    : "Solid",
@@ -817,8 +1008,11 @@
       "image"    : "solid.png",
       "dev"      : "st4ple"
     } 
+
     ,
+    
   
+    
     {
       "category" : "onepage",
       "title"    : "Urban",
@@ -826,17 +1020,13 @@
       "image"    : "urban.png",
       "dev"      : "CloudCannon"
     } 
+
     ,
+    
   
-    {
-      "category" : "",
-      "title"    : "Ad",
-      "url"      : "/AD/",
-      "image"    : "",
-      "dev"      : "sharu725"
-    } 
-    ,
+    
   
+    
     {
       "category" : "minimal",
       "title"    : "Slim",
@@ -844,8 +1034,11 @@
       "image"    : "slim.png",
       "dev"      : "syaning"
     } 
+
     ,
+    
   
+    
     {
       "category" : "",
       "title"    : "Slate",
@@ -853,8 +1046,11 @@
       "image"    : "slate.png",
       "dev"      : "jasoncostello"
     } 
+
     ,
+    
   
+    
     {
       "category" : "",
       "title"    : "Project Gaia",
@@ -862,8 +1058,11 @@
       "image"    : "projectgaia.png",
       "dev"      : "szhielelp"
     } 
+
     ,
+    
   
+    
     {
       "category" : "dark, onepage",
       "title"    : "Fullit",
@@ -871,8 +1070,11 @@
       "image"    : "fullit.jpg",
       "dev"      : "antoniotrento"
     } 
+
     ,
+    
   
+    
     {
       "category" : "minimal",
       "title"    : "Future Imperfect",
@@ -880,8 +1082,11 @@
       "image"    : "blog.png",
       "dev"      : "vikapitoshka"
     } 
+
     ,
+    
   
+    
     {
       "category" : "typography, minimal",
       "title"    : "Ashwath",
@@ -889,17 +1094,13 @@
       "image"    : "ashwath.jpg",
       "dev"      : "sharu725"
     } 
+
     ,
+    
   
-    {
-      "category" : "",
-      "title"    : "Ad",
-      "url"      : "/AD/",
-      "image"    : "",
-      "dev"      : "sharu725"
-    } 
-    ,
+    
   
+    
     {
       "category" : "onepage",
       "title"    : "Minimal Mistakes",
@@ -907,8 +1108,11 @@
       "image"    : "minimal-mistakes.png",
       "dev"      : "mmistakes"
     } 
+
     ,
+    
   
+    
     {
       "category" : "typography",
       "title"    : "Micronaut",
@@ -916,8 +1120,11 @@
       "image"    : "micronaut.png",
       "dev"      : "TheMicronaut"
     } 
+
     ,
+    
   
+    
     {
       "category" : "",
       "title"    : "Mickey",
@@ -925,8 +1132,11 @@
       "image"    : "mickey.png",
       "dev"      : "vincentchan"
     } 
+
     ,
+    
   
+    
     {
       "category" : "resume, dark",
       "title"    : "Monday",
@@ -934,8 +1144,11 @@
       "image"    : "monday.png",
       "dev"      : "artemsheludko"
     } 
+
     ,
+    
   
+    
     {
       "category" : "minimal",
       "title"    : "Krishna",
@@ -943,8 +1156,11 @@
       "image"    : "krishna.png",
       "dev"      : "sharu725"
     } 
+
     ,
+    
   
+    
     {
       "category" : "minimal",
       "title"    : "Kikofri",
@@ -952,8 +1168,11 @@
       "image"    : "kikofri.png",
       "dev"      : "kxxvii"
     } 
+
     ,
+    
   
+    
     {
       "category" : "onepage",
       "title"    : "Jalpc",
@@ -961,8 +1180,11 @@
       "image"    : "jalpc.png",
       "dev"      : "jarrekk"
     } 
+
     ,
+    
   
+    
     {
       "category" : "cards",
       "title"    : "Jackman",
@@ -970,8 +1192,11 @@
       "image"    : "jacman.png",
       "dev"      : "Simpleyyt"
     } 
+
     ,
+    
   
+    
     {
       "category" : "",
       "title"    : "Hydra",
@@ -979,17 +1204,13 @@
       "image"    : "hydra.png",
       "dev"      : "CloudCannon"
     } 
+
     ,
+    
   
-    {
-      "category" : "",
-      "title"    : "Lad",
-      "url"      : "/LAD/",
-      "image"    : "",
-      "dev"      : "sharu725"
-    } 
-    ,
+    
   
+    
     {
       "category" : "minimal, slideshow",
       "title"    : "Slides",
@@ -997,8 +1218,11 @@
       "image"    : "slides.png",
       "dev"      : "sharu725"
     } 
+
     ,
+    
   
+    
     {
       "category" : "onepage",
       "title"    : "Freelancer",
@@ -1006,8 +1230,11 @@
       "image"    : "freelancer.png",
       "dev"      : "jeromelachaud"
     } 
+
     ,
+    
   
+    
     {
       "category" : "onepage",
       "title"    : "Feeling Responsive",
@@ -1015,8 +1242,11 @@
       "image"    : "feeling-responsive.png",
       "dev"      : "Phlow"
     } 
+
     ,
+    
   
+    
     {
       "category" : "minimal",
       "title"    : "Exemplar",
@@ -1024,8 +1254,11 @@
       "image"    : "exemplar.png",
       "dev"      : "tybenz"
     } 
+
     ,
+    
   
+    
     {
       "category" : "minimal",
       "title"    : "Crossing",
@@ -1033,8 +1266,11 @@
       "image"    : "crossing.png",
       "dev"      : "barepants"
     } 
+
     ,
+    
   
+    
     {
       "category" : "minimal, cards",
       "title"    : "Physalis",
@@ -1042,8 +1278,11 @@
       "image"    : "physalis.png",
       "dev"      : "madebyconnor"
     } 
+
     ,
+    
   
+    
     {
       "category" : "minimal, typography",
       "title"    : "Change",
@@ -1051,8 +1290,11 @@
       "image"    : "change.png",
       "dev"      : "madebyconnor"
     } 
+
     ,
+    
   
+    
     {
       "category" : "",
       "title"    : "Blade",
@@ -1060,8 +1302,11 @@
       "image"    : "blade.png",
       "dev"      : "mateussmedeiros"
     } 
+
     ,
+    
   
+    
     {
       "category" : "material, cards",
       "title"    : "Awesome Sites",
@@ -1069,17 +1314,13 @@
       "image"    : "awesomesites.png",
       "dev"      : "MonkeyAndres"
     } 
+
     ,
+    
   
-    {
-      "category" : "",
-      "title"    : "Mad",
-      "url"      : "/MAD/",
-      "image"    : "",
-      "dev"      : "sharu725"
-    } 
-    ,
+    
   
+    
     {
       "category" : "minimal",
       "title"    : "Yudish",
@@ -1087,8 +1328,11 @@
       "image"    : "yudish.png",
       "dev"      : "sharu725"
     } 
+
     ,
+    
   
+    
     {
       "category" : "onepage",
       "title"    : "Spring",
@@ -1096,8 +1340,11 @@
       "image"    : "spring.png",
       "dev"      : "madebyconnor"
     } 
+
     ,
+    
   
+    
     {
       "category" : "minimal, typography",
       "title"    : "Vyaasa",
@@ -1105,8 +1352,11 @@
       "image"    : "vyaasa.png",
       "dev"      : "sharu725"
     } 
+
     ,
+    
   
+    
     {
       "category" : "cards",
       "title"    : "Twister",
@@ -1114,8 +1364,11 @@
       "image"    : "twister.png",
       "dev"      : "DigitalMindCH"
     } 
+
     ,
+    
   
+    
     {
       "category" : "",
       "title"    : "Trophy",
@@ -1123,17 +1376,13 @@
       "image"    : "trophy-jekyll.png",
       "dev"      : "thomasvaeth"
     } 
+
     ,
+    
   
-    {
-      "category" : "",
-      "title"    : "Ad",
-      "url"      : "/AD/",
-      "image"    : "",
-      "dev"      : "sharu725"
-    } 
-    ,
+    
   
+    
     {
       "category" : "minimal, cooking, food",
       "title"    : "Treat",
@@ -1141,8 +1390,11 @@
       "image"    : "treat.png",
       "dev"      : "CloudCannon"
     } 
+
     ,
+    
   
+    
     {
       "category" : "minimal, onepage, government",
       "title"    : "Stately",
@@ -1150,8 +1402,11 @@
       "image"    : "stately.png",
       "dev"      : "pmarsceill"
     } 
+
     ,
+    
   
+    
     {
       "category" : "minimal, photography",
       "title"    : "N",
@@ -1159,8 +1414,11 @@
       "image"    : "n.jpg",
       "dev"      : "nobe4"
     } 
+
     ,
+    
   
+    
     {
       "category" : "",
       "title"    : "Limpid",
@@ -1168,8 +1426,11 @@
       "image"    : "limpid.png",
       "dev"      : "pranavrajs"
     } 
+
     ,
+    
   
+    
     {
       "category" : "resume, typography",
       "title"    : "Academic",
@@ -1177,8 +1438,11 @@
       "image"    : "academic.png",
       "dev"      : "gaalcaras"
     } 
+
     ,
+    
   
+    
     {
       "category" : "resume, cv, minimal",
       "title"    : "Sustain",
@@ -1186,8 +1450,11 @@
       "image"    : "sustain.png",
       "dev"      : "biomadeira"
     } 
+
     ,
+    
   
+    
     {
       "category" : "minimal",
       "title"    : "Material",
@@ -1195,8 +1462,11 @@
       "image"    : "material.png",
       "dev"      : "lukas-h"
     } 
+
     ,
+    
   
+    
     {
       "category" : "minimal",
       "title"    : "Strange",
@@ -1204,8 +1474,11 @@
       "image"    : "strange.png",
       "dev"      : "thephuse"
     } 
+
     ,
+    
   
+    
     {
       "category" : "",
       "title"    : "Stack Problems",
@@ -1213,8 +1486,11 @@
       "image"    : "stack-problems.png",
       "dev"      : "agusmakmun"
     } 
+
     ,
+    
   
+    
     {
       "category" : "",
       "title"    : "Skinny Bones",
@@ -1222,17 +1498,13 @@
       "image"    : "skinny-bones.png",
       "dev"      : "mmistakes"
     } 
+
     ,
+    
   
-    {
-      "category" : "",
-      "title"    : "Ad",
-      "url"      : "/AD/",
-      "image"    : "",
-      "dev"      : "sharu725"
-    } 
-    ,
+    
   
+    
     {
       "category" : "onepage",
       "title"    : "Single Paged",
@@ -1240,8 +1512,11 @@
       "image"    : "singlepaged.png",
       "dev"      : "t413"
     } 
+
     ,
+    
   
+    
     {
       "category" : "minimal",
       "title"    : "Simplest",
@@ -1249,8 +1524,11 @@
       "image"    : "simplest.png",
       "dev"      : "nandomoreirame"
     } 
+
     ,
+    
   
+    
     {
       "category" : "cards",
       "title"    : "Materialized",
@@ -1258,8 +1536,11 @@
       "image"    : "materialized.png",
       "dev"      : "lpsandaruwan"
     } 
+
     ,
+    
   
+    
     {
       "category" : "minimal",
       "title"    : "Bare Minimum",
@@ -1267,8 +1548,11 @@
       "image"    : "bare-minimum.png",
       "dev"      : "sharu725"
     } 
+
     ,
+    
   
+    
     {
       "category" : "",
       "title"    : "Modernist",
@@ -1276,8 +1560,11 @@
       "image"    : "modernist.png",
       "dev"      : "pages-themes"
     } 
+
     ,
+    
   
+    
     {
       "category" : "minimal, dark",
       "title"    : "Hagura",
@@ -1285,8 +1572,11 @@
       "image"    : "hagura.png",
       "dev"      : "sharu725"
     } 
+
     ,
+    
   
+    
     {
       "category" : "onepage",
       "title"    : "Comical",
@@ -1294,17 +1584,13 @@
       "image"    : "comical.png",
       "dev"      : "chrisanthropic"
     } 
+
     ,
+    
   
-    {
-      "category" : "",
-      "title"    : "Ad",
-      "url"      : "/AD/",
-      "image"    : "",
-      "dev"      : "sharu725"
-    } 
-    ,
+    
   
+    
     {
       "category" : "photography",
       "title"    : "Photorama",
@@ -1312,8 +1598,11 @@
       "image"    : "photorama.png",
       "dev"      : "sunbliss"
     } 
+
     ,
+    
   
+    
     {
       "category" : "minimal",
       "title"    : "Leonids",
@@ -1321,8 +1610,11 @@
       "image"    : "leonids.png",
       "dev"      : "renyuanz"
     } 
+
     ,
+    
   
+    
     {
       "category" : "",
       "title"    : "Leapday",
@@ -1330,8 +1622,11 @@
       "image"    : "leapday.png",
       "dev"      : "mattgraham"
     } 
+
     ,
+    
   
+    
     {
       "category" : "documentation",
       "title"    : "Jekyll Doc",
@@ -1339,8 +1634,11 @@
       "image"    : "documentation-theme-jekyll.png",
       "dev"      : "tomjohnson1492"
     } 
+
     ,
+    
   
+    
     {
       "category" : "",
       "title"    : "Jasper",
@@ -1348,8 +1646,11 @@
       "image"    : "jasper.png",
       "dev"      : "biomadeira"
     } 
+
     ,
+    
   
+    
     {
       "category" : "resume, cv",
       "title"    : "Jackal",
@@ -1357,8 +1658,11 @@
       "image"    : "jackal.png",
       "dev"      : "clenemt"
     } 
+
     ,
+    
   
+    
     {
       "category" : "minimal",
       "title"    : "Indigo",
@@ -1366,8 +1670,11 @@
       "image"    : "indigo.png",
       "dev"      : "sergiokopplin"
     } 
+
     ,
+    
   
+    
     {
       "category" : "cards, material",
       "title"    : "Hcz",
@@ -1375,17 +1682,13 @@
       "image"    : "hcz.png",
       "dev"      : "codeasashu"
     } 
+
     ,
+    
   
-    {
-      "category" : "",
-      "title"    : "Ad",
-      "url"      : "/AD/",
-      "image"    : "",
-      "dev"      : "sharu725"
-    } 
-    ,
+    
   
+    
     {
       "category" : "minimal, dark",
       "title"    : "Hacker",
@@ -1393,8 +1696,11 @@
       "image"    : "hacker.png",
       "dev"      : "pages-themes"
     } 
+
     ,
+    
   
+    
     {
       "category" : "minimal",
       "title"    : "Gravity",
@@ -1402,8 +1708,11 @@
       "image"    : "gravity.png",
       "dev"      : "hemangsk"
     } 
+
     ,
+    
   
+    
     {
       "category" : "",
       "title"    : "Dotx",
@@ -1411,8 +1720,11 @@
       "image"    : "dotx.png",
       "dev"      : "nandomoreirame"
     } 
+
     ,
+    
   
+    
     {
       "category" : "minimal, sidebar",
       "title"    : "Dinky",
@@ -1420,8 +1732,11 @@
       "image"    : "dinky.png",
       "dev"      : "pages-themes"
     } 
+
     ,
+    
   
+    
     {
       "category" : "minimal",
       "title"    : "Decent",
@@ -1429,8 +1744,11 @@
       "image"    : "decent.png",
       "dev"      : "jwillmer"
     } 
+
     ,
+    
   
+    
     {
       "category" : "resume, cv",
       "title"    : "Chilly Blue",
@@ -1438,8 +1756,11 @@
       "image"    : "chilly-blue.png",
       "dev"      : "WilliamChiu"
     } 
+
     ,
+    
   
+    
     {
       "category" : "minimal",
       "title"    : "Cayman",
@@ -1447,17 +1768,13 @@
       "image"    : "cayman.png",
       "dev"      : "pietromenna"
     } 
+
     ,
+    
   
-    {
-      "category" : "",
-      "title"    : "Ad",
-      "url"      : "/AD/",
-      "image"    : "",
-      "dev"      : "sharu725"
-    } 
-    ,
+    
   
+    
     {
       "category" : "cards, minimal",
       "title"    : "Cards",
@@ -1465,8 +1782,11 @@
       "image"    : "cards.png",
       "dev"      : "willianjusten"
     } 
+
     ,
+    
   
+    
     {
       "category" : "minimal, typography",
       "title"    : "Accent",
@@ -1474,8 +1794,11 @@
       "image"    : "accent.png",
       "dev"      : "bk2dcradle"
     } 
+
     ,
+    
   
+    
     {
       "category" : "sidebar, typography",
       "title"    : "Will Jekyll",
@@ -1483,8 +1806,11 @@
       "image"    : "will-jekyll-template.png",
       "dev"      : "willianjusten"
     } 
+
     ,
+    
   
+    
     {
       "category" : "minimal, sidebar, portfolio",
       "title"    : "Vitae",
@@ -1492,8 +1818,11 @@
       "image"    : "vitae.png",
       "dev"      : "biomadeira"
     } 
+
     ,
+    
   
+    
     {
       "category" : "minimal, documentation, light",
       "title"    : "Thinkings Org",
@@ -1501,8 +1830,11 @@
       "image"    : "thinkings_org.png",
       "dev"      : "Tr3jer"
     } 
+
     ,
+    
   
+    
     {
       "category" : "minimal, typography",
       "title"    : "Plain",
@@ -1510,8 +1842,11 @@
       "image"    : "plain.png",
       "dev"      : "heiswayi"
     } 
+
     ,
+    
   
+    
     {
       "category" : "minimal, sidebar",
       "title"    : "Mug",
@@ -1519,17 +1854,13 @@
       "image"    : "mug.png",
       "dev"      : "nandomoreirame"
     } 
+
     ,
+    
   
-    {
-      "category" : "",
-      "title"    : "Ad",
-      "url"      : "/AD/",
-      "image"    : "",
-      "dev"      : "sharu725"
-    } 
-    ,
+    
   
+    
     {
       "category" : "minimal, sidebar, documentation",
       "title"    : "Minimal",
@@ -1537,8 +1868,11 @@
       "image"    : "minimal.png",
       "dev"      : "orderedlist"
     } 
+
     ,
+    
   
+    
     {
       "category" : "minimal, ecommerce",
       "title"    : "Lambda",
@@ -1546,8 +1880,11 @@
       "image"    : "lambda.png",
       "dev"      : "lauris"
     } 
+
     ,
+    
   
+    
     {
       "category" : "minimal",
       "title"    : "Beautiful Jekyll",
@@ -1555,8 +1892,11 @@
       "image"    : "beautiful-jekyll.png",
       "dev"      : "daattali"
     } 
+
     ,
+    
   
+    
     {
       "category" : "minimal, dark",
       "title"    : "Chalk",
@@ -1564,8 +1904,11 @@
       "image"    : "chalk.png",
       "dev"      : "nielsenramon"
     } 
+
     ,
+    
   
+    
     {
       "category" : "minimal",
       "title"    : "Type",
@@ -1573,8 +1916,11 @@
       "image"    : "type.png",
       "dev"      : "rohanchandra"
     } 
+
     ,
+    
   
+    
     {
       "category" : "minimal, typography",
       "title"    : "Pixyll",
@@ -1582,8 +1928,11 @@
       "image"    : "pixyll.png",
       "dev"      : "johnotander"
     } 
+
     ,
+    
   
+    
     {
       "category" : "minimal",
       "title"    : "Mediator",
@@ -1591,8 +1940,11 @@
       "image"    : "mediator.png",
       "dev"      : "dirkfabisch"
     } 
+
     ,
+    
   
+    
     {
       "category" : "minimal, typography",
       "title"    : "Shiori",
@@ -1600,8 +1952,11 @@
       "image"    : "shiori.png",
       "dev"      : "ellekasai"
     } 
+
     ,
+    
   
+    
     {
       "category" : "minimal, typography",
       "title"    : "Architect",
@@ -1609,17 +1964,13 @@
       "image"    : "architect.png",
       "dev"      : "pietromenna"
     } 
+
     ,
+    
   
-    {
-      "category" : "",
-      "title"    : "Ad",
-      "url"      : "/AD/",
-      "image"    : "",
-      "dev"      : "sharu725"
-    } 
-    ,
+    
   
+    
     {
       "category" : "",
       "title"    : "Thinny",
@@ -1627,8 +1978,11 @@
       "image"    : "thinny.png",
       "dev"      : "camporez"
     } 
+
     ,
+    
   
+    
     {
       "category" : "cards, minimal, typography",
       "title"    : "Hikari",
@@ -1636,8 +1990,11 @@
       "image"    : "hikari.png",
       "dev"      : "mx3m"
     } 
+
     ,
+    
   
+    
     {
       "category" : "onepage, minimal, typography",
       "title"    : "Solo",
@@ -1645,8 +2002,11 @@
       "image"    : "solo.png",
       "dev"      : "chibicode"
     } 
+
     ,
+    
   
+    
     {
       "category" : "minimal, light",
       "title"    : "Thunder",
@@ -1654,8 +2014,11 @@
       "image"    : "thunder.png",
       "dev"      : "sharu725"
     } 
+
     ,
+    
   
+    
     {
       "category" : "minimal, typography",
       "title"    : "Balzac",
@@ -1663,8 +2026,11 @@
       "image"    : "balzac.png",
       "dev"      : "coletownsend"
     } 
+
     ,
+    
   
+    
     {
       "category" : "minimal, typography",
       "title"    : "So Simple",
@@ -1672,8 +2038,11 @@
       "image"    : "so-simple.png",
       "dev"      : "mmistakes"
     } 
+
     ,
+    
   
+    
     {
       "category" : "photography, minimal",
       "title"    : "Centrarium",
@@ -1681,8 +2050,11 @@
       "image"    : "centrarium.png",
       "dev"      : "bencentra"
     } 
+
     ,
+    
   
+    
     {
       "category" : "minimal, typography",
       "title"    : "Trio",
@@ -1690,8 +2062,11 @@
       "image"    : "trio.png",
       "dev"      : "ankur-gupta"
     } 
+
     ,
+    
   
+    
     {
       "category" : "minimal, typography",
       "title"    : "Kiko",
@@ -1699,17 +2074,13 @@
       "image"    : "kiko.png",
       "dev"      : "gfjaru"
     } 
+
     ,
+    
   
-    {
-      "category" : "",
-      "title"    : "Ad",
-      "url"      : "/AD/",
-      "image"    : "",
-      "dev"      : "sharu725"
-    } 
-    ,
+    
   
+    
     {
       "category" : "minimal, sidebar",
       "title"    : "Emerald",
@@ -1717,8 +2088,11 @@
       "image"    : "emerald.png",
       "dev"      : "KingFelix"
     } 
+
     ,
+    
   
+    
     {
       "category" : "card, photography, minimal, sidebar",
       "title"    : "Karna",
@@ -1726,8 +2100,11 @@
       "image"    : "karna.png",
       "dev"      : "sharu725"
     } 
+
     ,
+    
   
+    
     {
       "category" : "minimal",
       "title"    : "Jekyll Now",
@@ -1735,8 +2112,11 @@
       "image"    : "jekyll-now.png",
       "dev"      : "barryclark"
     } 
+
     ,
+    
   
+    
     {
       "category" : "minimal, sidebar",
       "title"    : "Dbyll",
@@ -1744,8 +2124,11 @@
       "image"    : "dbyll.png",
       "dev"      : "dbtek"
     } 
+
     ,
+    
   
+    
     {
       "category" : "minimal, cards",
       "title"    : "Hpstr",
@@ -1753,8 +2136,11 @@
       "image"    : "hpstr.png",
       "dev"      : "mmistakes"
     } 
+
     ,
+    
   
+    
     {
       "category" : "minimal, documentation, sidebar, typography",
       "title"    : "Hyde",
@@ -1762,8 +2148,11 @@
       "image"    : "hyde.png",
       "dev"      : "mdo"
     } 
+
     ,
+    
   
+    
     {
       "category" : "minimal, documentation, sidebar, typography",
       "title"    : "Lanyon",
@@ -1771,8 +2160,11 @@
       "image"    : "lanyon.png",
       "dev"      : "mdo"
     } 
+
     ,
+    
   
+    
     {
       "category" : "minimal",
       "title"    : "Poole",
@@ -1780,6 +2172,8 @@
       "image"    : "poole.png",
       "dev"      : "mdo"
     } 
+
+    
     
   
 ]
