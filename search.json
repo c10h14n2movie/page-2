@@ -2,6 +2,18 @@
   
     
     {
+      "category" : "minimal, dark, cards",
+      "title"    : "Jekflix",
+      "url"      : "/jekflix/",
+      "image"    : "jekflix-template.jpg",
+      "dev"      : "thiagorossener"
+    } 
+
+    ,
+    
+  
+    
+    {
       "category" : "minimal, dark",
       "title"    : "Solar",
       "url"      : "/solar/",

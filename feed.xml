@@ -5,9 +5,26 @@
     <description>A collection of free jekyll themes and templates readily available to download.</description>
     <link>https://jekyll-themes.com/</link>
     <atom:link href="https://jekyll-themes.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 26 Sep 2017 11:54:40 +0530</pubDate>
-    <lastBuildDate>Tue, 26 Sep 2017 11:54:40 +0530</lastBuildDate>
+    <pubDate>Wed, 27 Sep 2017 18:16:01 +0530</pubDate>
+    <lastBuildDate>Wed, 27 Sep 2017 18:16:01 +0530</lastBuildDate>
     <generator>Jekyll v3.5.2</generator>
+    
+      <item>
+        <title>Jekflix</title>
+        <description>
+</description>
+        <pubDate>Sun, 17 Sep 2017 00:00:00 +0530</pubDate>
+        <link>https://jekyll-themes.com/jekflix/</link>
+        <guid isPermaLink="true">https://jekyll-themes.com/jekflix/</guid>
+        
+        
+        <category>minimal</category>
+        
+        <category>dark</category>
+        
+        <category>cards</category>
+        
+      </item>
     
       <item>
         <title>Solar</title>
@@ -145,23 +162,6 @@
         <category>minimal</category>
         
         <category>cards</category>
-        
-      </item>
-    
-      <item>
-        <title>Tranquil Theme</title>
-        <description>
-</description>
-        <pubDate>Thu, 07 Sep 2017 00:00:00 +0530</pubDate>
-        <link>https://jekyll-themes.com/tranquil-theme/</link>
-        <guid isPermaLink="true">https://jekyll-themes.com/tranquil-theme/</guid>
-        
-        
-        <category>minimal</category>
-        
-        <category>carousel</category>
-        
-        <category>slider</category>
         
       </item>
     
