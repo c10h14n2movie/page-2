@@ -2,6 +2,30 @@
   
     
     {
+      "category" : "minimal, typography",
+      "title"    : "Garth",
+      "url"      : "/garth/",
+      "image"    : "garth.png",
+      "dev"      : "daviddarnes"
+    } 
+
+    ,
+    
+  
+    
+    {
+      "category" : "minimal, map, onepage",
+      "title"    : "Travel Map",
+      "url"      : "/travel-map/",
+      "image"    : "travel-map.png",
+      "dev"      : "jekyller"
+    } 
+
+    ,
+    
+  
+    
+    {
       "category" : "minimal, dark, cards",
       "title"    : "Jekflix",
       "url"      : "/jekflix/",
