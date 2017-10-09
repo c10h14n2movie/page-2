@@ -2,6 +2,18 @@
   
     
     {
+      "category" : "minimal, onepage, bootstrap",
+      "title"    : "Helium",
+      "url"      : "/helium/",
+      "image"    : "helium.jpg",
+      "dev"      : "heliumjk"
+    } 
+
+    ,
+    
+  
+    
+    {
       "category" : "minimal, typography",
       "title"    : "Garth",
       "url"      : "/garth/",
