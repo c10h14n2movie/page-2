@@ -5,9 +5,26 @@
     <description>A collection of free jekyll themes and templates readily available to download.</description>
     <link>https://jekyll-themes.com/</link>
     <atom:link href="https://jekyll-themes.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 09 Oct 2017 20:07:57 +0530</pubDate>
-    <lastBuildDate>Mon, 09 Oct 2017 20:07:57 +0530</lastBuildDate>
+    <pubDate>Wed, 18 Oct 2017 20:43:31 +0530</pubDate>
+    <lastBuildDate>Wed, 18 Oct 2017 20:43:31 +0530</lastBuildDate>
     <generator>Jekyll v3.5.2</generator>
+    
+      <item>
+        <title>Liberxue</title>
+        <description>
+</description>
+        <pubDate>Thu, 21 Sep 2017 00:00:00 +0530</pubDate>
+        <link>https://jekyll-themes.com/liberxue/</link>
+        <guid isPermaLink="true">https://jekyll-themes.com/liberxue/</guid>
+        
+        
+        <category>minimal</category>
+        
+        <category>cards</category>
+        
+        <category>grid</category>
+        
+      </item>
     
       <item>
         <title>Helium</title>
@@ -147,23 +164,6 @@
         
         
         <category>minimal</category>
-        
-      </item>
-    
-      <item>
-        <title>Documentation Next</title>
-        <description>
-</description>
-        <pubDate>Mon, 11 Sep 2017 00:00:00 +0530</pubDate>
-        <link>https://jekyll-themes.com/documentation-next/</link>
-        <guid isPermaLink="true">https://jekyll-themes.com/documentation-next/</guid>
-        
-        
-        <category>minimal</category>
-        
-        <category>doumentation</category>
-        
-        <category>sidebar</category>
         
       </item>
     

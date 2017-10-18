@@ -2,6 +2,18 @@
   
     
     {
+      "category" : "minimal, cards, grid",
+      "title"    : "Liberxue",
+      "url"      : "/liberxue/",
+      "image"    : "liberxue.jpg",
+      "dev"      : "Liberxue"
+    } 
+
+    ,
+    
+  
+    
+    {
       "category" : "minimal, onepage, bootstrap",
       "title"    : "Helium",
       "url"      : "/helium/",
