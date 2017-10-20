@@ -2,6 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     
     <url>
+        <loc>https://jekyll-themes.com/sasa/</loc>
+    </url>
+    
+    <url>
+        <loc>https://jekyll-themes.com/semi/</loc>
+    </url>
+    
+    <url>
+        <loc>https://jekyll-themes.com/tufte-pandoc/</loc>
+    </url>
+    
+    <url>
         <loc>https://jekyll-themes.com/liberxue/</loc>
     </url>
     

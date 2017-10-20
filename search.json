@@ -2,6 +2,42 @@
   
     
     {
+      "category" : "minimal, typography, resume",
+      "title"    : "Sasa",
+      "url"      : "/sasa/",
+      "image"    : "sasa-jekyll-theme.png",
+      "dev"      : "newaeonweb"
+    } 
+
+    ,
+    
+  
+    
+    {
+      "category" : "minimal, cards, material, typography",
+      "title"    : "Semi",
+      "url"      : "/semi/",
+      "image"    : "theme-jekyll-semi.png",
+      "dev"      : "foreachsam"
+    } 
+
+    ,
+    
+  
+    
+    {
+      "category" : "minimal, typography",
+      "title"    : "Tufte Pandoc",
+      "url"      : "/tufte-pandoc/",
+      "image"    : "tufte-pandoc-jekyll.png",
+      "dev"      : "jez"
+    } 
+
+    ,
+    
+  
+    
+    {
       "category" : "minimal, cards, grid",
       "title"    : "Liberxue",
       "url"      : "/liberxue/",
