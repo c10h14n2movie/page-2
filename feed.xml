@@ -5,9 +5,24 @@
     <description>A collection of free jekyll themes and templates readily available to download.</description>
     <link>https://jekyll-themes.com/</link>
     <atom:link href="https://jekyll-themes.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 03 Nov 2017 19:56:17 +0530</pubDate>
-    <lastBuildDate>Fri, 03 Nov 2017 19:56:17 +0530</lastBuildDate>
+    <pubDate>Mon, 13 Nov 2017 16:10:13 +0530</pubDate>
+    <lastBuildDate>Mon, 13 Nov 2017 16:10:13 +0530</lastBuildDate>
     <generator>Jekyll v3.5.2</generator>
+    
+      <item>
+        <title>Massively</title>
+        <description>
+</description>
+        <pubDate>Mon, 25 Sep 2017 00:00:00 +0530</pubDate>
+        <link>https://jekyll-themes.com/massively/</link>
+        <guid isPermaLink="true">https://jekyll-themes.com/massively/</guid>
+        
+        
+        <category>onepage</category>
+        
+        <category>minimal</category>
+        
+      </item>
     
       <item>
         <title>Sasa</title>
@@ -155,21 +170,6 @@
         <category>minimal</category>
         
         <category>dark</category>
-        
-      </item>
-    
-      <item>
-        <title>Millidocs</title>
-        <description>
-</description>
-        <pubDate>Fri, 15 Sep 2017 00:00:00 +0530</pubDate>
-        <link>https://jekyll-themes.com/millidocs/</link>
-        <guid isPermaLink="true">https://jekyll-themes.com/millidocs/</guid>
-        
-        
-        <category>minimal</category>
-        
-        <category>slider</category>
         
       </item>
     

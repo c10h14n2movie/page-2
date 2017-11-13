@@ -2,6 +2,18 @@
   
     
     {
+      "category" : "onepage, minimal",
+      "title"    : "Massively",
+      "url"      : "/massively/",
+      "image"    : "massively.jpg",
+      "dev"      : "iwiedenm"
+    } 
+
+    ,
+    
+  
+    
+    {
       "category" : "minimal, typography, resume",
       "title"    : "Sasa",
       "url"      : "/sasa/",
