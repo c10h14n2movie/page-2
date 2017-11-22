@@ -5,9 +5,24 @@
     <description>A collection of free jekyll themes and templates readily available to download.</description>
     <link>https://jekyll-themes.com/</link>
     <atom:link href="https://jekyll-themes.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 20 Nov 2017 22:02:23 +0530</pubDate>
-    <lastBuildDate>Mon, 20 Nov 2017 22:02:23 +0530</lastBuildDate>
+    <pubDate>Thu, 23 Nov 2017 01:41:41 +0530</pubDate>
+    <lastBuildDate>Thu, 23 Nov 2017 01:41:41 +0530</lastBuildDate>
     <generator>Jekyll v3.5.2</generator>
+    
+      <item>
+        <title>Jasper 2</title>
+        <description>
+</description>
+        <pubDate>Tue, 26 Sep 2017 00:00:00 +0530</pubDate>
+        <link>https://jekyll-themes.com/jasper-2/</link>
+        <guid isPermaLink="true">https://jekyll-themes.com/jasper-2/</guid>
+        
+        
+        <category>cards</category>
+        
+        <category>minimal</category>
+        
+      </item>
     
       <item>
         <title>Massively</title>
@@ -155,21 +170,6 @@
         <category>dark</category>
         
         <category>cards</category>
-        
-      </item>
-    
-      <item>
-        <title>Solar</title>
-        <description>
-</description>
-        <pubDate>Sat, 16 Sep 2017 00:00:00 +0530</pubDate>
-        <link>https://jekyll-themes.com/solar/</link>
-        <guid isPermaLink="true">https://jekyll-themes.com/solar/</guid>
-        
-        
-        <category>minimal</category>
-        
-        <category>dark</category>
         
       </item>
     

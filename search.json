@@ -2,6 +2,18 @@
   
     
     {
+      "category" : "cards, minimal",
+      "title"    : "Jasper 2",
+      "url"      : "/jasper-2/",
+      "image"    : "jasper-2.jpg",
+      "dev"      : "myJekyll"
+    } 
+
+    ,
+    
+  
+    
+    {
       "category" : "onepage, minimal",
       "title"    : "Massively",
       "url"      : "/massively/",
