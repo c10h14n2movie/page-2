@@ -462,18 +462,6 @@
   
     
     {
-      "category" : "onepage, govenment",
-      "title"    : "Uswds",
-      "url"      : "/uswds/",
-      "image"    : "uswds.jpg",
-      "dev"      : "mclarty"
-    } 
-
-    ,
-    
-  
-    
-    {
       "category" : "resume, bootstrap, onepage",
       "title"    : "Panel Cv",
       "url"      : "/panel-cv/",
