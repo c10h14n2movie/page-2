@@ -5,9 +5,71 @@
     <description>A collection of free jekyll themes and templates readily available to download.</description>
     <link>https://jekyll-themes.com/</link>
     <atom:link href="https://jekyll-themes.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 30 Dec 2017 22:03:04 +0530</pubDate>
-    <lastBuildDate>Sat, 30 Dec 2017 22:03:04 +0530</lastBuildDate>
+    <pubDate>Sat, 30 Dec 2017 22:37:11 +0530</pubDate>
+    <lastBuildDate>Sat, 30 Dec 2017 22:37:11 +0530</lastBuildDate>
     <generator>Jekyll v3.5.2</generator>
+    
+      <item>
+        <title>Hacker Blog</title>
+        <description>
+</description>
+        <pubDate>Sat, 30 Sep 2017 00:00:00 +0530</pubDate>
+        <link>https://jekyll-themes.com/hacker-blog/</link>
+        <guid isPermaLink="true">https://jekyll-themes.com/hacker-blog/</guid>
+        
+        
+        <category>minimal</category>
+        
+        <category>typography</category>
+        
+        <category>dark</category>
+        
+      </item>
+    
+      <item>
+        <title>Minimal Text</title>
+        <description>
+</description>
+        <pubDate>Fri, 29 Sep 2017 00:00:00 +0530</pubDate>
+        <link>https://jekyll-themes.com/minimal-text/</link>
+        <guid isPermaLink="true">https://jekyll-themes.com/minimal-text/</guid>
+        
+        
+        <category>minimal</category>
+        
+        <category>typography</category>
+        
+      </item>
+    
+      <item>
+        <title>Minima Reboot</title>
+        <description>
+</description>
+        <pubDate>Thu, 28 Sep 2017 00:00:00 +0530</pubDate>
+        <link>https://jekyll-themes.com/minima-reboot/</link>
+        <guid isPermaLink="true">https://jekyll-themes.com/minima-reboot/</guid>
+        
+        
+        <category>minimal</category>
+        
+        <category>typography</category>
+        
+      </item>
+    
+      <item>
+        <title>Jekyll Help Center</title>
+        <description>
+</description>
+        <pubDate>Wed, 27 Sep 2017 00:00:00 +0530</pubDate>
+        <link>https://jekyll-themes.com/jekyll-help-center/</link>
+        <guid isPermaLink="true">https://jekyll-themes.com/jekyll-help-center/</guid>
+        
+        
+        <category>cards</category>
+        
+        <category>minimal</category>
+        
+      </item>
     
       <item>
         <title>Jasper 2</title>
@@ -104,72 +166,6 @@
         <category>cards</category>
         
         <category>grid</category>
-        
-      </item>
-    
-      <item>
-        <title>Helium</title>
-        <description>
-</description>
-        <pubDate>Wed, 20 Sep 2017 00:00:00 +0530</pubDate>
-        <link>https://jekyll-themes.com/helium/</link>
-        <guid isPermaLink="true">https://jekyll-themes.com/helium/</guid>
-        
-        
-        <category>minimal</category>
-        
-        <category>onepage</category>
-        
-        <category>bootstrap</category>
-        
-      </item>
-    
-      <item>
-        <title>Garth</title>
-        <description>
-</description>
-        <pubDate>Tue, 19 Sep 2017 00:00:00 +0530</pubDate>
-        <link>https://jekyll-themes.com/garth/</link>
-        <guid isPermaLink="true">https://jekyll-themes.com/garth/</guid>
-        
-        
-        <category>minimal</category>
-        
-        <category>typography</category>
-        
-      </item>
-    
-      <item>
-        <title>Travel Map</title>
-        <description>
-</description>
-        <pubDate>Mon, 18 Sep 2017 00:00:00 +0530</pubDate>
-        <link>https://jekyll-themes.com/travel-map/</link>
-        <guid isPermaLink="true">https://jekyll-themes.com/travel-map/</guid>
-        
-        
-        <category>minimal</category>
-        
-        <category>map</category>
-        
-        <category>onepage</category>
-        
-      </item>
-    
-      <item>
-        <title>Jekflix</title>
-        <description>
-</description>
-        <pubDate>Sun, 17 Sep 2017 00:00:00 +0530</pubDate>
-        <link>https://jekyll-themes.com/jekflix/</link>
-        <guid isPermaLink="true">https://jekyll-themes.com/jekflix/</guid>
-        
-        
-        <category>minimal</category>
-        
-        <category>dark</category>
-        
-        <category>cards</category>
         
       </item>
     

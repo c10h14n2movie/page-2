@@ -2,6 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     
     <url>
+        <loc>https://jekyll-themes.com/hacker-blog/</loc>
+    </url>
+    
+    <url>
+        <loc>https://jekyll-themes.com/minimal-text/</loc>
+    </url>
+    
+    <url>
+        <loc>https://jekyll-themes.com/minima-reboot/</loc>
+    </url>
+    
+    <url>
+        <loc>https://jekyll-themes.com/jekyll-help-center/</loc>
+    </url>
+    
+    <url>
         <loc>https://jekyll-themes.com/jasper-2/</loc>
     </url>
     
@@ -31,6 +47,10 @@
     
     <url>
         <loc>https://jekyll-themes.com/garth/</loc>
+    </url>
+    
+    <url>
+        <loc>https://jekyll-themes.com/AD/</loc>
     </url>
     
     <url>
@@ -71,6 +91,10 @@
     
     <url>
         <loc>https://jekyll-themes.com/eston/</loc>
+    </url>
+    
+    <url>
+        <loc>https://jekyll-themes.com/AD/</loc>
     </url>
     
     <url>
@@ -1256,6 +1280,9 @@
     <url>
         <loc>https://jekyll-themes.com/online</loc>
     </url>
+    
+    
+    
     
     
     

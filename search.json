@@ -2,6 +2,54 @@
   
     
     {
+      "category" : "minimal, typography, dark",
+      "title"    : "Hacker Blog",
+      "url"      : "/hacker-blog/",
+      "image"    : "hacker-blog.png",
+      "dev"      : "tocttou"
+    } 
+
+    ,
+    
+  
+    
+    {
+      "category" : "minimal, typography",
+      "title"    : "Minimal Text",
+      "url"      : "/minimal-text/",
+      "image"    : "minimal-text.png",
+      "dev"      : "clarkhacks"
+    } 
+
+    ,
+    
+  
+    
+    {
+      "category" : "minimal, typography",
+      "title"    : "Minima Reboot",
+      "url"      : "/minima-reboot/",
+      "image"    : "minima-reboot.png",
+      "dev"      : "aterenin"
+    } 
+
+    ,
+    
+  
+    
+    {
+      "category" : "cards, minimal",
+      "title"    : "Jekyll Help Center",
+      "url"      : "/jekyll-help-center/",
+      "image"    : "jekyll-help-center-theme.png",
+      "dev"      : "gustavoquinalha"
+    } 
+
+    ,
+    
+  
+    
+    {
       "category" : "cards, minimal",
       "title"    : "Jasper 2",
       "url"      : "/jasper-2/",
@@ -94,6 +142,8 @@
     } 
 
     ,
+    
+  
     
   
     
@@ -214,6 +264,8 @@
     } 
 
     ,
+    
+  
     
   
     
