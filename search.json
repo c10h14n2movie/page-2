@@ -2,6 +2,18 @@
   
     
     {
+      "category" : "minimal, typography",
+      "title"    : "Paper",
+      "url"      : "/paper/",
+      "image"    : "paper-jekyll-theme.png",
+      "dev"      : "mkchoi212"
+    } 
+
+    ,
+    
+  
+    
+    {
       "category" : "minimal, typography, dark",
       "title"    : "Hacker Blog",
       "url"      : "/hacker-blog/",

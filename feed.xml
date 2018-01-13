@@ -5,9 +5,24 @@
     <description>A collection of free jekyll themes and templates readily available to download.</description>
     <link>https://jekyll-themes.com/</link>
     <atom:link href="https://jekyll-themes.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 30 Dec 2017 23:34:51 +0530</pubDate>
-    <lastBuildDate>Sat, 30 Dec 2017 23:34:51 +0530</lastBuildDate>
+    <pubDate>Sun, 14 Jan 2018 00:51:52 +0530</pubDate>
+    <lastBuildDate>Sun, 14 Jan 2018 00:51:52 +0530</lastBuildDate>
     <generator>Jekyll v3.5.2</generator>
+    
+      <item>
+        <title>Paper</title>
+        <description>
+</description>
+        <pubDate>Sun, 01 Oct 2017 00:00:00 +0530</pubDate>
+        <link>https://jekyll-themes.com/paper/</link>
+        <guid isPermaLink="true">https://jekyll-themes.com/paper/</guid>
+        
+        
+        <category>minimal</category>
+        
+        <category>typography</category>
+        
+      </item>
     
       <item>
         <title>Hacker Blog</title>
@@ -149,23 +164,6 @@
         <category>minimal</category>
         
         <category>typography</category>
-        
-      </item>
-    
-      <item>
-        <title>Liberxue</title>
-        <description>
-</description>
-        <pubDate>Thu, 21 Sep 2017 00:00:00 +0530</pubDate>
-        <link>https://jekyll-themes.com/liberxue/</link>
-        <guid isPermaLink="true">https://jekyll-themes.com/liberxue/</guid>
-        
-        
-        <category>minimal</category>
-        
-        <category>cards</category>
-        
-        <category>grid</category>
         
       </item>
     
