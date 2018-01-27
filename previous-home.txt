@@ -1,0 +1,71 @@
+<div class="row box">
+         {% for post in paginator.posts %}
+            <div class="four columns card">
+               {% if post.repo == 'ad' %}
+                    <div class="card-body">
+                     {% include adsense-theme-like.html %}
+                       <hr />
+                        <div class="details row">
+                            <div class="twelve columns"><h2 class="theme-title">Jekyll Themes(Ad)</h2></div>
+                             <div class="twelve columns"><h2 itemprop="name" class="theme-title">Avocado</h2></div>
+                           <div class="twelve columns"><p itemprop="dateCreated" class="theme-date">Date: 2016-10-01</p></div>
+                            <div class="twelve columns">
+                            <p class="dev">Developer: <span class="name">JekyllThemes</span>
+                            <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADwAAAA8CAMAAAANIilAAAAAulBMVEUAAAAjIyMjIyP7AQH7AQH7AQH7AQEjIyP7AQH7AQEjIyP7AQEjIyP7AQEvISHECgr7AQEjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyP9AAAtISH7AQG8Cwv7AQH+AQEjIyMjIyMjIyP7AQH+AQEvISHECgr7AQFWGxv7AQH7AQH7AQH7AQEjIyMjIyP7AQH7AQEjIyP+AQF4Bn/gAAAAO3RSTlMAi/PoKq4GSYLYBR6Ce/z5aLAfDPnd/e24oIZPRjwo5uSzpWI0Gfrz3t7Y08y7uIKBgHBeWFRDNS4XDLdira0AAADVSURBVEjH7c5HDsIwFEXRn9BNt9Mbvffewv63hQR2JAZRsJkQ5Dt80pEeyNKaV6GtN6tiXKcYrIS0Wv1+i6sh8S/h4XhaejaJzKhE2ydhdTcoPztmGF5my6+uibhAl2yEc3mgSSyxxBJL/GfY+wKbPjdGNsPtMzcmFsMzTKfBtko7JLzutxnuEODNCVkKh8KYIHTptZjVep9bZOsduztXQ5YecOBm+F4XiWOzAMLYcJA4tjCIYsMKQBAbLQUDH3Z0U9U0TdUXlT4Czgj2Pdd1/YBAGnoA3zHUPkgQxcMAAAAASUVORK5CYII=" class="avatar" alt="Jekyll Themes" title="Jekyll Theme">                          
+                            </p>
+                            </div>
+                        </div>
+                    </div>
+                   {% else %}
+                   <div class="card-body" itemscope itemtype ="http://schema.org/SoftwareSourceCode">
+                     <a itemprop="exampleOfWork" {% if post.demo %}href="{{post.demo}}" {% else %}href="" class="demo" id="demo{{forloop.index}}"{% endif %} target="_blank" rel="nofollow noopener noreferrer" >
+                      <img itemprop="image" class="image" width="300" height="240" src="/images/{{post.image}}" alt="{{post.repo | append: ' Jekyll Themes & Templates' }}" title="{{post.repo | capitalize | append: ' Jekyll Theme'}}">
+                   </a>
+                        <div class="details row">
+                           <div class="twelve columns"><h2 itemprop="name" class="theme-title">{% if post.title %}{{post.title}}{% else %}{{post.repo | capitalize}}{% endif %}</h2></div>
+                           <div class="twelve columns"><p itemprop="dateCreated" class="theme-date theme-date{{forloop.index}}">Date: </p></div>
+                           <div class="twelve columns">
+                              {% if post.dev %}
+                               <p class="dev">Developer: <span itemprop="creator" class="name">{{post.dev | capitalize}}</span>
+                               <img src="{{post.avatar}}" class="avatar" alt="{{post.dev | capitalize}} - Jekyll Themes Developer" title="{{post.dev | capitalize}}">
+                               </p>
+                               {% else %}
+                                <p class="dev">Developer: <span itemprop="creator" class="name">{{post.user | capitalize}}</span>
+                               <img class="avatar avatar{{forloop.index}}" alt="{{post.user | capitalize}} - Jekyll Themes Developer" title="{{post.user | capitalize}}">
+                               </p>
+                               {% endif %}
+                           </div>
+                        </div>
+                    <hr />
+                        <div class="details">
+                            <i class="fa fa-code-fork" aria-hidden="true"></i><p class="fork" id="forks{{forloop.index}}"></p>
+                     
+                            <a itemprop="url" href="{{post.url}}" class="view"><i class="fa fa-television" aria-hidden="true"></i> Specs</a>
+                           
+                            <a itemprop="codeRepository" href="https://github.com/{{post.user}}/{{post.repo}}" class="repo" target="_blank"><i class="fa fa-code" aria-hidden="true"></i> Repository</a>
+                    </div>
+
+                </div>
+                {% endif %}
+            </div>
+           {% endfor %}
+               
+                <div class="twelve columns center mt20">
+                    <a href="/premium/" class="button button-success">Premium Jekyll Themes</a>
+                </div>
+                
+                
+                <div class="twelve columns pagination">
+                        {% include pagination-v2.html %} 
+                </div>    
+                <div class="twelve columns">
+                       <div class="add">
+                            {% include adsense.html %} 
+                        </div>
+                </div>
+
+
+    </div>
+    {% if page.url == '/' %}
+    {% include notification.html color="red mt20" message="Bookmark the site for future use." %} 
+    {% endif %}
