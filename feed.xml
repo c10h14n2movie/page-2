@@ -5,9 +5,28 @@
     <description>A collection of free jekyll themes and templates readily available to download.</description>
     <link>https://jekyll-themes.com/</link>
     <atom:link href="https://jekyll-themes.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 17 Feb 2018 22:19:24 +0530</pubDate>
-    <lastBuildDate>Sat, 17 Feb 2018 22:19:24 +0530</lastBuildDate>
+    <pubDate>Mon, 19 Feb 2018 14:05:27 +0530</pubDate>
+    <lastBuildDate>Mon, 19 Feb 2018 14:05:27 +0530</lastBuildDate>
     <generator>Jekyll v3.5.2</generator>
+    
+      <item>
+        <title>Barber</title>
+        <description>
+</description>
+        <pubDate>Mon, 02 Oct 2017 00:00:00 +0530</pubDate>
+        <link>https://jekyll-themes.com/barber/</link>
+        <guid isPermaLink="true">https://jekyll-themes.com/barber/</guid>
+        
+        
+        <category>minimal</category>
+        
+        <category>cards</category>
+        
+        <category>photography</category>
+        
+        <category>typography</category>
+        
+      </item>
     
       <item>
         <title>Paper</title>
@@ -147,21 +166,6 @@
         <category>cards</category>
         
         <category>material</category>
-        
-        <category>typography</category>
-        
-      </item>
-    
-      <item>
-        <title>Tufte Pandoc</title>
-        <description>
-</description>
-        <pubDate>Fri, 22 Sep 2017 00:00:00 +0530</pubDate>
-        <link>https://jekyll-themes.com/tufte-pandoc/</link>
-        <guid isPermaLink="true">https://jekyll-themes.com/tufte-pandoc/</guid>
-        
-        
-        <category>minimal</category>
         
         <category>typography</category>
         

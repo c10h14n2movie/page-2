@@ -2,6 +2,18 @@
   
     
     {
+      "category" : "minimal, cards, photography, typography",
+      "title"    : "Barber",
+      "url"      : "/barber/",
+      "image"    : "barber.jpg",
+      "dev"      : "samesies"
+    } 
+
+    ,
+    
+  
+    
+    {
       "category" : "minimal, typography",
       "title"    : "Paper",
       "url"      : "/paper/",
