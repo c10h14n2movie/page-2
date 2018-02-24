@@ -863,6 +863,10 @@
        
     
     <url>
+        <loc>https://jekyll-themes.com/premium/appszone/</loc>
+    </url>
+    
+    <url>
         <loc>https://jekyll-themes.com/premium/aspire/</loc>
     </url>
     
@@ -887,7 +891,19 @@
     </url>
     
     <url>
+        <loc>https://jekyll-themes.com/premium/desk/</loc>
+    </url>
+    
+    <url>
         <loc>https://jekyll-themes.com/premium/devoll/</loc>
+    </url>
+    
+    <url>
+        <loc>https://jekyll-themes.com/premium/docs/</loc>
+    </url>
+    
+    <url>
+        <loc>https://jekyll-themes.com/premium/doks/</loc>
     </url>
     
     <url>
@@ -956,6 +972,10 @@
     
     <url>
         <loc>https://jekyll-themes.com/premium/vida/</loc>
+    </url>
+    
+    <url>
+        <loc>https://jekyll-themes.com/premium/wrap/</loc>
     </url>
     
     <url>
