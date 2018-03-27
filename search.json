@@ -2,6 +2,18 @@
   
     
     {
+      "category" : "minimal, typography",
+      "title"    : "Pudhina",
+      "url"      : "/pudhina/",
+      "image"    : "pudhina.png",
+      "dev"      : "Knhash"
+    } 
+
+    ,
+    
+  
+    
+    {
       "category" : "minimal, cards, photography, typography",
       "title"    : "Barber",
       "url"      : "/barber/",
