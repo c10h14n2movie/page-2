@@ -5,9 +5,41 @@
     <description>A collection of free jekyll themes and templates readily available to download.</description>
     <link>https://jekyll-themes.com/</link>
     <atom:link href="https://jekyll-themes.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 27 Mar 2018 09:10:01 +0530</pubDate>
-    <lastBuildDate>Tue, 27 Mar 2018 09:10:01 +0530</lastBuildDate>
-    <generator>Jekyll v3.5.2</generator>
+    <pubDate>Sun, 15 Apr 2018 14:52:38 +0530</pubDate>
+    <lastBuildDate>Sun, 15 Apr 2018 14:52:38 +0530</lastBuildDate>
+    <generator>Jekyll v3.7.3</generator>
+    
+      <item>
+        <title>Sleek</title>
+        <description>
+</description>
+        <pubDate>Wed, 04 Oct 2017 00:00:00 +0530</pubDate>
+        <link>https://jekyll-themes.com/sleek/</link>
+        <guid isPermaLink="true">https://jekyll-themes.com/sleek/</guid>
+        
+        
+        <category>minimal</category>
+        
+        <category>cards</category>
+        
+      </item>
+    
+      <item>
+        <title>Mediumish</title>
+        <description>
+</description>
+        <pubDate>Wed, 04 Oct 2017 00:00:00 +0530</pubDate>
+        <link>https://jekyll-themes.com/mediumish/</link>
+        <guid isPermaLink="true">https://jekyll-themes.com/mediumish/</guid>
+        
+        
+        <category>minimal</category>
+        
+        <category>typography</category>
+        
+        <category>cards</category>
+        
+      </item>
     
       <item>
         <title>Pudhina</title>
@@ -123,49 +155,13 @@
       </item>
     
       <item>
-        <title>Jasper 2</title>
+        <title>Ad</title>
         <description>
 </description>
-        <pubDate>Tue, 26 Sep 2017 00:00:00 +0530</pubDate>
-        <link>https://jekyll-themes.com/jasper-2/</link>
-        <guid isPermaLink="true">https://jekyll-themes.com/jasper-2/</guid>
+        <pubDate>Wed, 27 Sep 2017 00:00:00 +0530</pubDate>
+        <link>https://jekyll-themes.com/AD/</link>
+        <guid isPermaLink="true">https://jekyll-themes.com/AD/</guid>
         
-        
-        <category>cards</category>
-        
-        <category>minimal</category>
-        
-      </item>
-    
-      <item>
-        <title>Massively</title>
-        <description>
-</description>
-        <pubDate>Mon, 25 Sep 2017 00:00:00 +0530</pubDate>
-        <link>https://jekyll-themes.com/massively/</link>
-        <guid isPermaLink="true">https://jekyll-themes.com/massively/</guid>
-        
-        
-        <category>onepage</category>
-        
-        <category>minimal</category>
-        
-      </item>
-    
-      <item>
-        <title>Sasa</title>
-        <description>
-</description>
-        <pubDate>Sun, 24 Sep 2017 00:00:00 +0530</pubDate>
-        <link>https://jekyll-themes.com/sasa/</link>
-        <guid isPermaLink="true">https://jekyll-themes.com/sasa/</guid>
-        
-        
-        <category>minimal</category>
-        
-        <category>typography</category>
-        
-        <category>resume</category>
         
       </item>
     

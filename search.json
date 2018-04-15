@@ -2,6 +2,30 @@
   
     
     {
+      "category" : "minimal, cards",
+      "title"    : "Sleek",
+      "url"      : "/sleek/",
+      "image"    : "sleek.png",
+      "dev"      : "janczizikow"
+    } 
+
+    ,
+    
+  
+    
+    {
+      "category" : "minimal, typography, cards",
+      "title"    : "Mediumish",
+      "url"      : "/mediumish/",
+      "image"    : "mediumish-theme-jekyll.png",
+      "dev"      : "wowthemesnet"
+    } 
+
+    ,
+    
+  
+    
+    {
       "category" : "minimal, typography, resume",
       "title"    : "Pudhina",
       "url"      : "/pudhina/",
@@ -82,6 +106,8 @@
     } 
 
     ,
+    
+  
     
   
     
