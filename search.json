@@ -3,6 +3,30 @@
     
     {
       "category" : "minimal, cards",
+      "title"    : "Pineapple",
+      "url"      : "/pineapple/",
+      "image"    : "pineapple.png",
+      "dev"      : "arnolds"
+    } 
+
+    ,
+    
+  
+    
+    {
+      "category" : "minimal, slider, menubar",
+      "title"    : "Business",
+      "url"      : "/business/",
+      "image"    : "business-jekyll-theme.png",
+      "dev"      : "melvinchng"
+    } 
+
+    ,
+    
+  
+    
+    {
+      "category" : "minimal, cards",
       "title"    : "Sleek",
       "url"      : "/sleek/",
       "image"    : "sleek.png",
