@@ -710,9 +710,9 @@
   
     
     {
-      "category" : "bootstrap",
-      "title"    : "Joutou",
-      "url"      : "/joutou/",
+      "category" : "bootstrap, minimal, cards",
+      "title"    : "Joytou",
+      "url"      : "/joytou/",
       "image"    : "joytou.png",
       "dev"      : "joytou"
     } 
