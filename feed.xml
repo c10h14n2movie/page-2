@@ -5,9 +5,24 @@
     <description>A collection of free jekyll themes and templates readily available to download.</description>
     <link>https://jekyll-themes.com/</link>
     <atom:link href="https://jekyll-themes.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 18 Apr 2018 23:01:51 +0530</pubDate>
-    <lastBuildDate>Wed, 18 Apr 2018 23:01:51 +0530</lastBuildDate>
+    <pubDate>Fri, 20 Apr 2018 23:55:52 +0530</pubDate>
+    <lastBuildDate>Fri, 20 Apr 2018 23:55:52 +0530</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
+    
+      <item>
+        <title>Junior</title>
+        <description>
+</description>
+        <pubDate>Sun, 08 Oct 2017 00:00:00 +0530</pubDate>
+        <link>https://jekyll-themes.com/junior/</link>
+        <guid isPermaLink="true">https://jekyll-themes.com/junior/</guid>
+        
+        
+        <category>minimal</category>
+        
+        <category>typography</category>
+        
+      </item>
     
       <item>
         <title>Pineapple</title>
@@ -148,21 +163,6 @@
         <pubDate>Fri, 29 Sep 2017 00:00:00 +0530</pubDate>
         <link>https://jekyll-themes.com/minimal-text/</link>
         <guid isPermaLink="true">https://jekyll-themes.com/minimal-text/</guid>
-        
-        
-        <category>minimal</category>
-        
-        <category>typography</category>
-        
-      </item>
-    
-      <item>
-        <title>Minima Reboot</title>
-        <description>
-</description>
-        <pubDate>Thu, 28 Sep 2017 00:00:00 +0530</pubDate>
-        <link>https://jekyll-themes.com/minima-reboot/</link>
-        <guid isPermaLink="true">https://jekyll-themes.com/minima-reboot/</guid>
         
         
         <category>minimal</category>

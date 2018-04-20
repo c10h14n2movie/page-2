@@ -2,6 +2,18 @@
   
     
     {
+      "category" : "minimal, typography",
+      "title"    : "Junior",
+      "url"      : "/junior/",
+      "image"    : "junior-theme.png",
+      "dev"      : "thundergolfer"
+    } 
+
+    ,
+    
+  
+    
+    {
       "category" : "minimal, cards",
       "title"    : "Pineapple",
       "url"      : "/pineapple/",
