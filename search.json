@@ -2,6 +2,18 @@
   
     
     {
+      "category" : "minimal, typography, cards, menubar",
+      "title"    : "Cards Jekyll Template",
+      "url"      : "/cards-jekyll-template/",
+      "image"    : "cards-jekyll-template.png",
+      "dev"      : "willianjusten"
+    } 
+
+    ,
+    
+  
+    
+    {
       "category" : "minimal, typography",
       "title"    : "Junior",
       "url"      : "/junior/",

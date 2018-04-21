@@ -5,9 +5,28 @@
     <description>A collection of free jekyll themes and templates readily available to download.</description>
     <link>https://jekyll-themes.com/</link>
     <atom:link href="https://jekyll-themes.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 20 Apr 2018 23:55:52 +0530</pubDate>
-    <lastBuildDate>Fri, 20 Apr 2018 23:55:52 +0530</lastBuildDate>
+    <pubDate>Sat, 21 Apr 2018 19:10:06 +0530</pubDate>
+    <lastBuildDate>Sat, 21 Apr 2018 19:10:06 +0530</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
+    
+      <item>
+        <title>Cards Jekyll Template</title>
+        <description>
+</description>
+        <pubDate>Mon, 09 Oct 2017 00:00:00 +0530</pubDate>
+        <link>https://jekyll-themes.com/cards-jekyll-template/</link>
+        <guid isPermaLink="true">https://jekyll-themes.com/cards-jekyll-template/</guid>
+        
+        
+        <category>minimal</category>
+        
+        <category>typography</category>
+        
+        <category>cards</category>
+        
+        <category>menubar</category>
+        
+      </item>
     
       <item>
         <title>Junior</title>
@@ -153,21 +172,6 @@
         <category>typography</category>
         
         <category>dark</category>
-        
-      </item>
-    
-      <item>
-        <title>Minimal Text</title>
-        <description>
-</description>
-        <pubDate>Fri, 29 Sep 2017 00:00:00 +0530</pubDate>
-        <link>https://jekyll-themes.com/minimal-text/</link>
-        <guid isPermaLink="true">https://jekyll-themes.com/minimal-text/</guid>
-        
-        
-        <category>minimal</category>
-        
-        <category>typography</category>
         
       </item>
     
