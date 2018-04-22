@@ -2,6 +2,42 @@
   
     
     {
+      "category" : "minimal, typography",
+      "title"    : "Text",
+      "url"      : "/text/",
+      "image"    : "jekyll-TeXt-theme.png",
+      "dev"      : "kitian616"
+    } 
+
+    ,
+    
+  
+    
+    {
+      "category" : "minimal, academic, resume",
+      "title"    : "Al Folio",
+      "url"      : "/al-folio/",
+      "image"    : "al-folio-academic.png",
+      "dev"      : "alshedivat"
+    } 
+
+    ,
+    
+  
+    
+    {
+      "category" : "minimal, typography",
+      "title"    : "Swiss",
+      "url"      : "/swiss/",
+      "image"    : "swiss.png",
+      "dev"      : "broccolini"
+    } 
+
+    ,
+    
+  
+    
+    {
       "category" : "minimal, typography, cards, menubar",
       "title"    : "Cards Jekyll Template",
       "url"      : "/cards-jekyll-template/",

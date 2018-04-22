@@ -2,6 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     
     <url>
+        <loc>https://jekyll-themes.com/text/</loc>
+    </url>
+    
+    <url>
+        <loc>https://jekyll-themes.com/al-folio/</loc>
+    </url>
+    
+    <url>
+        <loc>https://jekyll-themes.com/swiss/</loc>
+    </url>
+    
+    <url>
         <loc>https://jekyll-themes.com/cards-jekyll-template/</loc>
     </url>
     
@@ -1340,6 +1352,9 @@
     <url>
         <loc>https://jekyll-themes.com/online</loc>
     </url>
+    
+    
+    
     
     
     
