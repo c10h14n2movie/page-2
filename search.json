@@ -2,6 +2,18 @@
   
     
     {
+      "category" : "minimal, resume, book",
+      "title"    : "Jekyll For Everyone",
+      "url"      : "/jekyll-for-everyone/",
+      "image"    : "jekyll-for-everyone.png",
+      "dev"      : "melvinchng"
+    } 
+
+    ,
+    
+  
+    
+    {
       "category" : "minimal, typography, academic",
       "title"    : "Text",
       "url"      : "/text/",

@@ -2,1036 +2,1040 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     
     <url>
-        <loc>https://jekyll-themes.com/text/</loc>
+        <loc>http://localhost:4000/jekyll-for-everyone/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/al-folio/</loc>
+        <loc>http://localhost:4000/text/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/swiss/</loc>
+        <loc>http://localhost:4000/al-folio/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/cards-jekyll-template/</loc>
+        <loc>http://localhost:4000/swiss/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/junior/</loc>
+        <loc>http://localhost:4000/cards-jekyll-template/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/pineapple/</loc>
+        <loc>http://localhost:4000/junior/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/business/</loc>
+        <loc>http://localhost:4000/pineapple/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/sleek/</loc>
+        <loc>http://localhost:4000/business/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/mediumish/</loc>
+        <loc>http://localhost:4000/sleek/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/pudhina/</loc>
+        <loc>http://localhost:4000/mediumish/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/barber/</loc>
+        <loc>http://localhost:4000/pudhina/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/paper/</loc>
+        <loc>http://localhost:4000/barber/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/hacker-blog/</loc>
+        <loc>http://localhost:4000/paper/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/minimal-text/</loc>
+        <loc>http://localhost:4000/hacker-blog/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/minima-reboot/</loc>
+        <loc>http://localhost:4000/minimal-text/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/jekyll-help-center/</loc>
+        <loc>http://localhost:4000/minima-reboot/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/AD/</loc>
+        <loc>http://localhost:4000/jekyll-help-center/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/jasper-2/</loc>
+        <loc>http://localhost:4000/AD/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/massively/</loc>
+        <loc>http://localhost:4000/jasper-2/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/sasa/</loc>
+        <loc>http://localhost:4000/massively/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/semi/</loc>
+        <loc>http://localhost:4000/sasa/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/tufte-pandoc/</loc>
+        <loc>http://localhost:4000/semi/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/liberxue/</loc>
+        <loc>http://localhost:4000/tufte-pandoc/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/helium/</loc>
+        <loc>http://localhost:4000/liberxue/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/garth/</loc>
+        <loc>http://localhost:4000/helium/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/AD/</loc>
+        <loc>http://localhost:4000/garth/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/travel-map/</loc>
+        <loc>http://localhost:4000/AD/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/jekflix/</loc>
+        <loc>http://localhost:4000/travel-map/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/solar/</loc>
+        <loc>http://localhost:4000/jekflix/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/millidocs/</loc>
+        <loc>http://localhost:4000/solar/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/business-casual/</loc>
+        <loc>http://localhost:4000/millidocs/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/flexible-jekyll/</loc>
+        <loc>http://localhost:4000/business-casual/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/minimaless/</loc>
+        <loc>http://localhost:4000/flexible-jekyll/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/documentation-next/</loc>
+        <loc>http://localhost:4000/minimaless/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/blaues/</loc>
+        <loc>http://localhost:4000/documentation-next/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/eston/</loc>
+        <loc>http://localhost:4000/blaues/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/AD/</loc>
+        <loc>http://localhost:4000/eston/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/handsomely/</loc>
+        <loc>http://localhost:4000/AD/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/tranquil-theme/</loc>
+        <loc>http://localhost:4000/handsomely/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/fur/</loc>
+        <loc>http://localhost:4000/tranquil-theme/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/portfolio/</loc>
+        <loc>http://localhost:4000/fur/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/uno/</loc>
+        <loc>http://localhost:4000/portfolio/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/schrift/</loc>
+        <loc>http://localhost:4000/uno/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/vue-jekyll/</loc>
+        <loc>http://localhost:4000/schrift/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/wing/</loc>
+        <loc>http://localhost:4000/vue-jekyll/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/AD/</loc>
+        <loc>http://localhost:4000/wing/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/awesome-app/</loc>
+        <loc>http://localhost:4000/AD/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/overkyll/</loc>
+        <loc>http://localhost:4000/awesome-app/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/white-paper/</loc>
+        <loc>http://localhost:4000/overkyll/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/starving-artist/</loc>
+        <loc>http://localhost:4000/white-paper/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/identity/</loc>
+        <loc>http://localhost:4000/starving-artist/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/devjournal/</loc>
+        <loc>http://localhost:4000/identity/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/book/</loc>
+        <loc>http://localhost:4000/devjournal/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/adam-blog/</loc>
+        <loc>http://localhost:4000/book/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/timeline/</loc>
+        <loc>http://localhost:4000/adam-blog/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/phantom/</loc>
+        <loc>http://localhost:4000/timeline/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/AD/</loc>
+        <loc>http://localhost:4000/phantom/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/lens/</loc>
+        <loc>http://localhost:4000/AD/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/eventually/</loc>
+        <loc>http://localhost:4000/lens/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/panel-cv/</loc>
+        <loc>http://localhost:4000/eventually/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/dactl/</loc>
+        <loc>http://localhost:4000/panel-cv/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/basically-basic/</loc>
+        <loc>http://localhost:4000/dactl/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/highlights/</loc>
+        <loc>http://localhost:4000/basically-basic/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/forty/</loc>
+        <loc>http://localhost:4000/highlights/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/AD/</loc>
+        <loc>http://localhost:4000/forty/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/matjek/</loc>
+        <loc>http://localhost:4000/AD/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/louie/</loc>
+        <loc>http://localhost:4000/matjek/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/tale/</loc>
+        <loc>http://localhost:4000/louie/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/typing/</loc>
+        <loc>http://localhost:4000/tale/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/joytou/</loc>
+        <loc>http://localhost:4000/typing/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/simple-texture/</loc>
+        <loc>http://localhost:4000/joytou/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/jblog/</loc>
+        <loc>http://localhost:4000/simple-texture/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/future-imperfect/</loc>
+        <loc>http://localhost:4000/jblog/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/editorial/</loc>
+        <loc>http://localhost:4000/future-imperfect/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/AD/</loc>
+        <loc>http://localhost:4000/editorial/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/bef/</loc>
+        <loc>http://localhost:4000/AD/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/materialize-starter/</loc>
+        <loc>http://localhost:4000/bef/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/event/</loc>
+        <loc>http://localhost:4000/materialize-starter/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/next/</loc>
+        <loc>http://localhost:4000/event/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/hydejack/</loc>
+        <loc>http://localhost:4000/next/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/marat/</loc>
+        <loc>http://localhost:4000/hydejack/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/dark-side/</loc>
+        <loc>http://localhost:4000/marat/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/AD/</loc>
+        <loc>http://localhost:4000/dark-side/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/bootstrap/</loc>
+        <loc>http://localhost:4000/AD/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/sparrow/</loc>
+        <loc>http://localhost:4000/bootstrap/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/millenial/</loc>
+        <loc>http://localhost:4000/sparrow/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/jekyll-doc/</loc>
+        <loc>http://localhost:4000/millenial/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/h20/</loc>
+        <loc>http://localhost:4000/jekyll-doc/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/clean-jekyll/</loc>
+        <loc>http://localhost:4000/h20/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/cayman-blog/</loc>
+        <loc>http://localhost:4000/clean-jekyll/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/bheema/</loc>
+        <loc>http://localhost:4000/cayman-blog/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/online-cv/</loc>
+        <loc>http://localhost:4000/bheema/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/AD/</loc>
+        <loc>http://localhost:4000/online-cv/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/time-machine/</loc>
+        <loc>http://localhost:4000/AD/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/photography/</loc>
+        <loc>http://localhost:4000/time-machine/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/soot-spirits/</loc>
+        <loc>http://localhost:4000/photography/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/mono/</loc>
+        <loc>http://localhost:4000/soot-spirits/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/mekyll/</loc>
+        <loc>http://localhost:4000/mono/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/git-wiki/</loc>
+        <loc>http://localhost:4000/mekyll/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/levytsroman/</loc>
+        <loc>http://localhost:4000/git-wiki/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/jmcglone/</loc>
+        <loc>http://localhost:4000/levytsroman/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/dentistsmile/</loc>
+        <loc>http://localhost:4000/jmcglone/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/base/</loc>
+        <loc>http://localhost:4000/dentistsmile/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/AD/</loc>
+        <loc>http://localhost:4000/base/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/new-age/</loc>
+        <loc>http://localhost:4000/AD/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/wead/</loc>
+        <loc>http://localhost:4000/new-age/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/surgeon-tux/</loc>
+        <loc>http://localhost:4000/wead/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/particle/</loc>
+        <loc>http://localhost:4000/surgeon-tux/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/merlot/</loc>
+        <loc>http://localhost:4000/particle/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/long-haul/</loc>
+        <loc>http://localhost:4000/merlot/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/leopard/</loc>
+        <loc>http://localhost:4000/long-haul/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/lagrange/</loc>
+        <loc>http://localhost:4000/leopard/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/AD/</loc>
+        <loc>http://localhost:4000/lagrange/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/fresh/</loc>
+        <loc>http://localhost:4000/AD/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/hilmi/</loc>
+        <loc>http://localhost:4000/fresh/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/daktilo/</loc>
+        <loc>http://localhost:4000/hilmi/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/tactile/</loc>
+        <loc>http://localhost:4000/daktilo/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/alembic/</loc>
+        <loc>http://localhost:4000/tactile/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/solid/</loc>
+        <loc>http://localhost:4000/alembic/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/urban/</loc>
+        <loc>http://localhost:4000/solid/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/AD/</loc>
+        <loc>http://localhost:4000/urban/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/slim/</loc>
+        <loc>http://localhost:4000/AD/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/slate/</loc>
+        <loc>http://localhost:4000/slim/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/project-gaia/</loc>
+        <loc>http://localhost:4000/slate/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/fullit/</loc>
+        <loc>http://localhost:4000/project-gaia/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/blog/</loc>
+        <loc>http://localhost:4000/fullit/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/ashwath/</loc>
+        <loc>http://localhost:4000/blog/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/AD/</loc>
+        <loc>http://localhost:4000/ashwath/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/minimal-mistakes/</loc>
+        <loc>http://localhost:4000/AD/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/micronaut/</loc>
+        <loc>http://localhost:4000/minimal-mistakes/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/mickey/</loc>
+        <loc>http://localhost:4000/micronaut/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/monday/</loc>
+        <loc>http://localhost:4000/mickey/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/krishna/</loc>
+        <loc>http://localhost:4000/monday/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/kikofri/</loc>
+        <loc>http://localhost:4000/krishna/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/jalpc/</loc>
+        <loc>http://localhost:4000/kikofri/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/jackman/</loc>
+        <loc>http://localhost:4000/jalpc/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/hydra/</loc>
+        <loc>http://localhost:4000/jackman/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/LAD/</loc>
+        <loc>http://localhost:4000/hydra/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/slides/</loc>
+        <loc>http://localhost:4000/LAD/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/freelancer/</loc>
+        <loc>http://localhost:4000/slides/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/feeling-responsive/</loc>
+        <loc>http://localhost:4000/freelancer/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/exemplar/</loc>
+        <loc>http://localhost:4000/feeling-responsive/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/crossing/</loc>
+        <loc>http://localhost:4000/exemplar/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/physalis/</loc>
+        <loc>http://localhost:4000/crossing/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/change/</loc>
+        <loc>http://localhost:4000/physalis/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/blade/</loc>
+        <loc>http://localhost:4000/change/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/awesome-sites/</loc>
+        <loc>http://localhost:4000/blade/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/MAD/</loc>
+        <loc>http://localhost:4000/awesome-sites/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/yudish/</loc>
+        <loc>http://localhost:4000/MAD/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/spring/</loc>
+        <loc>http://localhost:4000/yudish/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/vyaasa/</loc>
+        <loc>http://localhost:4000/spring/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/twister/</loc>
+        <loc>http://localhost:4000/vyaasa/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/trophy/</loc>
+        <loc>http://localhost:4000/twister/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/AD/</loc>
+        <loc>http://localhost:4000/trophy/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/treat/</loc>
+        <loc>http://localhost:4000/AD/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/stately/</loc>
+        <loc>http://localhost:4000/treat/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/n/</loc>
+        <loc>http://localhost:4000/stately/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/limpid/</loc>
+        <loc>http://localhost:4000/n/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/academic/</loc>
+        <loc>http://localhost:4000/limpid/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/sustain/</loc>
+        <loc>http://localhost:4000/academic/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/material/</loc>
+        <loc>http://localhost:4000/sustain/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/strange/</loc>
+        <loc>http://localhost:4000/material/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/stack-problems/</loc>
+        <loc>http://localhost:4000/strange/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/skinny-bones/</loc>
+        <loc>http://localhost:4000/stack-problems/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/AD/</loc>
+        <loc>http://localhost:4000/skinny-bones/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/single-paged/</loc>
+        <loc>http://localhost:4000/AD/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/simplest/</loc>
+        <loc>http://localhost:4000/single-paged/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/materialized/</loc>
+        <loc>http://localhost:4000/simplest/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/bare-minimum/</loc>
+        <loc>http://localhost:4000/materialized/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/modernist/</loc>
+        <loc>http://localhost:4000/bare-minimum/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/hagura/</loc>
+        <loc>http://localhost:4000/modernist/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/comical/</loc>
+        <loc>http://localhost:4000/hagura/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/AD/</loc>
+        <loc>http://localhost:4000/comical/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/photorama/</loc>
+        <loc>http://localhost:4000/AD/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/leonids/</loc>
+        <loc>http://localhost:4000/photorama/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/leapday/</loc>
+        <loc>http://localhost:4000/leonids/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/jekyll-documentation/</loc>
+        <loc>http://localhost:4000/leapday/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/jasper/</loc>
+        <loc>http://localhost:4000/jekyll-documentation/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/jackal/</loc>
+        <loc>http://localhost:4000/jasper/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/indigo/</loc>
+        <loc>http://localhost:4000/jackal/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/hcz/</loc>
+        <loc>http://localhost:4000/indigo/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/AD/</loc>
+        <loc>http://localhost:4000/hcz/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/hacker/</loc>
+        <loc>http://localhost:4000/AD/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/gravity/</loc>
+        <loc>http://localhost:4000/hacker/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/dotx/</loc>
+        <loc>http://localhost:4000/gravity/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/dinky/</loc>
+        <loc>http://localhost:4000/dotx/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/decent/</loc>
+        <loc>http://localhost:4000/dinky/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/chilly-blue/</loc>
+        <loc>http://localhost:4000/decent/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/cayman/</loc>
+        <loc>http://localhost:4000/chilly-blue/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/AD/</loc>
+        <loc>http://localhost:4000/cayman/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/cards/</loc>
+        <loc>http://localhost:4000/AD/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/accent/</loc>
+        <loc>http://localhost:4000/cards/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/will-jekyll/</loc>
+        <loc>http://localhost:4000/accent/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/vitae/</loc>
+        <loc>http://localhost:4000/will-jekyll/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/thinkings-org/</loc>
+        <loc>http://localhost:4000/vitae/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/plain/</loc>
+        <loc>http://localhost:4000/thinkings-org/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/mug/</loc>
+        <loc>http://localhost:4000/plain/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/AD/</loc>
+        <loc>http://localhost:4000/mug/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/minimal/</loc>
+        <loc>http://localhost:4000/AD/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/lambda/</loc>
+        <loc>http://localhost:4000/minimal/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/beautiful-jekyll/</loc>
+        <loc>http://localhost:4000/lambda/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/chalk/</loc>
+        <loc>http://localhost:4000/beautiful-jekyll/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/type/</loc>
+        <loc>http://localhost:4000/chalk/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/pixyll/</loc>
+        <loc>http://localhost:4000/type/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/mediator/</loc>
+        <loc>http://localhost:4000/pixyll/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/shiori/</loc>
+        <loc>http://localhost:4000/mediator/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/architect/</loc>
+        <loc>http://localhost:4000/shiori/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/AD/</loc>
+        <loc>http://localhost:4000/architect/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/thinny/</loc>
+        <loc>http://localhost:4000/AD/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/hikari/</loc>
+        <loc>http://localhost:4000/thinny/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/solo/</loc>
+        <loc>http://localhost:4000/hikari/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/thunder/</loc>
+        <loc>http://localhost:4000/solo/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/balzac/</loc>
+        <loc>http://localhost:4000/thunder/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/so-simple/</loc>
+        <loc>http://localhost:4000/balzac/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/centrarium/</loc>
+        <loc>http://localhost:4000/so-simple/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/trio/</loc>
+        <loc>http://localhost:4000/centrarium/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/kiko/</loc>
+        <loc>http://localhost:4000/trio/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/AD/</loc>
+        <loc>http://localhost:4000/kiko/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/emerald/</loc>
+        <loc>http://localhost:4000/AD/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/karna/</loc>
+        <loc>http://localhost:4000/emerald/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/jekyll-now/</loc>
+        <loc>http://localhost:4000/karna/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/dbyll/</loc>
+        <loc>http://localhost:4000/jekyll-now/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/hpstr/</loc>
+        <loc>http://localhost:4000/dbyll/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/hyde/</loc>
+        <loc>http://localhost:4000/hpstr/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/lanyon/</loc>
+        <loc>http://localhost:4000/hyde/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/poole/</loc>
+        <loc>http://localhost:4000/lanyon/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/poole/</loc>
     </url>
        
     
     <url>
-        <loc>https://jekyll-themes.com/premium/appszone/</loc>
+        <loc>http://localhost:4000/premium/appszone/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/premium/aspire/</loc>
+        <loc>http://localhost:4000/premium/aspire/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/premium/avocado/</loc>
+        <loc>http://localhost:4000/premium/avocado/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/premium/blogbox/</loc>
+        <loc>http://localhost:4000/premium/blogbox/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/premium/bloginn/</loc>
+        <loc>http://localhost:4000/premium/bloginn/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/premium/cartwheel/</loc>
+        <loc>http://localhost:4000/premium/cartwheel/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/premium/delicious/</loc>
+        <loc>http://localhost:4000/premium/delicious/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/premium/desk/</loc>
+        <loc>http://localhost:4000/premium/desk/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/premium/devoll/</loc>
+        <loc>http://localhost:4000/premium/devoll/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/premium/docs/</loc>
+        <loc>http://localhost:4000/premium/docs/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/premium/documenter/</loc>
+        <loc>http://localhost:4000/premium/documenter/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/premium/doks/</loc>
+        <loc>http://localhost:4000/premium/doks/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/premium/drava/</loc>
+        <loc>http://localhost:4000/premium/drava/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/premium/east/</loc>
+        <loc>http://localhost:4000/premium/east/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/premium/elbe/</loc>
+        <loc>http://localhost:4000/premium/elbe/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/premium/hashtag/</loc>
+        <loc>http://localhost:4000/premium/hashtag/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/premium/jekyler/</loc>
+        <loc>http://localhost:4000/premium/jekyler/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/premium/jekyllx/</loc>
+        <loc>http://localhost:4000/premium/jekyllx/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/premium/kunstnerisk/</loc>
+        <loc>http://localhost:4000/premium/kunstnerisk/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/premium/lavar/</loc>
+        <loc>http://localhost:4000/premium/lavar/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/premium/lens/</loc>
+        <loc>http://localhost:4000/premium/lens/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/premium/maxima/</loc>
+        <loc>http://localhost:4000/premium/maxima/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/premium/meuse/</loc>
+        <loc>http://localhost:4000/premium/meuse/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/premium/midan/</loc>
+        <loc>http://localhost:4000/premium/midan/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/premium/nubia/</loc>
+        <loc>http://localhost:4000/premium/nubia/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/premium/osum/</loc>
+        <loc>http://localhost:4000/premium/osum/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/premium/sera/</loc>
+        <loc>http://localhost:4000/premium/sera/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/premium/squarebox/</loc>
+        <loc>http://localhost:4000/premium/squarebox/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/premium/steve/</loc>
+        <loc>http://localhost:4000/premium/steve/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/premium/vida/</loc>
+        <loc>http://localhost:4000/premium/vida/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/premium/wrap/</loc>
+        <loc>http://localhost:4000/premium/wrap/</loc>
     </url>
     
     <url>
-        <loc>https://jekyll-themes.com/premium/writer/</loc>
+        <loc>http://localhost:4000/premium/writer/</loc>
     </url>
     
 
@@ -1042,7 +1046,7 @@
     
     
     <url>
-        <loc>https://jekyll-themes.com/404.html</loc>
+        <loc>http://localhost:4000/404.html</loc>
     </url>
     
     
@@ -1056,7 +1060,7 @@
     
     
     <url>
-        <loc>https://jekyll-themes.com/get-updates/</loc>
+        <loc>http://localhost:4000/get-updates/</loc>
     </url>
     
     
@@ -1066,21 +1070,7 @@
     
     
     <url>
-        <loc>https://jekyll-themes.com/</loc>
-    </url>
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    <url>
-        <loc>https://jekyll-themes.com/premium/</loc>
+        <loc>http://localhost:4000/</loc>
     </url>
     
     
@@ -1094,7 +1084,7 @@
     
     
     <url>
-        <loc>https://jekyll-themes.com/search/</loc>
+        <loc>http://localhost:4000/premium/</loc>
     </url>
     
     
@@ -1108,7 +1098,21 @@
     
     
     <url>
-        <loc>https://jekyll-themes.com/submit/</loc>
+        <loc>http://localhost:4000/search/</loc>
+    </url>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <url>
+        <loc>http://localhost:4000/submit/</loc>
     </url>
     
     
@@ -1118,7 +1122,7 @@
     
     
     <url>
-        <loc>https://jekyll-themes.com/poole/LICENSE.md</loc>
+        <loc>http://localhost:4000/poole/LICENSE.md</loc>
     </url>
     
     
@@ -1128,7 +1132,7 @@
     
     
     <url>
-        <loc>https://jekyll-themes.com/hacker/CONTRIBUTING.md</loc>
+        <loc>http://localhost:4000/hacker/CONTRIBUTING.md</loc>
     </url>
     
     
@@ -1138,7 +1142,7 @@
     
     
     <url>
-        <loc>https://jekyll-themes.com/modernist/CONTRIBUTING.md</loc>
+        <loc>http://localhost:4000/modernist/CONTRIBUTING.md</loc>
     </url>
     
     
@@ -1148,7 +1152,7 @@
     
     
     <url>
-        <loc>https://jekyll-themes.com/tactile/CONTRIBUTING.md</loc>
+        <loc>http://localhost:4000/tactile/CONTRIBUTING.md</loc>
     </url>
     
     
@@ -1158,7 +1162,7 @@
     
     
     <url>
-        <loc>https://jekyll-themes.com/hilmi/LICENSE.md</loc>
+        <loc>http://localhost:4000/hilmi/LICENSE.md</loc>
     </url>
     
     
@@ -1168,7 +1172,7 @@
     
     
     <url>
-        <loc>https://jekyll-themes.com/long-haul/LICENSE</loc>
+        <loc>http://localhost:4000/long-haul/LICENSE</loc>
     </url>
     
     
@@ -1178,7 +1182,7 @@
     
     
     <url>
-        <loc>https://jekyll-themes.com/time-machine/CONTRIBUTING.md</loc>
+        <loc>http://localhost:4000/time-machine/CONTRIBUTING.md</loc>
     </url>
     
     
@@ -1188,7 +1192,7 @@
     
     
     <url>
-        <loc>https://jekyll-themes.com/cayman-blog/customizing</loc>
+        <loc>http://localhost:4000/cayman-blog/customizing</loc>
     </url>
     
     
@@ -1198,7 +1202,7 @@
     
     
     <url>
-        <loc>https://jekyll-themes.com/cayman-blog/gem-install</loc>
+        <loc>http://localhost:4000/cayman-blog/gem-install</loc>
     </url>
     
     
@@ -1208,7 +1212,7 @@
     
     
     <url>
-        <loc>https://jekyll-themes.com/cayman-blog/CONTRIBUTING.md</loc>
+        <loc>http://localhost:4000/cayman-blog/CONTRIBUTING.md</loc>
     </url>
     
     
@@ -1218,7 +1222,7 @@
     
     
     <url>
-        <loc>https://jekyll-themes.com/next/README.en.md</loc>
+        <loc>http://localhost:4000/next/README.en.md</loc>
     </url>
     
     
@@ -1228,7 +1232,7 @@
     
     
     <url>
-        <loc>https://jekyll-themes.com/basically-basic/_config.yml</loc>
+        <loc>http://localhost:4000/basically-basic/_config.yml</loc>
     </url>
     
     
@@ -1238,7 +1242,7 @@
     
     
     <url>
-        <loc>https://jekyll-themes.com/basically-basic/docs</loc>
+        <loc>http://localhost:4000/basically-basic/docs</loc>
     </url>
     
     
@@ -1248,7 +1252,7 @@
     
     
     <url>
-        <loc>https://jekyll-themes.com/basically-basic/index.md</loc>
+        <loc>http://localhost:4000/basically-basic/index.md</loc>
     </url>
     
     
@@ -1258,7 +1262,7 @@
     
     
     <url>
-        <loc>https://jekyll-themes.com/basically-basic/_includes/head.html</loc>
+        <loc>http://localhost:4000/basically-basic/_includes/head.html</loc>
     </url>
     
     
@@ -1268,7 +1272,7 @@
     
     
     <url>
-        <loc>https://jekyll-themes.com/basically-basic/assets/stylesheets/main.scss</loc>
+        <loc>http://localhost:4000/basically-basic/assets/stylesheets/main.scss</loc>
     </url>
     
     
@@ -1278,7 +1282,7 @@
     
     
     <url>
-        <loc>https://jekyll-themes.com/eventually-jekyll-theme/</loc>
+        <loc>http://localhost:4000/eventually-jekyll-theme/</loc>
     </url>
     
     
@@ -1288,7 +1292,7 @@
     
     
     <url>
-        <loc>https://jekyll-themes.com/jekyll-timeline/</loc>
+        <loc>http://localhost:4000/jekyll-timeline/</loc>
     </url>
     
     
@@ -1298,7 +1302,7 @@
     
     
     <url>
-        <loc>https://jekyll-themes.com/diary/</loc>
+        <loc>http://localhost:4000/diary/</loc>
     </url>
     
     
@@ -1308,7 +1312,7 @@
     
     
     <url>
-        <loc>https://jekyll-themes.com/jekyll-clone/</loc>
+        <loc>http://localhost:4000/jekyll-clone/</loc>
     </url>
     
     
@@ -1318,7 +1322,7 @@
     
     
     <url>
-        <loc>https://jekyll-themes.com/example</loc>
+        <loc>http://localhost:4000/example</loc>
     </url>
     
     
@@ -1328,7 +1332,7 @@
     
     
     <url>
-        <loc>https://jekyll-themes.com/AD</loc>
+        <loc>http://localhost:4000/AD</loc>
     </url>
     
     
@@ -1338,7 +1342,7 @@
     
     
     <url>
-        <loc>https://jekyll-themes.com/change/LICENSE.md</loc>
+        <loc>http://localhost:4000/change/LICENSE.md</loc>
     </url>
     
     
@@ -1348,7 +1352,7 @@
     
     
     <url>
-        <loc>https://jekyll-themes.com/LICENSE</loc>
+        <loc>http://localhost:4000/LICENSE</loc>
     </url>
     
     
@@ -1358,8 +1362,12 @@
     
     
     <url>
-        <loc>https://jekyll-themes.com/online</loc>
+        <loc>http://localhost:4000/online</loc>
     </url>
+    
+    
+    
+    
     
     
     

@@ -1,10 +1,11 @@
 <!DOCTYPE html>
 <html lang="en-US">
   <meta charset="utf-8">
-  <title>Redirecting…</title>
-  <link rel="canonical" href="https://jekyll-themes.com/">
-  <meta http-equiv="refresh" content="0; url=https://jekyll-themes.com/">
-  <h1>Redirecting…</h1>
-  <a href="https://jekyll-themes.com/">Click here if you are not redirected.</a>
-  <script>location="https://jekyll-themes.com/"</script>
+  <title>Redirecting&hellip;</title>
+  <link rel="canonical" href="http://localhost:4000/">
+  <meta http-equiv="refresh" content="0; url=http://localhost:4000/">
+  <meta name="robots" content="noindex">
+  <h1>Redirecting&hellip;</h1>
+  <a href="http://localhost:4000/">Click here if you are not redirected.</a>
+  <script>location="http://localhost:4000/"</script>
 </html>
