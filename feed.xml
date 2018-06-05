@@ -3,36 +3,19 @@
   <channel>
     <title>Jekyll Themes</title>
     <description>A collection of free jekyll themes and templates readily available to download.</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 30 May 2018 20:12:05 +0530</pubDate>
-    <lastBuildDate>Wed, 30 May 2018 20:12:05 +0530</lastBuildDate>
+    <link>https://jekyll-themes.com/</link>
+    <atom:link href="https://jekyll-themes.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 05 Jun 2018 19:52:52 +0530</pubDate>
+    <lastBuildDate>Tue, 05 Jun 2018 19:52:52 +0530</lastBuildDate>
     <generator>Jekyll v3.8.2</generator>
-    
-      <item>
-        <title>Jekyll For Everyone</title>
-        <description>
-</description>
-        <pubDate>Fri, 13 Oct 2017 00:00:00 +0530</pubDate>
-        <link>http://localhost:4000/jekyll-for-everyone/</link>
-        <guid isPermaLink="true">http://localhost:4000/jekyll-for-everyone/</guid>
-        
-        
-        <category>minimal</category>
-        
-        <category>resume</category>
-        
-        <category>book</category>
-        
-      </item>
     
       <item>
         <title>Text</title>
         <description>
 </description>
         <pubDate>Thu, 12 Oct 2017 00:00:00 +0530</pubDate>
-        <link>http://localhost:4000/text/</link>
-        <guid isPermaLink="true">http://localhost:4000/text/</guid>
+        <link>https://jekyll-themes.com/text/</link>
+        <guid isPermaLink="true">https://jekyll-themes.com/text/</guid>
         
         
         <category>minimal</category>
@@ -48,8 +31,8 @@
         <description>
 </description>
         <pubDate>Wed, 11 Oct 2017 00:00:00 +0530</pubDate>
-        <link>http://localhost:4000/al-folio/</link>
-        <guid isPermaLink="true">http://localhost:4000/al-folio/</guid>
+        <link>https://jekyll-themes.com/al-folio/</link>
+        <guid isPermaLink="true">https://jekyll-themes.com/al-folio/</guid>
         
         
         <category>minimal</category>
@@ -65,8 +48,8 @@
         <description>
 </description>
         <pubDate>Tue, 10 Oct 2017 00:00:00 +0530</pubDate>
-        <link>http://localhost:4000/swiss/</link>
-        <guid isPermaLink="true">http://localhost:4000/swiss/</guid>
+        <link>https://jekyll-themes.com/swiss/</link>
+        <guid isPermaLink="true">https://jekyll-themes.com/swiss/</guid>
         
         
         <category>minimal</category>
@@ -80,8 +63,8 @@
         <description>
 </description>
         <pubDate>Mon, 09 Oct 2017 00:00:00 +0530</pubDate>
-        <link>http://localhost:4000/cards-jekyll-template/</link>
-        <guid isPermaLink="true">http://localhost:4000/cards-jekyll-template/</guid>
+        <link>https://jekyll-themes.com/cards-jekyll-template/</link>
+        <guid isPermaLink="true">https://jekyll-themes.com/cards-jekyll-template/</guid>
         
         
         <category>minimal</category>
@@ -99,8 +82,8 @@
         <description>
 </description>
         <pubDate>Sun, 08 Oct 2017 00:00:00 +0530</pubDate>
-        <link>http://localhost:4000/junior/</link>
-        <guid isPermaLink="true">http://localhost:4000/junior/</guid>
+        <link>https://jekyll-themes.com/junior/</link>
+        <guid isPermaLink="true">https://jekyll-themes.com/junior/</guid>
         
         
         <category>minimal</category>
@@ -114,8 +97,8 @@
         <description>
 </description>
         <pubDate>Sat, 07 Oct 2017 00:00:00 +0530</pubDate>
-        <link>http://localhost:4000/pineapple/</link>
-        <guid isPermaLink="true">http://localhost:4000/pineapple/</guid>
+        <link>https://jekyll-themes.com/pineapple/</link>
+        <guid isPermaLink="true">https://jekyll-themes.com/pineapple/</guid>
         
         
         <category>minimal</category>
@@ -129,8 +112,8 @@
         <description>
 </description>
         <pubDate>Fri, 06 Oct 2017 00:00:00 +0530</pubDate>
-        <link>http://localhost:4000/business/</link>
-        <guid isPermaLink="true">http://localhost:4000/business/</guid>
+        <link>https://jekyll-themes.com/business/</link>
+        <guid isPermaLink="true">https://jekyll-themes.com/business/</guid>
         
         
         <category>minimal</category>
@@ -146,8 +129,8 @@
         <description>
 </description>
         <pubDate>Thu, 05 Oct 2017 00:00:00 +0530</pubDate>
-        <link>http://localhost:4000/sleek/</link>
-        <guid isPermaLink="true">http://localhost:4000/sleek/</guid>
+        <link>https://jekyll-themes.com/sleek/</link>
+        <guid isPermaLink="true">https://jekyll-themes.com/sleek/</guid>
         
         
         <category>minimal</category>
@@ -161,8 +144,8 @@
         <description>
 </description>
         <pubDate>Wed, 04 Oct 2017 00:00:00 +0530</pubDate>
-        <link>http://localhost:4000/mediumish/</link>
-        <guid isPermaLink="true">http://localhost:4000/mediumish/</guid>
+        <link>https://jekyll-themes.com/mediumish/</link>
+        <guid isPermaLink="true">https://jekyll-themes.com/mediumish/</guid>
         
         
         <category>minimal</category>
@@ -170,6 +153,23 @@
         <category>typography</category>
         
         <category>cards</category>
+        
+      </item>
+    
+      <item>
+        <title>Pudhina</title>
+        <description>
+</description>
+        <pubDate>Tue, 03 Oct 2017 00:00:00 +0530</pubDate>
+        <link>https://jekyll-themes.com/pudhina/</link>
+        <guid isPermaLink="true">https://jekyll-themes.com/pudhina/</guid>
+        
+        
+        <category>minimal</category>
+        
+        <category>typography</category>
+        
+        <category>resume</category>
         
       </item>
     

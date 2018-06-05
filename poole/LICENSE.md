@@ -2,10 +2,10 @@
 <html lang="en-US">
   <meta charset="utf-8">
   <title>Redirecting&hellip;</title>
-  <link rel="canonical" href="http://localhost:4000/poole/">
-  <meta http-equiv="refresh" content="0; url=http://localhost:4000/poole/">
+  <link rel="canonical" href="https://jekyll-themes.com/poole/">
+  <meta http-equiv="refresh" content="0; url=https://jekyll-themes.com/poole/">
   <meta name="robots" content="noindex">
   <h1>Redirecting&hellip;</h1>
-  <a href="http://localhost:4000/poole/">Click here if you are not redirected.</a>
-  <script>location="http://localhost:4000/poole/"</script>
+  <a href="https://jekyll-themes.com/poole/">Click here if you are not redirected.</a>
+  <script>location="https://jekyll-themes.com/poole/"</script>
 </html>
