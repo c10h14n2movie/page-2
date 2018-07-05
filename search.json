@@ -2,6 +2,18 @@
   
     
     {
+      "category" : "minimal, onepage",
+      "title"    : "Artist Theme",
+      "url"      : "/artist-theme/",
+      "image"    : "Artists-Theme.jpg",
+      "dev"      : "devtips"
+    } 
+
+    ,
+    
+  
+    
+    {
       "category" : "minimal, onepage, landing",
       "title"    : "Landing Page Theme",
       "url"      : "/landing-page-theme/",
@@ -106,6 +118,8 @@
     } 
 
     ,
+    
+  
     
   
     

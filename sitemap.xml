@@ -2,6 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     
     <url>
+        <loc>https://jekyll-themes.com/artist-theme/</loc>
+    </url>
+    
+    <url>
         <loc>https://jekyll-themes.com/landing-page-theme/</loc>
     </url>
     
@@ -35,6 +39,10 @@
     
     <url>
         <loc>https://jekyll-themes.com/business/</loc>
+    </url>
+    
+    <url>
+        <loc>https://jekyll-themes.com/AD/</loc>
     </url>
     
     <url>
