@@ -2,6 +2,30 @@
   
     
     {
+      "category" : "minimal, onepage, landing",
+      "title"    : "Landing Page Theme",
+      "url"      : "/landing-page-theme/",
+      "image"    : "landing-page-theme.png",
+      "dev"      : "swcool"
+    } 
+
+    ,
+    
+  
+    
+    {
+      "category" : "minimal, typography",
+      "title"    : "Jekyll Szflex Theme",
+      "url"      : "/jekyll-szflex-theme/",
+      "image"    : "jekyll-szflex-theme.png",
+      "dev"      : "StartZeroGnu"
+    } 
+
+    ,
+    
+  
+    
+    {
       "category" : "minimal, typography, academic",
       "title"    : "Text",
       "url"      : "/text/",

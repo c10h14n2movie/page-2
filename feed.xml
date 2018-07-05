@@ -5,9 +5,41 @@
     <description>A collection of free jekyll themes and templates readily available to download.</description>
     <link>https://jekyll-themes.com/</link>
     <atom:link href="https://jekyll-themes.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 28 Jun 2018 11:10:05 +0530</pubDate>
-    <lastBuildDate>Thu, 28 Jun 2018 11:10:05 +0530</lastBuildDate>
+    <pubDate>Thu, 05 Jul 2018 14:33:44 +0530</pubDate>
+    <lastBuildDate>Thu, 05 Jul 2018 14:33:44 +0530</lastBuildDate>
     <generator>Jekyll v3.8.2</generator>
+    
+      <item>
+        <title>Landing Page Theme</title>
+        <description>
+</description>
+        <pubDate>Sun, 15 Oct 2017 00:00:00 +0530</pubDate>
+        <link>https://jekyll-themes.com/landing-page-theme/</link>
+        <guid isPermaLink="true">https://jekyll-themes.com/landing-page-theme/</guid>
+        
+        
+        <category>minimal</category>
+        
+        <category>onepage</category>
+        
+        <category>landing</category>
+        
+      </item>
+    
+      <item>
+        <title>Jekyll Szflex Theme</title>
+        <description>
+</description>
+        <pubDate>Sat, 14 Oct 2017 00:00:00 +0530</pubDate>
+        <link>https://jekyll-themes.com/jekyll-szflex-theme/</link>
+        <guid isPermaLink="true">https://jekyll-themes.com/jekyll-szflex-theme/</guid>
+        
+        
+        <category>minimal</category>
+        
+        <category>typography</category>
+        
+      </item>
     
       <item>
         <title>Text</title>
@@ -136,40 +168,6 @@
         <category>minimal</category>
         
         <category>cards</category>
-        
-      </item>
-    
-      <item>
-        <title>Mediumish</title>
-        <description>
-</description>
-        <pubDate>Wed, 04 Oct 2017 00:00:00 +0530</pubDate>
-        <link>https://jekyll-themes.com/mediumish/</link>
-        <guid isPermaLink="true">https://jekyll-themes.com/mediumish/</guid>
-        
-        
-        <category>minimal</category>
-        
-        <category>typography</category>
-        
-        <category>cards</category>
-        
-      </item>
-    
-      <item>
-        <title>Pudhina</title>
-        <description>
-</description>
-        <pubDate>Tue, 03 Oct 2017 00:00:00 +0530</pubDate>
-        <link>https://jekyll-themes.com/pudhina/</link>
-        <guid isPermaLink="true">https://jekyll-themes.com/pudhina/</guid>
-        
-        
-        <category>minimal</category>
-        
-        <category>typography</category>
-        
-        <category>resume</category>
         
       </item>
     
