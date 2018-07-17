@@ -2,6 +2,30 @@
   
     
     {
+      "category" : "minimal, typography",
+      "title"    : "Type On Strap",
+      "url"      : "/type-on-strap/",
+      "image"    : "type-on-strap.png",
+      "dev"      : "sylhare"
+    } 
+
+    ,
+    
+  
+    
+    {
+      "category" : "minimal, dark, typography",
+      "title"    : "Mutter",
+      "url"      : "/mutter/",
+      "image"    : "jekyll-theme-mutter.png",
+      "dev"      : "BLumia"
+    } 
+
+    ,
+    
+  
+    
+    {
       "category" : "minimal, dark, typography",
       "title"    : "Captains Log",
       "url"      : "/captains-log/",
