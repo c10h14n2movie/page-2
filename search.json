@@ -2,6 +2,18 @@
   
     
     {
+      "category" : "minimal, dark, typography",
+      "title"    : "Captains Log",
+      "url"      : "/captains-log/",
+      "image"    : "captains-log.png",
+      "dev"      : "mashlo"
+    } 
+
+    ,
+    
+  
+    
+    {
       "category" : "minimal, onepage",
       "title"    : "Artist Theme",
       "url"      : "/artist-theme/",

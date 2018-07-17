@@ -5,9 +5,26 @@
     <description>A collection of free jekyll themes and templates readily available to download.</description>
     <link>https://jekyll-themes.com/</link>
     <atom:link href="https://jekyll-themes.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 17 Jul 2018 07:20:43 +0530</pubDate>
-    <lastBuildDate>Tue, 17 Jul 2018 07:20:43 +0530</lastBuildDate>
+    <pubDate>Tue, 17 Jul 2018 18:09:00 +0530</pubDate>
+    <lastBuildDate>Tue, 17 Jul 2018 18:09:00 +0530</lastBuildDate>
     <generator>Jekyll v3.8.2</generator>
+    
+      <item>
+        <title>Captains Log</title>
+        <description>
+</description>
+        <pubDate>Tue, 17 Oct 2017 00:00:00 +0530</pubDate>
+        <link>https://jekyll-themes.com/captains-log/</link>
+        <guid isPermaLink="true">https://jekyll-themes.com/captains-log/</guid>
+        
+        
+        <category>minimal</category>
+        
+        <category>dark</category>
+        
+        <category>typography</category>
+        
+      </item>
     
       <item>
         <title>Artist Theme</title>
@@ -151,23 +168,6 @@
         <category>minimal</category>
         
         <category>cards</category>
-        
-      </item>
-    
-      <item>
-        <title>Business</title>
-        <description>
-</description>
-        <pubDate>Fri, 06 Oct 2017 00:00:00 +0530</pubDate>
-        <link>https://jekyll-themes.com/business/</link>
-        <guid isPermaLink="true">https://jekyll-themes.com/business/</guid>
-        
-        
-        <category>minimal</category>
-        
-        <category>slider</category>
-        
-        <category>menubar</category>
         
       </item>
     
