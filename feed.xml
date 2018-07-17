@@ -5,9 +5,26 @@
     <description>A collection of free jekyll themes and templates readily available to download.</description>
     <link>https://jekyll-themes.com/</link>
     <atom:link href="https://jekyll-themes.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 17 Jul 2018 18:38:34 +0530</pubDate>
-    <lastBuildDate>Tue, 17 Jul 2018 18:38:34 +0530</lastBuildDate>
+    <pubDate>Tue, 17 Jul 2018 19:00:59 +0530</pubDate>
+    <lastBuildDate>Tue, 17 Jul 2018 19:00:59 +0530</lastBuildDate>
     <generator>Jekyll v3.8.2</generator>
+    
+      <item>
+        <title>Flexton</title>
+        <description>
+</description>
+        <pubDate>Fri, 20 Oct 2017 00:00:00 +0530</pubDate>
+        <link>https://jekyll-themes.com/flexton/</link>
+        <guid isPermaLink="true">https://jekyll-themes.com/flexton/</guid>
+        
+        
+        <category>minimal</category>
+        
+        <category>portfolio</category>
+        
+        <category>cards</category>
+        
+      </item>
     
       <item>
         <title>Type On Strap</title>
@@ -151,25 +168,6 @@
         <category>minimal</category>
         
         <category>typography</category>
-        
-      </item>
-    
-      <item>
-        <title>Cards Jekyll Template</title>
-        <description>
-</description>
-        <pubDate>Mon, 09 Oct 2017 00:00:00 +0530</pubDate>
-        <link>https://jekyll-themes.com/cards-jekyll-template/</link>
-        <guid isPermaLink="true">https://jekyll-themes.com/cards-jekyll-template/</guid>
-        
-        
-        <category>minimal</category>
-        
-        <category>typography</category>
-        
-        <category>cards</category>
-        
-        <category>menubar</category>
         
       </item>
     

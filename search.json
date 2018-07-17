@@ -2,6 +2,18 @@
   
     
     {
+      "category" : "minimal, portfolio, cards",
+      "title"    : "Flexton",
+      "url"      : "/flexton/",
+      "image"    : "flexton.jpg",
+      "dev"      : "artemsheludko"
+    } 
+
+    ,
+    
+  
+    
+    {
       "category" : "minimal, typography",
       "title"    : "Type On Strap",
       "url"      : "/type-on-strap/",
