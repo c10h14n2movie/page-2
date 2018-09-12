@@ -3,6 +3,18 @@
     
     {
       "category" : "minimal, portfolio, cards",
+      "title"    : "Lokmont",
+      "url"      : "/lokmont/",
+      "image"    : "lokmont.png",
+      "dev"      : "artemsheludko"
+    } 
+
+    ,
+    
+  
+    
+    {
+      "category" : "minimal, portfolio, cards",
       "title"    : "Flexton",
       "url"      : "/flexton/",
       "image"    : "flexton.jpg",
