@@ -2,6 +2,18 @@
   
     
     {
+      "category" : "minimal, cards, dark",
+      "title"    : "Galada",
+      "url"      : "/galada/",
+      "image"    : "galada.jpg",
+      "dev"      : "artemsheludko"
+    } 
+
+    ,
+    
+  
+    
+    {
       "category" : "minimal, portfolio, cards",
       "title"    : "Lokmont",
       "url"      : "/lokmont/",
